@@ -1,7 +1,7 @@
 {
-  "versionCode": 95,
-  "versionName": "1.32.0",
-  "notes": "APK now published on a public repo — no token needed to update the launcher.",
+  "versionCode": 96,
+  "versionName": "1.32.1",
+  "notes": "Drawer keeps the four most recent searches instead of two.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "46f6e4a35ad469c7001f46cafc746b9e9be7f088da2dac7e5bca2b9425f43f56"
+  "sha256": "f5985aa5a07f6bac47ac227b9542be00fa9ec0cc040909ab477f2b768206e1de"
 }
