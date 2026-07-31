@@ -1,7 +1,7 @@
 {
-  "versionCode": 96,
-  "versionName": "1.32.1",
-  "notes": "Drawer keeps the four most recent searches instead of two.",
+  "versionCode": 97,
+  "versionName": "1.32.2",
+  "notes": "Signs the APK with every scheme and bypasses CDN caching on download — fixes 'problema ao analisar o pacote' during self-updates.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f5985aa5a07f6bac47ac227b9542be00fa9ec0cc040909ab477f2b768206e1de"
+  "sha256": "64db37faaa59220de025f3c5b8ff4ca444e55548850a89241e45682afc4efbe4"
 }
