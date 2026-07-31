@@ -1,7 +1,7 @@
 {
-  "versionCode": 101,
-  "versionName": "1.32.6",
-  "notes": "Update log now lives in Settings → Diagnostics next to the notification log, capped at 100 lines.",
+  "versionCode": 102,
+  "versionName": "1.33.0",
+  "notes": "Update flow now saves the APK to Downloads and shows a link to open it — no more auto-install dialogs from OEM installers.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6f583c38bc8a40d58dd10dd334f9a0cdea3b339ec165fffb88cedb9caa42ec59"
+  "sha256": "d38e49bb66ac686468526236e0936d75e50275a9c3512a256ee1ae27024808bd"
 }
