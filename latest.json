@@ -1,7 +1,7 @@
 {
-  "versionCode": 97,
-  "versionName": "1.32.2",
-  "notes": "Signs the APK with every scheme and bypasses CDN caching on download — fixes 'problema ao analisar o pacote' during self-updates.",
+  "versionCode": 98,
+  "versionName": "1.32.3",
+  "notes": "Test build — verifying the v1+v2+v3 signing + no-cache download fix on device.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "64db37faaa59220de025f3c5b8ff4ca444e55548850a89241e45682afc4efbe4"
+  "sha256": "828517f93a12ad8afb963e79543d3f11c19848e73ace57319e2cbcab989412d4"
 }
