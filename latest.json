@@ -1,7 +1,7 @@
 {
-  "versionCode": 98,
-  "versionName": "1.32.3",
-  "notes": "Test build — verifying the v1+v2+v3 signing + no-cache download fix on device.",
+  "versionCode": 99,
+  "versionName": "1.32.4",
+  "notes": "Adds an Update log in Settings — every step of the self-updater is now visible so we can see what the system installer is choking on.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "828517f93a12ad8afb963e79543d3f11c19848e73ace57319e2cbcab989412d4"
+  "sha256": "8397e480ed721e1cb632ce634a8ce73f058314fff9fd7da63cc2fd7c85620ff3"
 }
