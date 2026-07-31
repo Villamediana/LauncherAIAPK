@@ -1,7 +1,7 @@
 {
-  "versionCode": 100,
-  "versionName": "1.32.5",
-  "notes": "Cloud engine waits and retries on rate-limit (429) instead of aborting; the Update panel unfreezes when the installer closes.",
+  "versionCode": 101,
+  "versionName": "1.32.6",
+  "notes": "Update log now lives in Settings → Diagnostics next to the notification log, capped at 100 lines.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "86bef97938ec9bc8d2697743d8ae0acb35ce7af9473481f2b7464965d2cab6fb"
+  "sha256": "6f583c38bc8a40d58dd10dd334f9a0cdea3b339ec165fffb88cedb9caa42ec59"
 }
