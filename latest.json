@@ -1,7 +1,7 @@
 {
-  "versionCode": 103,
-  "versionName": "1.33.1",
-  "notes": "The downloaded APK is deleted from Downloads automatically once Android finishes installing the update.",
+  "versionCode": 104,
+  "versionName": "1.34.0",
+  "notes": "Scroll gains a strength control — the model can now ask for a light nudge, a normal step, or a strong fling.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4a3f62e97f20d23f9ac05da2842091308f279e06a49ba9334e2ee8f548381a10"
+  "sha256": "f5ddbc613fcd30cd9ea8dec5cb8d94ba273d4d92b1d43c0de9db0d5488bf1bc5"
 }
