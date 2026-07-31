@@ -1,7 +1,7 @@
 {
-  "versionCode": 102,
-  "versionName": "1.33.0",
-  "notes": "Update flow now saves the APK to Downloads and shows a link to open it — no more auto-install dialogs from OEM installers.",
+  "versionCode": 103,
+  "versionName": "1.33.1",
+  "notes": "The downloaded APK is deleted from Downloads automatically once Android finishes installing the update.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "d38e49bb66ac686468526236e0936d75e50275a9c3512a256ee1ae27024808bd"
+  "sha256": "4a3f62e97f20d23f9ac05da2842091308f279e06a49ba9334e2ee8f548381a10"
 }
