@@ -1,7 +1,7 @@
 {
-  "versionCode": 109,
-  "versionName": "1.38.0",
-  "notes": "A now-playing card on the home screen for music and video, in the launcher's own paper, tinted by the artwork.",
+  "versionCode": 110,
+  "versionName": "1.38.1",
+  "notes": "The player card stays when paused, swipes to change track, and its bar can be dragged to seek.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c354f23c28e43bbcee1e6b261e698b8cc8760b553a7446e4dfdd6327af1ff376"
+  "sha256": "e0078455f764e11c3f896827aa02eff67dca33eba43d5b0cb4432167ec90aad5"
 }
