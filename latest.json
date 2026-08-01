@@ -1,7 +1,7 @@
 {
-  "versionCode": 124,
-  "versionName": "1.44.1",
-  "notes": "The notification model gets three minutes per step, and the give-up rule now budgets wasted CPU time instead of counting failures.",
+  "versionCode": 125,
+  "versionName": "1.45.0",
+  "notes": "Date, battery and weather share one line under the clock — tap it for the hours ahead and the days on your calendar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "65027f57a13ced745c7ed6df66d70c8304c08512b82392509799c52d43853168"
+  "sha256": "137b870320ef27d0228bdc731b1bd7fd512dad36001eb885d7908188542b8c64"
 }
