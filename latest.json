@@ -1,7 +1,7 @@
 {
-  "versionCode": 138,
-  "versionName": "1.56.0",
-  "notes": "A long-press on the clock goes straight to the style picker again, and the move-the-clock mode is gone.",
+  "versionCode": 139,
+  "versionName": "1.56.1",
+  "notes": "The date, battery and weather line now takes the ink colour you picked for your wallpaper, and so do the weather icons and the battery tints.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "7242481087786baea42f21ecc9972e3fbd4fc584cc5ca6545f5985dc0fb1ca6e"
+  "sha256": "d5ebf5028f5e802568640a8a8b7d441b414b03067443207e88171773622abe3f"
 }
