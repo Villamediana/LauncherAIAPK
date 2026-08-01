@@ -1,7 +1,7 @@
 {
-  "versionCode": 121,
-  "versionName": "1.43.2",
-  "notes": "Names no longer stick or overlap while scrubbing, big sections open at their top, and the letter shows beside the curve.",
+  "versionCode": 122,
+  "versionName": "1.43.3",
+  "notes": "The letter beside the alphabet no longer sits on top of the curve.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "63d8cef2c200a47a14190625d1db414b09d2081e3888bb7d91c869b122cec419"
+  "sha256": "5dca8790669330e10ec4fbc826b3c82541eacaad450fe310c58240a483356a18"
 }
