@@ -1,7 +1,7 @@
 {
-  "versionCode": 119,
-  "versionName": "1.43.0",
-  "notes": "The alphabet curves wider, hides letters with no apps, sets everything larger, and no longer overlaps names on a fast scrub.",
+  "versionCode": 120,
+  "versionName": "1.43.1",
+  "notes": "The date, battery and weather are plain readouts again — tapping them does nothing.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "fa389b4b13e53c3310ca0a8436fe8461742e062ad23314a4c4f76945ccf2de89"
+  "sha256": "85ea922c98299b45b119de9ddf0bfb55b0252090d5e6f0737a57c64c9e3f4ae1"
 }
