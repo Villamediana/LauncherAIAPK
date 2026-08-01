@@ -1,7 +1,7 @@
 {
-  "versionCode": 117,
-  "versionName": "1.41.1",
-  "notes": "The alphabet drops the ring that marked the thumb — the curve already says where it is.",
+  "versionCode": 118,
+  "versionName": "1.42.0",
+  "notes": "Tap the date for the calendar, the percentage for the battery screen, and the temperature for the weather.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "bcba0cf6d8cdc4b42c6f844bfb02df344197e34fb01aaac82a7432aa1ea5e524"
+  "sha256": "02397f970401e723dddbf57a4f3ada4cade540f025785efd0fdcfed55fb05c66"
 }
