@@ -1,7 +1,7 @@
 {
-  "versionCode": 139,
-  "versionName": "1.56.1",
-  "notes": "The date, battery and weather line now takes the ink colour you picked for your wallpaper, and so do the weather icons and the battery tints.",
+  "versionCode": 140,
+  "versionName": "1.56.2",
+  "notes": "The clock now sits on the same margin as the date under it and the app names below, instead of looking indented from both.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "d5ebf5028f5e802568640a8a8b7d441b414b03067443207e88171773622abe3f"
+  "sha256": "143eb645501c8b5b2ee05aadc080cd02e57afe86e2aa4a0ad9c98dd186767005"
 }
