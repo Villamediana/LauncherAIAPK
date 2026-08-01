@@ -1,7 +1,7 @@
 {
-  "versionCode": 115,
-  "versionName": "1.40.2",
-  "notes": "The player sits above the calendar, and a playing track no longer shows up again as a notification.",
+  "versionCode": 116,
+  "versionName": "1.41.0",
+  "notes": "The alphabet curves to the thumb, sits lower, and narrows the drawer to one letter; bigger rows and aligned edges.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "028b3235401d07336459d976a963c9a3dd21a7361b46e55f8401b729aa4e6bc3"
+  "sha256": "64babcaec2f11487861f6301ecf53c29804419e13c3a5162e5ae371d92a01d7f"
 }
