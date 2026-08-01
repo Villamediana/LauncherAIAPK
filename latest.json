@@ -1,7 +1,7 @@
 {
-  "versionCode": 136,
-  "versionName": "1.54.0",
-  "notes": "Wallpapers frame to the shape of your screen and no longer arrive zoomed in; the ink colour over a wallpaper changes only the home screen, not the theme; seven clock faces that actually look different, with previews that fit.",
+  "versionCode": 137,
+  "versionName": "1.55.0",
+  "notes": "Long-press the clock for a submenu: pick a style, or enter move mode and drag the clock and the strip under it to where you want them. The clock sheet also stops showing the status bar behind it.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "1aa0a4edde6b1f5176f693785d2212684882537e66fea9b9ed78745fe5a11dd6"
+  "sha256": "3c296cc044c446c2bb4cb6e4281a1c92e330c83b71000642ef4267e5e93246c7"
 }
