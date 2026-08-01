@@ -1,7 +1,7 @@
 {
-  "versionCode": 128,
-  "versionName": "1.48.0",
-  "notes": "Full localisation: every UI string is now in strings.xml with Portuguese and Spanish translations — the language chosen in setup finally takes effect across the whole app.",
+  "versionCode": 129,
+  "versionName": "1.48.1",
+  "notes": "Fixes the startup crash on fresh install — WithAppLanguage now preserves the ActivityResultRegistryOwner and other Activity-provided owners.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "8320498a45a72914d65ce4f818e8066d0a3842ce26970c647de33e7ddb1e5359"
+  "sha256": "bd75ae966cb059d685eac80d2f47dea1c85a688a9fce9e689bffa460be952623"
 }
