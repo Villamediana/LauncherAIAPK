@@ -1,7 +1,7 @@
 {
-  "versionCode": 132,
-  "versionName": "1.50.0",
-  "notes": "Long-press the clock to pick from four designs; wallpaper picker in Settings with panel opacity; softer ink in light mode; smaller drawer placeholder.",
+  "versionCode": 133,
+  "versionName": "1.51.0",
+  "notes": "Settings splits into Home, Assistente, Sistema, Dados — four subscreens with back navigation instead of a scrolling list of collapsibles.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "84ec6b15089e1544a3db962b7b9e04847eedcbef89248405975bbf9bc3879214"
+  "sha256": "32464ffd4ad4017f83784b96189e9d5961ed9c48ae0ebecfd9ea22573f8c92f5"
 }
