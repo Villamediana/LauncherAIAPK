@@ -1,7 +1,7 @@
 {
-  "versionCode": 131,
-  "versionName": "1.49.1",
-  "notes": "Actually hides the status bar behind the day sheet — the previous release read the wrong window.",
+  "versionCode": 132,
+  "versionName": "1.50.0",
+  "notes": "Long-press the clock to pick from four designs; wallpaper picker in Settings with panel opacity; softer ink in light mode; smaller drawer placeholder.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "a6511cf64e22d90cd00402d9868b1667f49c6ff97ed0d87ace275bb27cd64b46"
+  "sha256": "84ec6b15089e1544a3db962b7b9e04847eedcbef89248405975bbf9bc3879214"
 }
