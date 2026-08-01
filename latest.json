@@ -1,7 +1,7 @@
 {
-  "versionCode": 137,
-  "versionName": "1.55.0",
-  "notes": "Long-press the clock for a submenu: pick a style, or enter move mode and drag the clock and the strip under it to where you want them. The clock sheet also stops showing the status bar behind it.",
+  "versionCode": 138,
+  "versionName": "1.56.0",
+  "notes": "A long-press on the clock goes straight to the style picker again, and the move-the-clock mode is gone.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "3c296cc044c446c2bb4cb6e4281a1c92e330c83b71000642ef4267e5e93246c7"
+  "sha256": "7242481087786baea42f21ecc9972e3fbd4fc584cc5ca6545f5985dc0fb1ca6e"
 }
