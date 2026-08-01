@@ -1,7 +1,7 @@
 {
-  "versionCode": 114,
-  "versionName": "1.40.1",
-  "notes": "The player's progress line is gone — just the sleeve, the names and the three controls.",
+  "versionCode": 115,
+  "versionName": "1.40.2",
+  "notes": "The player sits above the calendar, and a playing track no longer shows up again as a notification.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "8fa1ab91500901aeebd25a91452bb91dcb03f4770e233273015da42c154875d1"
+  "sha256": "028b3235401d07336459d976a963c9a3dd21a7361b46e55f8401b729aa4e6bc3"
 }
