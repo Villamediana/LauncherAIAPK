@@ -1,7 +1,7 @@
 {
-  "versionCode": 113,
-  "versionName": "1.40.0",
-  "notes": "The player drops its card, grows the artwork, scrolls long titles, and answers a press with a bloom and a tick.",
+  "versionCode": 114,
+  "versionName": "1.40.1",
+  "notes": "The player's progress line is gone — just the sleeve, the names and the three controls.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c89f8691887306eec7b2514fbbd8c82a10fe2be6a01cdd4174d707e2a22fc81a"
+  "sha256": "8fa1ab91500901aeebd25a91452bb91dcb03f4770e233273015da42c154875d1"
 }
