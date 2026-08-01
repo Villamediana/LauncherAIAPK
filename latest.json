@@ -1,7 +1,7 @@
 {
-  "versionCode": 105,
-  "versionName": "1.35.0",
-  "notes": "Scroll now warns the model when it keeps rocking the same region; home calendar only shows events until tomorrow; recent searches capped at 3.",
+  "versionCode": 106,
+  "versionName": "1.36.0",
+  "notes": "On-device now has its own context window and a prompt sized for it — switching to the phone's model no longer fails with a token-limit error.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "1c2f5bbdfa74b482b2f677eeb4762c3f89609d3be2cdf01f492a0374d90b5e99"
+  "sha256": "561f7867b53bc3242ac297b583e5a20cd8241f29c92aff9b3fa779b3f49e05c0"
 }
