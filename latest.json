@@ -1,7 +1,7 @@
 {
-  "versionCode": 123,
-  "versionName": "1.44.0",
-  "notes": "Notification rewriting uses far shorter prompts, a realistic time budget, and stands down instead of burning battery when it cannot keep up.",
+  "versionCode": 124,
+  "versionName": "1.44.1",
+  "notes": "The notification model gets three minutes per step, and the give-up rule now budgets wasted CPU time instead of counting failures.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "ac529f9ea0177e65b9eb004e72a77ca6a9806f8d78c9703f88ae19bb7d509f7f"
+  "sha256": "65027f57a13ced745c7ed6df66d70c8304c08512b82392509799c52d43853168"
 }
