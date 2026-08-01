@@ -1,7 +1,7 @@
 {
-  "versionCode": 110,
-  "versionName": "1.38.1",
-  "notes": "The player card stays when paused, swipes to change track, and its bar can be dragged to seek.",
+  "versionCode": 111,
+  "versionName": "1.38.2",
+  "notes": "The player card is down to one button — swipe changes track, so the arrows are gone.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e0078455f764e11c3f896827aa02eff67dca33eba43d5b0cb4432167ec90aad5"
+  "sha256": "b68015acf0d1d9e6d54cc58070758cbf9d807cf95c31305186f3bdbf963d974d"
 }
