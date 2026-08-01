@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "1.36.0",
-  "notes": "On-device now has its own context window and a prompt sized for it — switching to the phone's model no longer fails with a token-limit error.",
+  "versionCode": 107,
+  "versionName": "1.36.1",
+  "notes": "Auto mode now gets the on-device prompt too, and the cloud prompt is back to exactly what it was.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "561f7867b53bc3242ac297b583e5a20cd8241f29c92aff9b3fa779b3f49e05c0"
+  "sha256": "e0d5ccfb69c5c27b71be28734490ab32f5ab6bd7a037038265f66cf284b11096"
 }
