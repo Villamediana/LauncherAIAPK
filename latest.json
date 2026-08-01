@@ -1,7 +1,7 @@
 {
-  "versionCode": 133,
-  "versionName": "1.51.0",
-  "notes": "Settings splits into Home, Assistente, Sistema, Dados — four subscreens with back navigation instead of a scrolling list of collapsibles.",
+  "versionCode": 134,
+  "versionName": "1.52.0",
+  "notes": "Wallpaper picker gains preview editor with pinch/pan/rotate; ink over wallpaper can be forced light or dark; panel opacity removed.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "32464ffd4ad4017f83784b96189e9d5961ed9c48ae0ebecfd9ea22573f8c92f5"
+  "sha256": "b0268e61c326a720530ec0ec0db7a5f4c91bd07d302a283ea29ce941c960e9d5"
 }
