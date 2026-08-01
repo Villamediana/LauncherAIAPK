@@ -1,7 +1,7 @@
 {
-  "versionCode": 116,
-  "versionName": "1.41.0",
-  "notes": "The alphabet curves to the thumb, sits lower, and narrows the drawer to one letter; bigger rows and aligned edges.",
+  "versionCode": 117,
+  "versionName": "1.41.1",
+  "notes": "The alphabet drops the ring that marked the thumb — the curve already says where it is.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "64babcaec2f11487861f6301ecf53c29804419e13c3a5162e5ae371d92a01d7f"
+  "sha256": "bcba0cf6d8cdc4b42c6f844bfb02df344197e34fb01aaac82a7432aa1ea5e524"
 }
