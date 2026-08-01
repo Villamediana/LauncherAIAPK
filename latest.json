@@ -1,7 +1,7 @@
 {
-  "versionCode": 112,
-  "versionName": "1.39.0",
-  "notes": "The player card has its skip buttons back, a timeline with times, and a gradient lifted from the artwork.",
+  "versionCode": 113,
+  "versionName": "1.40.0",
+  "notes": "The player drops its card, grows the artwork, scrolls long titles, and answers a press with a bloom and a tick.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "d048309eee95127047cce9c7146e6feeacde457f694b8a98757564575da294a0"
+  "sha256": "c89f8691887306eec7b2514fbbd8c82a10fe2be6a01cdd4174d707e2a22fc81a"
 }
