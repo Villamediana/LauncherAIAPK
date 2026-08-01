@@ -1,7 +1,7 @@
 {
-  "versionCode": 129,
-  "versionName": "1.48.1",
-  "notes": "Fixes the startup crash on fresh install — WithAppLanguage now preserves the ActivityResultRegistryOwner and other Activity-provided owners.",
+  "versionCode": 130,
+  "versionName": "1.49.0",
+  "notes": "New Permissions section in Settings groups every access Aura needs; New event no longer asks every time; the day sheet respects the hide-status-bar toggle.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "bd75ae966cb059d685eac80d2f47dea1c85a688a9fce9e689bffa460be952623"
+  "sha256": "cb3ca71829c08d949401692d9a177cc41d6c088311e067021e383d7cd669001f"
 }
