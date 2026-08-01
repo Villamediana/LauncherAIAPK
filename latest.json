@@ -1,7 +1,7 @@
 {
-  "versionCode": 127,
-  "versionName": "1.47.0",
-  "notes": "Hand-drawn weather and charging icons, no forecast cluttering the agenda days, one temperature for now, and New event asks which calendar.",
+  "versionCode": 128,
+  "versionName": "1.48.0",
+  "notes": "Full localisation: every UI string is now in strings.xml with Portuguese and Spanish translations — the language chosen in setup finally takes effect across the whole app.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "74d3f4fd9ae946a70197da316704687c0e8cf6b1cb38f695f376d8c6b87fcf44"
+  "sha256": "8320498a45a72914d65ce4f818e8066d0a3842ce26970c647de33e7ddb1e5359"
 }
