@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
-  "versionName": "1.42.0",
-  "notes": "Tap the date for the calendar, the percentage for the battery screen, and the temperature for the weather.",
+  "versionCode": 119,
+  "versionName": "1.43.0",
+  "notes": "The alphabet curves wider, hides letters with no apps, sets everything larger, and no longer overlaps names on a fast scrub.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "02397f970401e723dddbf57a4f3ada4cade540f025785efd0fdcfed55fb05c66"
+  "sha256": "fa389b4b13e53c3310ca0a8436fe8461742e062ad23314a4c4f76945ccf2de89"
 }
