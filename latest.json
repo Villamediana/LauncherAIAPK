@@ -1,7 +1,7 @@
 {
-  "versionCode": 135,
-  "versionName": "1.53.0",
-  "notes": "Settings sections fold up; new fetch_image and share_image tools let the assistant actually bring pictures into chat and hand them off to Android's share sheet.",
+  "versionCode": 136,
+  "versionName": "1.54.0",
+  "notes": "Wallpapers frame to the shape of your screen and no longer arrive zoomed in; the ink colour over a wallpaper changes only the home screen, not the theme; seven clock faces that actually look different, with previews that fit.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "80184d4ea6cbf8e8c0b52214e2c2bf140a8736a95f05e10e5a5ab289b8ea13e6"
+  "sha256": "1aa0a4edde6b1f5176f693785d2212684882537e66fea9b9ed78745fe5a11dd6"
 }
