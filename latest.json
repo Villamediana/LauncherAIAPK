@@ -1,7 +1,7 @@
 {
-  "versionCode": 107,
-  "versionName": "1.36.1",
-  "notes": "Auto mode now gets the on-device prompt too, and the cloud prompt is back to exactly what it was.",
+  "versionCode": 108,
+  "versionName": "1.37.0",
+  "notes": "Aura no longer says a song is playing when it only opened the player — it listens for sound and finishes the job on screen.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e0d5ccfb69c5c27b71be28734490ab32f5ab6bd7a037038265f66cf284b11096"
+  "sha256": "5f740ffcb4fdb2a3e2078bfab7ea650f2f01bb97747d303cf48cd953c17753e2"
 }
