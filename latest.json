@@ -1,7 +1,7 @@
 {
-  "versionCode": 111,
-  "versionName": "1.38.2",
-  "notes": "The player card is down to one button — swipe changes track, so the arrows are gone.",
+  "versionCode": 112,
+  "versionName": "1.39.0",
+  "notes": "The player card has its skip buttons back, a timeline with times, and a gradient lifted from the artwork.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "b68015acf0d1d9e6d54cc58070758cbf9d807cf95c31305186f3bdbf963d974d"
+  "sha256": "d048309eee95127047cce9c7146e6feeacde457f694b8a98757564575da294a0"
 }
