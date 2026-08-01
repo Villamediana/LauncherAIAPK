@@ -1,7 +1,7 @@
 {
-  "versionCode": 120,
-  "versionName": "1.43.1",
-  "notes": "The date, battery and weather are plain readouts again — tapping them does nothing.",
+  "versionCode": 121,
+  "versionName": "1.43.2",
+  "notes": "Names no longer stick or overlap while scrubbing, big sections open at their top, and the letter shows beside the curve.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "85ea922c98299b45b119de9ddf0bfb55b0252090d5e6f0737a57c64c9e3f4ae1"
+  "sha256": "63d8cef2c200a47a14190625d1db414b09d2081e3888bb7d91c869b122cec419"
 }
