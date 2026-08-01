@@ -1,7 +1,7 @@
 {
-  "versionCode": 130,
-  "versionName": "1.49.0",
-  "notes": "New Permissions section in Settings groups every access Aura needs; New event no longer asks every time; the day sheet respects the hide-status-bar toggle.",
+  "versionCode": 131,
+  "versionName": "1.49.1",
+  "notes": "Actually hides the status bar behind the day sheet — the previous release read the wrong window.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "cb3ca71829c08d949401692d9a177cc41d6c088311e067021e383d7cd669001f"
+  "sha256": "a6511cf64e22d90cd00402d9868b1667f49c6ff97ed0d87ace275bb27cd64b46"
 }
