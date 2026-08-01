@@ -1,7 +1,7 @@
 {
-  "versionCode": 134,
-  "versionName": "1.52.0",
-  "notes": "Wallpaper picker gains preview editor with pinch/pan/rotate; ink over wallpaper can be forced light or dark; panel opacity removed.",
+  "versionCode": 135,
+  "versionName": "1.53.0",
+  "notes": "Settings sections fold up; new fetch_image and share_image tools let the assistant actually bring pictures into chat and hand them off to Android's share sheet.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "b0268e61c326a720530ec0ec0db7a5f4c91bd07d302a283ea29ce941c960e9d5"
+  "sha256": "80184d4ea6cbf8e8c0b52214e2c2bf140a8736a95f05e10e5a5ab289b8ea13e6"
 }
