@@ -1,7 +1,7 @@
 {
-  "versionCode": 122,
-  "versionName": "1.43.3",
-  "notes": "The letter beside the alphabet no longer sits on top of the curve.",
+  "versionCode": 123,
+  "versionName": "1.44.0",
+  "notes": "Notification rewriting uses far shorter prompts, a realistic time budget, and stands down instead of burning battery when it cannot keep up.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "5dca8790669330e10ec4fbc826b3c82541eacaad450fe310c58240a483356a18"
+  "sha256": "ac529f9ea0177e65b9eb004e72a77ca6a9806f8d78c9703f88ae19bb7d509f7f"
 }
