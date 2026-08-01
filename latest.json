@@ -1,7 +1,7 @@
 {
-  "versionCode": 108,
-  "versionName": "1.37.0",
-  "notes": "Aura no longer says a song is playing when it only opened the player — it listens for sound and finishes the job on screen.",
+  "versionCode": 109,
+  "versionName": "1.38.0",
+  "notes": "A now-playing card on the home screen for music and video, in the launcher's own paper, tinted by the artwork.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "5f740ffcb4fdb2a3e2078bfab7ea650f2f01bb97747d303cf48cd953c17753e2"
+  "sha256": "c354f23c28e43bbcee1e6b261e698b8cc8760b553a7446e4dfdd6327af1ff376"
 }
