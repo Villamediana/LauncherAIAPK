@@ -1,7 +1,7 @@
 {
-  "versionCode": 144,
-  "versionName": "1.59.1",
-  "notes": "Editing something Aura built now works on the first try: the code reaches the model whole instead of clipped, and a page that merely logs a warning is no longer thrown away and rebuilt.",
+  "versionCode": 145,
+  "versionName": "1.59.2",
+  "notes": "Games and pages Aura builds no longer arrive as a black rectangle: the card was loading them before it had been measured, so they sized themselves to nothing.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e4355f2e259e0062ee847c8f535943f9ac4d3f13622cf90cf2fab73cf2817b3c"
+  "sha256": "14064074aaf27c78a609abc20d7035edb3dab816998c480beb41d5e9117a3c18"
 }
