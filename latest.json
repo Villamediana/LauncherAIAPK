@@ -1,7 +1,7 @@
 {
-  "versionCode": 143,
-  "versionName": "1.59.0",
-  "notes": "Ask Aura to change a game, chart or page it already made and it now edits that one instead of building a different one.",
+  "versionCode": 144,
+  "versionName": "1.59.1",
+  "notes": "Editing something Aura built now works on the first try: the code reaches the model whole instead of clipped, and a page that merely logs a warning is no longer thrown away and rebuilt.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e3f21189fb0d2a56fc555797123b20a43a43e49c791919a614c0edb6f572a760"
+  "sha256": "e4355f2e259e0062ee847c8f535943f9ac4d3f13622cf90cf2fab73cf2817b3c"
 }
