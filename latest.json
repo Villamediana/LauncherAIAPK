@@ -1,7 +1,7 @@
 {
-  "versionCode": 145,
-  "versionName": "1.59.2",
-  "notes": "Games and pages Aura builds no longer arrive as a black rectangle: the card was loading them before it had been measured, so they sized themselves to nothing.",
+  "versionCode": 146,
+  "versionName": "1.59.3",
+  "notes": "Games and pages now run at the card's real size. The page was being laid out while the card was still animating open, so it measured a viewport a fraction of the final height and drew into nothing.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "14064074aaf27c78a609abc20d7035edb3dab816998c480beb41d5e9117a3c18"
+  "sha256": "f94a98e4d0f57dba8ea26082f02cbcd047090a8d55fe8ec49d6f9127d8b82a95"
 }
