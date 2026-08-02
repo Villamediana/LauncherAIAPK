@@ -1,7 +1,7 @@
 {
-  "versionCode": 140,
-  "versionName": "1.56.2",
-  "notes": "The clock now sits on the same margin as the date under it and the app names below, instead of looking indented from both.",
+  "versionCode": 141,
+  "versionName": "1.57.0",
+  "notes": "Games and pages Aura builds now arrive sized for the phone instead of shrunk to fit, and the cloud model is no longer told to keep them bare.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "143eb645501c8b5b2ee05aadc080cd02e57afe86e2aa4a0ad9c98dd186767005"
+  "sha256": "09e7808389581a58fecc053ad53069a8ce9534f0b8f2f73ef1a038f6fda6c890"
 }
