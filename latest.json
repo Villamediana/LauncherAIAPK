@@ -1,7 +1,7 @@
 {
-  "versionCode": 148,
-  "versionName": "1.60.1",
-  "notes": "Every card now has a copy button that puts the exact page on your clipboard, and a page that measured itself before the layout settled is told to measure again.",
+  "versionCode": 149,
+  "versionName": "1.60.2",
+  "notes": "Expanding a game or a page no longer shows a blank screen, and every card has a copy button that puts the exact page on your clipboard.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "27de01001afc6072565c8e8c966696bf94dc2fb5b342b28474ca8e5a86c3a8ff"
+  "sha256": "59b4fd5763b296a0dca079fb223378fb156e600c1131ead859431f7767fa5db9"
 }
