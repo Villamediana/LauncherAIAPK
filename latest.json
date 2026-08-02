@@ -1,7 +1,7 @@
 {
-  "versionCode": 151,
-  "versionName": "1.62.0",
-  "notes": "Settings > System now shows what a page or game wrote to its console, its size, and whether its canvas actually painted. The card is opaque again, which is the likeliest reason a game came out black while a chart did not.",
+  "versionCode": 152,
+  "versionName": "1.62.1",
+  "notes": "Games work. The app was pushing the page's charset declaration out of the window a parser reads it in, which made the browser re-parse the document and lose the page's own startup code — so the board was never sized and the game drew off the edge of it.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4b2c995a5aed7094eb729232b8aa6c26f1a458ae263422c437af0f3099f4c26c"
+  "sha256": "5a1f199f3aeb34e97033d4df8e2f2655e8d79daf850ded47d9384c0d32a6b989"
 }
