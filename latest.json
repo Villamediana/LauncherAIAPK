@@ -1,7 +1,7 @@
 {
-  "versionCode": 146,
-  "versionName": "1.59.3",
-  "notes": "Games and pages now run at the card's real size. The page was being laid out while the card was still animating open, so it measured a viewport a fraction of the final height and drew into nothing.",
+  "versionCode": 147,
+  "versionName": "1.60.0",
+  "notes": "Games and pages now use the whole card instead of collapsing into a corner of it, and a program card opens tall enough for a board and its controls.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f94a98e4d0f57dba8ea26082f02cbcd047090a8d55fe8ec49d6f9127d8b82a95"
+  "sha256": "f47fe9413c7bb7e8ce7b9ab1ed6d825f07fc5e4fbd282a6c237d4bb7aeea8b4b"
 }
