@@ -1,7 +1,7 @@
 {
-  "versionCode": 152,
-  "versionName": "1.62.1",
-  "notes": "Games work. The app was pushing the page's charset declaration out of the window a parser reads it in, which made the browser re-parse the document and lose the page's own startup code — so the board was never sized and the game drew off the edge of it.",
+  "versionCode": 153,
+  "versionName": "1.63.0",
+  "notes": "Pages and games Aura builds now run inside a frame, exactly as written. The app no longer edits the page before showing it — which is what had been breaking them.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "5a1f199f3aeb34e97033d4df8e2f2655e8d79daf850ded47d9384c0d32a6b989"
+  "sha256": "71a92d2c189b032b1ad97e502587b94e80f664f2e817805d8d653d35b70d3f1d"
 }
