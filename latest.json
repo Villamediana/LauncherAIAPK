@@ -1,7 +1,7 @@
 {
-  "versionCode": 149,
-  "versionName": "1.60.2",
-  "notes": "Expanding a game or a page no longer shows a blank screen, and every card has a copy button that puts the exact page on your clipboard.",
+  "versionCode": 150,
+  "versionName": "1.61.0",
+  "notes": "Games now arrive paused with a Start button and on-screen controls, instead of setting off by themselves and being over a second later. Expanding a card no longer shows a blank screen.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "59b4fd5763b296a0dca079fb223378fb156e600c1131ead859431f7767fa5db9"
+  "sha256": "f63b084ddc9ebcdca5f0aeae824e234598c175db32ceb7d4119b64d59156cc57"
 }
