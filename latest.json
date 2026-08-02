@@ -1,7 +1,7 @@
 {
-  "versionCode": 147,
-  "versionName": "1.60.0",
-  "notes": "Games and pages now use the whole card instead of collapsing into a corner of it, and a program card opens tall enough for a board and its controls.",
+  "versionCode": 148,
+  "versionName": "1.60.1",
+  "notes": "Every card now has a copy button that puts the exact page on your clipboard, and a page that measured itself before the layout settled is told to measure again.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f47fe9413c7bb7e8ce7b9ab1ed6d825f07fc5e4fbd282a6c237d4bb7aeea8b4b"
+  "sha256": "27de01001afc6072565c8e8c966696bf94dc2fb5b342b28474ca8e5a86c3a8ff"
 }
