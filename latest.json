@@ -1,7 +1,7 @@
 {
-  "versionCode": 150,
-  "versionName": "1.61.0",
-  "notes": "Games now arrive paused with a Start button and on-screen controls, instead of setting off by themselves and being over a second later. Expanding a card no longer shows a blank screen.",
+  "versionCode": 151,
+  "versionName": "1.62.0",
+  "notes": "Settings > System now shows what a page or game wrote to its console, its size, and whether its canvas actually painted. The card is opaque again, which is the likeliest reason a game came out black while a chart did not.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f63b084ddc9ebcdca5f0aeae824e234598c175db32ceb7d4119b64d59156cc57"
+  "sha256": "4b2c995a5aed7094eb729232b8aa6c26f1a458ae263422c437af0f3099f4c26c"
 }
