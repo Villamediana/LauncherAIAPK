@@ -1,7 +1,7 @@
 {
-  "versionCode": 141,
-  "versionName": "1.57.0",
-  "notes": "Games and pages Aura builds now arrive sized for the phone instead of shrunk to fit, and the cloud model is no longer told to keep them bare.",
+  "versionCode": 142,
+  "versionName": "1.58.0",
+  "notes": "Anything Aura builds — a game, a chart, a page — can now be kept from its card and run again later from Settings > Data > Artefacts.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "09e7808389581a58fecc053ad53069a8ce9534f0b8f2f73ef1a038f6fda6c890"
+  "sha256": "dae6d55b9bb24922c0fc7da6d3f9755795b5a751a0b60ef21b8539666a8645e0"
 }
