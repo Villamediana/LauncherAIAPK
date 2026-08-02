@@ -1,7 +1,7 @@
 {
-  "versionCode": 142,
-  "versionName": "1.58.0",
-  "notes": "Anything Aura builds — a game, a chart, a page — can now be kept from its card and run again later from Settings > Data > Artefacts.",
+  "versionCode": 143,
+  "versionName": "1.59.0",
+  "notes": "Ask Aura to change a game, chart or page it already made and it now edits that one instead of building a different one.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "dae6d55b9bb24922c0fc7da6d3f9755795b5a751a0b60ef21b8539666a8645e0"
+  "sha256": "e3f21189fb0d2a56fc555797123b20a43a43e49c791919a614c0edb6f572a760"
 }
