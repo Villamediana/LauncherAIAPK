@@ -1,7 +1,7 @@
 {
-  "versionCode": 153,
-  "versionName": "1.63.0",
-  "notes": "Pages and games Aura builds now run inside a frame, exactly as written. The app no longer edits the page before showing it — which is what had been breaking them.",
+  "versionCode": 154,
+  "versionName": "1.64.0",
+  "notes": "Scheduled tasks that need the screen now wait for you instead of failing behind the lock screen: a notification arrives and the task runs when you tap it. Listening is its own setting too — on-device or cloud, whichever model answers.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "71a92d2c189b032b1ad97e502587b94e80f664f2e817805d8d653d35b70d3f1d"
+  "sha256": "17a32868020ef8abf19cd42cf6ebae250bfe546ef0daf7c2342313f2fd64478b"
 }
