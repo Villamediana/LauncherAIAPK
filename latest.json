@@ -1,7 +1,7 @@
 {
-  "versionCode": 155,
-  "versionName": "1.65.0",
-  "notes": "Catálogo de modelos on-device (Qwen3 1.7B, Gemma E2B, Gemma E4B) — troca sem reinstalar. Whisper local (tiny/base/small/medium) via whisper.cpp nativo, reconhecimento de voz sem rede. Cada app aberto na gaveta cai no chip de recentes.",
+  "versionCode": 156,
+  "versionName": "1.65.1",
+  "notes": "Botão de remover em qualquer modelo baixado, ativo ou não — liberar espaço sem trocar de modelo.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "b4651ef5d1c786c9a87243a78ba822ce7ac0720cd933c19ec90a742210d2ed58"
+  "sha256": "43f4505e87b39946d7748765515a8b799e06c3dbd279cd644703de6c7ce414db"
 }
