@@ -1,7 +1,7 @@
 {
-  "versionCode": 154,
-  "versionName": "1.64.0",
-  "notes": "Scheduled tasks that need the screen now wait for you instead of failing behind the lock screen: a notification arrives and the task runs when you tap it. Listening is its own setting too — on-device or cloud, whichever model answers.",
+  "versionCode": 155,
+  "versionName": "1.65.0",
+  "notes": "Catálogo de modelos on-device (Qwen3 1.7B, Gemma E2B, Gemma E4B) — troca sem reinstalar. Whisper local (tiny/base/small/medium) via whisper.cpp nativo, reconhecimento de voz sem rede. Cada app aberto na gaveta cai no chip de recentes.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "17a32868020ef8abf19cd42cf6ebae250bfe546ef0daf7c2342313f2fd64478b"
+  "sha256": "b4651ef5d1c786c9a87243a78ba822ce7ac0720cd933c19ec90a742210d2ed58"
 }
