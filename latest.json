@@ -1,7 +1,7 @@
 {
-  "versionCode": 156,
-  "versionName": "1.65.1",
-  "notes": "Botão de remover em qualquer modelo baixado, ativo ou não — liberar espaço sem trocar de modelo.",
+  "versionCode": 157,
+  "versionName": "1.66.0",
+  "notes": "Com o modelo local a Aura fica simples: só conversa e busca na web, sem ferramentas que ele não consegue usar. Prompt bem mais curto e contexto de duas trocas, para responder rápido e sem inventar quando não há nuvem.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "43f4505e87b39946d7748765515a8b799e06c3dbd279cd644703de6c7ce414db"
+  "sha256": "9745770bac5428a834a1405943d26cd6f58dbf46b44bcce0b36f4cedc7fc9f1d"
 }
