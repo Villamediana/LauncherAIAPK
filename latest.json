@@ -1,7 +1,7 @@
 {
-  "versionCode": 160,
-  "versionName": "1.69.0",
-  "notes": "O modelo local deixou de ser descartado toda vez que você abre outro app — voltar e perguntar não recarrega mais tudo. E a conversa aberta é reaproveitada de verdade agora: o relógio saiu do prompt, que era o que a invalidava a cada minuto.",
+  "versionCode": 161,
+  "versionName": "1.70.0",
+  "notes": "Atalhos ensinados agora funcionam de verdade: a Aura grava qual controle você tocou, não só o texto que aparecia nele, e reproduz os passos sozinha. O texto das respostas flui liso, as Configurações ganharam Voz e Automação como categorias próprias, e as tarefas agendadas ganharam Rodar agora.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "386f76428d5619872d471dc72df526290c6c18a746b7a203ceaeb40bd9384300"
+  "sha256": "e1552db77d37ae81b2615b62ba0c7b13ff2931facc1811ef7fc22706d7b6420b"
 }
