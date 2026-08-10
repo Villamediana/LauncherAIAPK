@@ -1,7 +1,7 @@
 {
-  "versionCode": 161,
-  "versionName": "1.70.0",
-  "notes": "Atalhos ensinados agora funcionam de verdade: a Aura grava qual controle você tocou, não só o texto que aparecia nele, e reproduz os passos sozinha. O texto das respostas flui liso, as Configurações ganharam Voz e Automação como categorias próprias, e as tarefas agendadas ganharam Rodar agora.",
+  "versionCode": 162,
+  "versionName": "1.71.0",
+  "notes": "Atalhos: a Aura parou de gravar rolagens que o próprio app faz, parou de sair rolando à toa quando não acha um botão, e agora captura cada tela por onde o atalho passa e manda todas para o modelo. Tem um botão Testar em cada atalho para conferir sem o modelo no meio.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e1552db77d37ae81b2615b62ba0c7b13ff2931facc1811ef7fc22706d7b6420b"
+  "sha256": "5cda5c69ba26e12b57ff959ed029af33864098baf167ad51fdcbdd3ad93c217f"
 }
