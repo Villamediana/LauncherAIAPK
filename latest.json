@@ -1,7 +1,7 @@
 {
-  "versionCode": 157,
-  "versionName": "1.66.0",
-  "notes": "Com o modelo local a Aura fica simples: só conversa e busca na web, sem ferramentas que ele não consegue usar. Prompt bem mais curto e contexto de duas trocas, para responder rápido e sem inventar quando não há nuvem.",
+  "versionCode": 158,
+  "versionName": "1.67.0",
+  "notes": "O modelo local responde bem mais rápido: a conversa não é reconstruída a cada resposta, o trabalho de fundo sai da frente e o modelo já carrega enquanto você digita. A fileira da gaveta agora mostra os 3 apps mais usados, e o wallpaper não pisca mais ao desbloquear.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "9745770bac5428a834a1405943d26cd6f58dbf46b44bcce0b36f4cedc7fc9f1d"
+  "sha256": "3fe34fb3452d2706ca9d04b20d8581dc4160cb00d90d5b50b968806ff9e0912c"
 }
