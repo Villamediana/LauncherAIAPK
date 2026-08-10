@@ -1,7 +1,7 @@
 {
-  "versionCode": 159,
-  "versionName": "1.68.0",
-  "notes": "Modelos em nuvem respondem mais rápido: o prompt agora é estável no começo, então o provedor serve do cache em vez de reler tudo a cada passo, e a conexão já é aberta enquanto você digita.",
+  "versionCode": 160,
+  "versionName": "1.69.0",
+  "notes": "O modelo local deixou de ser descartado toda vez que você abre outro app — voltar e perguntar não recarrega mais tudo. E a conversa aberta é reaproveitada de verdade agora: o relógio saiu do prompt, que era o que a invalidava a cada minuto.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "18b2bcfe18684790ab123f110dded469d835ecc35c1abb957634a570d9af7ec4"
+  "sha256": "386f76428d5619872d471dc72df526290c6c18a746b7a203ceaeb40bd9384300"
 }
