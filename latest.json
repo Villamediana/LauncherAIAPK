@@ -1,7 +1,7 @@
 {
-  "versionCode": 162,
-  "versionName": "1.71.0",
-  "notes": "Atalhos: a Aura parou de gravar rolagens que o próprio app faz, parou de sair rolando à toa quando não acha um botão, e agora captura cada tela por onde o atalho passa e manda todas para o modelo. Tem um botão Testar em cada atalho para conferir sem o modelo no meio.",
+  "versionCode": 163,
+  "versionName": "1.72.0",
+  "notes": "Configurações: acabou o cartão dentro de cartão — os textos soltos alinham com as linhas e os parágrafos respiram. Atalhos: a reprodução espera a tela carregar em vez de desistir no passo 2, casa rótulos com e sem acento, e como último recurso toca onde o seu dedo tocou na gravação. As mensagens de erro agora aparecem em português e dizem o que fazer.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "5cda5c69ba26e12b57ff959ed029af33864098baf167ad51fdcbdd3ad93c217f"
+  "sha256": "c1a8a808ff1c582b9aabaaa02b937803c327907814f9ad718bbc52dc354b505b"
 }
