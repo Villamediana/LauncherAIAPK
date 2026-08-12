@@ -1,7 +1,7 @@
 {
-  "versionCode": 163,
-  "versionName": "1.72.0",
-  "notes": "Configurações: acabou o cartão dentro de cartão — os textos soltos alinham com as linhas e os parágrafos respiram. Atalhos: a reprodução espera a tela carregar em vez de desistir no passo 2, casa rótulos com e sem acento, e como último recurso toca onde o seu dedo tocou na gravação. As mensagens de erro agora aparecem em português e dizem o que fazer.",
+  "versionCode": 164,
+  "versionName": "1.73.0",
+  "notes": "Jogos e páginas: a Aura agora testa de verdade o que escreve antes de mostrar — um erro na primeira linha ia direto para a tela como um retângulo preto. Parou também de acusar erro num jogo que funcionava, e pedir uma mudança no que ela acabou de fazer agora altera aquilo mesmo, em vez de devolver outra coisa ou nada.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c1a8a808ff1c582b9aabaaa02b937803c327907814f9ad718bbc52dc354b505b"
+  "sha256": "6a24301b949d4f9056b0adf5891854be7c63713495f1b98e17db20b6595e61f5"
 }
