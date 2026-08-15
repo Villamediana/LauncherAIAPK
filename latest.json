@@ -1,7 +1,7 @@
 {
-  "versionCode": 167,
-  "versionName": "1.74.2",
-  "notes": "Voz: as opções de escuta quebravam a tela — um dos botões virava uma barra fina com um vazio enorme do lado. Agora eles quebram linha certinho. As descrições dos modelos saíram do inglês, e o tamanho do download parou de chamar 77 MB de \"0,1 GB\". E a bolinha da orbe agora pulsa de leve quando tem resposta esperando.",
+  "versionCode": 168,
+  "versionName": "1.75.0",
+  "notes": "Corrigido: o open_app não achava um app que o find_apps tinha acabado de listar (era o nome de pacote). Reconstruir as descrições de apps parou de dizer \"tudo pronto\" quando na verdade falhou, e agora diz qual motor está fazendo. A orbe dá uma inchada leve quando a resposta chega. Os favoritos ganharam a fonte da tela inicial em vez da de configurações. E a busca no modelo local parou de responder com uma lista de sites em vez do número.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "5f815f8213335e8f4b0fc46449484bfb5d486dbfb1b16c6179a4818d5364e9fa"
+  "sha256": "b0cfe71322f5d29d7def4aca39112c900a3fe57c99b3ff0ab3aab1a17645b8c0"
 }
