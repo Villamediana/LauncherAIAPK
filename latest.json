@@ -1,7 +1,7 @@
 {
-  "versionCode": 165,
-  "versionName": "1.74.0",
-  "notes": "O modelo do aparelho agora faz as coisas locais também: abrir apps, ler e tocar a tela, rodar atalhos gravados, agendar tarefas, alarmes, notas e memória. Segue sem MCP e sem código, páginas ou gráficos — esses continuam sendo do modelo em nuvem. E sem ficar lento: o catálogo foi encurtado, o loop de ações parou de reconstruir a conversa a cada passo, e o prompt é lido enquanto a caixinha abre.",
+  "versionCode": 166,
+  "versionName": "1.74.1",
+  "notes": "A bolinha na orbe agora só aparece quando a Aura respondeu e você ainda não viu a resposta — inclusive quando uma tarefa agendada roda sozinha e deixa um resultado. Ela apaga assim que você abre a caixinha.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "57a08368f5d0517065a33138d93f988e32f08aece6e0ac866f4c35ab7aa510f4"
+  "sha256": "36be18436d7ab8727b00237daf64a538a7dbb0169cd39a4b76e1734d1bc138b0"
 }
