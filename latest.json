@@ -1,7 +1,7 @@
 {
-  "versionCode": 164,
-  "versionName": "1.73.0",
-  "notes": "Jogos e páginas: a Aura agora testa de verdade o que escreve antes de mostrar — um erro na primeira linha ia direto para a tela como um retângulo preto. Parou também de acusar erro num jogo que funcionava, e pedir uma mudança no que ela acabou de fazer agora altera aquilo mesmo, em vez de devolver outra coisa ou nada.",
+  "versionCode": 165,
+  "versionName": "1.74.0",
+  "notes": "O modelo do aparelho agora faz as coisas locais também: abrir apps, ler e tocar a tela, rodar atalhos gravados, agendar tarefas, alarmes, notas e memória. Segue sem MCP e sem código, páginas ou gráficos — esses continuam sendo do modelo em nuvem. E sem ficar lento: o catálogo foi encurtado, o loop de ações parou de reconstruir a conversa a cada passo, e o prompt é lido enquanto a caixinha abre.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6a24301b949d4f9056b0adf5891854be7c63713495f1b98e17db20b6595e61f5"
+  "sha256": "57a08368f5d0517065a33138d93f988e32f08aece6e0ac866f4c35ab7aa510f4"
 }
