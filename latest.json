@@ -1,7 +1,7 @@
 {
-  "versionCode": 166,
-  "versionName": "1.74.1",
-  "notes": "A bolinha na orbe agora só aparece quando a Aura respondeu e você ainda não viu a resposta — inclusive quando uma tarefa agendada roda sozinha e deixa um resultado. Ela apaga assim que você abre a caixinha.",
+  "versionCode": 167,
+  "versionName": "1.74.2",
+  "notes": "Voz: as opções de escuta quebravam a tela — um dos botões virava uma barra fina com um vazio enorme do lado. Agora eles quebram linha certinho. As descrições dos modelos saíram do inglês, e o tamanho do download parou de chamar 77 MB de \"0,1 GB\". E a bolinha da orbe agora pulsa de leve quando tem resposta esperando.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "36be18436d7ab8727b00237daf64a538a7dbb0169cd39a4b76e1734d1bc138b0"
+  "sha256": "5f815f8213335e8f4b0fc46449484bfb5d486dbfb1b16c6179a4818d5364e9fa"
 }
