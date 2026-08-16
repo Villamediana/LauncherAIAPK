@@ -1,7 +1,7 @@
 {
-  "versionCode": 169,
-  "versionName": "1.76.0",
-  "notes": "Segurar um app agora mostra os atalhos do próprio app — \"Nova mensagem\", \"Selfie\", \"Ler código\". Dá para responder uma mensagem direto do card de notificação na tela inicial, sem abrir o app. E a busca da gaveta acha também os atalhos que você gravou e seus contatos, não só apps.",
+  "versionCode": 170,
+  "versionName": "1.76.1",
+  "notes": "Os atalhos dos apps agora têm interruptor e quantidade, em Configurações → Tela inicial. E o envio da resposta na notificação foi corrigido: a Aura passava um descritor novo em vez do que o próprio app publicou, e vários apps de mensagem descartam calados uma resposta que não reconhecem. Cada tentativa agora fica registrada no diagnóstico de notificações.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "eff5c43cf6adee793323cdf0e401d51473a7680a28e4d5f001d82a298a11a45d"
+  "sha256": "26f15a776e476efe92bb136debfc567970ac024c9a99234a19e06eb1a644c501"
 }
