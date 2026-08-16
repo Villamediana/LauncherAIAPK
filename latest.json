@@ -1,7 +1,7 @@
 {
-  "versionCode": 170,
-  "versionName": "1.76.1",
-  "notes": "Os atalhos dos apps agora têm interruptor e quantidade, em Configurações → Tela inicial. E o envio da resposta na notificação foi corrigido: a Aura passava um descritor novo em vez do que o próprio app publicou, e vários apps de mensagem descartam calados uma resposta que não reconhecem. Cada tentativa agora fica registrada no diagnóstico de notificações.",
+  "versionCode": 171,
+  "versionName": "1.77.0",
+  "notes": "Mensagens da mesma pessoa viram um card só. A Aura agora lê todas as mensagens que a notificação já carrega, não só a última, e escreve uma linha sobre o que está acontecendo em vez de resumir cada mensagem separada. Se chega mensagem nova na mesma conversa, ela reescreve com o conjunto. Dispensar ou responder o card resolve todas de uma vez.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "26f15a776e476efe92bb136debfc567970ac024c9a99234a19e06eb1a644c501"
+  "sha256": "bf2e20ec0f93a5e527679cfe0e6b8a87c3d90adb71e08dce98e4ce6fd14c178b"
 }
