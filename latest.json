@@ -1,7 +1,7 @@
 {
-  "versionCode": 168,
-  "versionName": "1.75.0",
-  "notes": "Corrigido: o open_app não achava um app que o find_apps tinha acabado de listar (era o nome de pacote). Reconstruir as descrições de apps parou de dizer \"tudo pronto\" quando na verdade falhou, e agora diz qual motor está fazendo. A orbe dá uma inchada leve quando a resposta chega. Os favoritos ganharam a fonte da tela inicial em vez da de configurações. E a busca no modelo local parou de responder com uma lista de sites em vez do número.",
+  "versionCode": 169,
+  "versionName": "1.76.0",
+  "notes": "Segurar um app agora mostra os atalhos do próprio app — \"Nova mensagem\", \"Selfie\", \"Ler código\". Dá para responder uma mensagem direto do card de notificação na tela inicial, sem abrir o app. E a busca da gaveta acha também os atalhos que você gravou e seus contatos, não só apps.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "b0cfe71322f5d29d7def4aca39112c900a3fe57c99b3ff0ab3aab1a17645b8c0"
+  "sha256": "eff5c43cf6adee793323cdf0e401d51473a7680a28e4d5f001d82a298a11a45d"
 }
