@@ -1,7 +1,7 @@
 {
-  "versionCode": 171,
-  "versionName": "1.77.0",
-  "notes": "Mensagens da mesma pessoa viram um card só. A Aura agora lê todas as mensagens que a notificação já carrega, não só a última, e escreve uma linha sobre o que está acontecendo em vez de resumir cada mensagem separada. Se chega mensagem nova na mesma conversa, ela reescreve com o conjunto. Dispensar ou responder o card resolve todas de uma vez.",
+  "versionCode": 172,
+  "versionName": "1.78.0",
+  "notes": "Passada de movimento. Abrir um app cresce a partir da linha que você tocou. Voltar para a home tem uma entrada escalonada — relógio, faixa, cards, favoritos. O gesto de voltar acompanha o dedo em vez de esperar soltar. Vibração nos momentos que não tinham. O relógio rola os dígitos em vez de piscar. Com papel de parede, a gaveta pode virar um painel na frente dele, desfocado e com leve inclinação pelo acelerômetro. E trocar de tema abre em círculo a partir do controle que você tocou.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "bf2e20ec0f93a5e527679cfe0e6b8a87c3d90adb71e08dce98e4ce6fd14c178b"
+  "sha256": "f63b722ac3db7a10992f2b8268eb6ab20525942d182d782cf053219947d79559"
 }
