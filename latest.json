@@ -1,7 +1,7 @@
 {
-  "versionCode": 172,
-  "versionName": "1.78.0",
-  "notes": "Passada de movimento. Abrir um app cresce a partir da linha que você tocou. Voltar para a home tem uma entrada escalonada — relógio, faixa, cards, favoritos. O gesto de voltar acompanha o dedo em vez de esperar soltar. Vibração nos momentos que não tinham. O relógio rola os dígitos em vez de piscar. Com papel de parede, a gaveta pode virar um painel na frente dele, desfocado e com leve inclinação pelo acelerômetro. E trocar de tema abre em círculo a partir do controle que você tocou.",
+  "versionCode": 173,
+  "versionName": "1.78.1",
+  "notes": "Revertidas as mudanças de animação da versão anterior — abertura de app, entrada da home, relógio rolando, painel da gaveta, círculo de tema. Por dentro está exatamente igual à 1.77.0.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f63b722ac3db7a10992f2b8268eb6ab20525942d182d782cf053219947d79559"
+  "sha256": "b685ec139d3f215fe5d6827ac8e97f02f91d8ab74e2d045def56b8243e1b5d08"
 }
