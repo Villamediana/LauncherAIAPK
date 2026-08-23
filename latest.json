@@ -1,7 +1,7 @@
 {
-  "versionCode": 175,
-  "versionName": "1.79.1",
-  "notes": "A Aura atende pelo nome: diga “Aura” e pergunte, mesmo com a tela bloqueada — e agora ela responde em voz alta. Com “ouvir bloqueado” desligado, a escuta e o wake lock são soltos junto com a tela, e o aparelho dorme igual antes. Tudo em Ajustes → Voz.",
+  "versionCode": 176,
+  "versionName": "1.80.0",
+  "notes": "Chamar “Aura” agora aparece: o orbe acende com a onda da sua voz enquanto ela espera a pergunta, e volta ao normal sozinho se você não disser nada. Com “ouvir bloqueado” desligado, a escuta solta o microfone e deixa o aparelho dormir junto com a tela.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "1be63e38476da6ea989510b874512ddc476ec4feda05f22a6068a70126aeb2f0"
+  "sha256": "cc50f6d825c550ce0b18152b1c47888a5d9a63da1744750689b65488cc200d29"
 }
