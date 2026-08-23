@@ -1,7 +1,7 @@
 {
-  "versionCode": 178,
-  "versionName": "1.81.1",
-  "notes": "Conserta a escuta que ficava surda quando o modelo do nome não estava baixado — agora ela usa qualquer Whisper que esteja no aparelho. “Aura, que horas são” também para de sair cortado: a frase inteira conta como uma coisa só. E Ajustes → Voz mostra o que ela ouviu, para acertar a sensibilidade.",
+  "versionCode": 181,
+  "versionName": "1.84.0",
+  "notes": "Chamou a Aura de dentro de um app? A resposta aparece ali mesmo, numa bolha em cima do app, com a pergunta que ela entendeu — não mais escondida na tela inicial. A borda da tela acende enquanto ela ouve, e a vibração tem uma forma diferente para cada momento: ouviu o nome, pegou a pergunta, respondeu. Depois de cada resposta ela continua ouvindo por 20 segundos, então pedir outra coisa não exige chamar o nome de novo — e o que não foi dito a ela, ela deixa passar. Respostas faladas agora vêm curtas, do tamanho de uma frase.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "7cf16ff9ca718c4d9c4883bf5bf7dbdd490c27371395b40fc23383897ba6bd1f"
+  "sha256": "50755ad2cf1f7f14774d4982aad6bb1eeadffad5c6162671d3680fec374620e6"
 }
