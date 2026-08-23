@@ -1,7 +1,7 @@
 {
-  "versionCode": 181,
-  "versionName": "1.84.0",
-  "notes": "Chamou a Aura de dentro de um app? A resposta aparece ali mesmo, numa bolha em cima do app, com a pergunta que ela entendeu — não mais escondida na tela inicial. A borda da tela acende enquanto ela ouve, e a vibração tem uma forma diferente para cada momento: ouviu o nome, pegou a pergunta, respondeu. Depois de cada resposta ela continua ouvindo por 20 segundos, então pedir outra coisa não exige chamar o nome de novo — e o que não foi dito a ela, ela deixa passar. Respostas faladas agora vêm curtas, do tamanho de uma frase.",
+  "versionCode": 182,
+  "versionName": "1.84.1",
+  "notes": "Correções do primeiro dia de uso: acabaram as duas orbes na tela inicial, a borda âmbar agora fica acesa o tempo todo em que ela está com você — chamou, perguntou, pensando, respondendo e nos segundos seguintes — e os três pontinhos não somem mais antes da resposta chegar. Chamar só \"Aura\" dá seis segundos para você pensar no que pedir, e dizer o nome dela dentro daqueles 20 segundos sempre conta como pedido.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "50755ad2cf1f7f14774d4982aad6bb1eeadffad5c6162671d3680fec374620e6"
+  "sha256": "00d2241755f00c76cdb4c3b5a1a4b5db4df3688977667142a47db7f9b5c3127c"
 }
