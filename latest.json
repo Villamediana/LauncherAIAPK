@@ -1,7 +1,7 @@
 {
-  "versionCode": 177,
-  "versionName": "1.81.0",
-  "notes": "A palavra de ativação ganhou ouvido próprio: um modelo Whisper só dela, que você baixa e escolhe em Ajustes → Voz, separado do que transcreve a pergunta. O nome nunca sai do aparelho, mesmo com a Escuta na nuvem.",
+  "versionCode": 178,
+  "versionName": "1.81.1",
+  "notes": "Conserta a escuta que ficava surda quando o modelo do nome não estava baixado — agora ela usa qualquer Whisper que esteja no aparelho. “Aura, que horas são” também para de sair cortado: a frase inteira conta como uma coisa só. E Ajustes → Voz mostra o que ela ouviu, para acertar a sensibilidade.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "1ae15d4872f1b443605e380c405fbceb74c6b51e7320ff5a91e2711f09930367"
+  "sha256": "7cf16ff9ca718c4d9c4883bf5bf7dbdd490c27371395b40fc23383897ba6bd1f"
 }
