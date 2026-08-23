@@ -1,7 +1,7 @@
 {
-  "versionCode": 173,
-  "versionName": "1.78.1",
-  "notes": "Revertidas as mudanças de animação da versão anterior — abertura de app, entrada da home, relógio rolando, painel da gaveta, círculo de tema. Por dentro está exatamente igual à 1.77.0.",
+  "versionCode": 174,
+  "versionName": "1.79.0",
+  "notes": "A Aura atende pelo nome: diga “Aura” e pergunte, mesmo com a tela bloqueada — e agora ela responde em voz alta. Quem ouve o nome é o Whisper do próprio aparelho; tudo se liga e desliga em Ajustes → Voz.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "b685ec139d3f215fe5d6827ac8e97f02f91d8ab74e2d045def56b8243e1b5d08"
+  "sha256": "bfe0965025add2f5122878c92b48b5092630d6a3c078976f06077d543bb3efc2"
 }
