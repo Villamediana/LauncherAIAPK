@@ -1,7 +1,7 @@
 {
-  "versionCode": 174,
-  "versionName": "1.79.0",
-  "notes": "A Aura atende pelo nome: diga “Aura” e pergunte, mesmo com a tela bloqueada — e agora ela responde em voz alta. Quem ouve o nome é o Whisper do próprio aparelho; tudo se liga e desliga em Ajustes → Voz.",
+  "versionCode": 175,
+  "versionName": "1.79.1",
+  "notes": "A Aura atende pelo nome: diga “Aura” e pergunte, mesmo com a tela bloqueada — e agora ela responde em voz alta. Com “ouvir bloqueado” desligado, a escuta e o wake lock são soltos junto com a tela, e o aparelho dorme igual antes. Tudo em Ajustes → Voz.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "bfe0965025add2f5122878c92b48b5092630d6a3c078976f06077d543bb3efc2"
+  "sha256": "1be63e38476da6ea989510b874512ddc476ec4feda05f22a6068a70126aeb2f0"
 }
