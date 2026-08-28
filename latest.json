@@ -1,7 +1,7 @@
 {
-  "versionCode": 185,
-  "versionName": "1.87.0",
-  "notes": "Wallpapers vivos, refeitos. Sobraram três, e cada um virou uma cena de verdade em vez de um desenho parado. Noite: um lago sob a lua crescente — a lua atravessa num arco lento, nuvem fina passa na frente dela e a escurece, e a luz que ela deixa na água escurece junto; o brilho na superfície nunca para de se mexer. Constelação: Cassiopeia, Órion e o Carro se desenham sozinhas, estrela por estrela, ficam acesas e apagam pra próxima começar, com poeira estelar andando atrás e satélite cruzando de vez em quando. Tinta: um pincel pinta um ensō no papel, grosso onde encosta, seco e rasgado onde acaba, e o selo vermelho vem quando o círculo fecha. Alvorada e Aurora saíram. Sua foto continua ganhando de qualquer um deles.",
+  "versionCode": 186,
+  "versionName": "1.88.0",
+  "notes": "Correção do travamento. Quando alguma coisa dava errado antes da Aura começar a responder — ler as extensões MCP, buscar nas memórias, montar o prompt — o erro escapava sem virar mensagem: a resposta ficava com os três pontinhos para sempre, a conversa continuava \"ocupada\" e, como ela recusa mandar outra pergunta enquanto está ocupada, a conversa ficava inutilizável. Era isso que acontecia ao pedir uma tarefa agendada e não vir nada. Agora todo erro é dito na bolha e a conversa sempre volta a funcionar, aconteça o que acontecer. Uma falha solta na Aura também não derruba mais o launcher inteiro. E dá para copiar: segure qualquer mensagem — sua, dela, ou o erro — para copiar o texto.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "96f114cf7304e0cb1335ae27faa09dcfeb82419e60cfb8d421bb4b1c0e003021"
+  "sha256": "966aac3b3cd7c220032df8891785285d8d64adc26760139029719f489bdc0ce9"
 }
