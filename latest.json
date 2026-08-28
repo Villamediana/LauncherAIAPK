@@ -1,7 +1,7 @@
 {
-  "versionCode": 183,
-  "versionName": "1.85.0",
-  "notes": "Configurações refeitas do começo. A Home virou uma página só chamada Aparência — o tema é escolhido em três mini-telas ao vivo, o wallpaper mostra o relógio de verdade por cima da imagem, e sumiram doze switches que sempre tinham a mesma resposta certa (relógio, data, bateria, notificações, cards). No Assistente, o motor virou dois cartões grandes: tocar \"No aparelho\" já começa a baixar o Gemma, tocar \"Nuvem\" abre URL e chave ali mesmo. Voz encolheu junto — On device ou Cloud, e no aparelho você só decide se quem escuta é o Gemma ou o Whisper. Automações, MCP e Sistema mais enxutos: MCP suporta vários servidores sem virar bagunça, Idioma parou de duplicar o próprio nome, Permissões numa lista só, atualização só com o botão.",
+  "versionCode": 184,
+  "versionName": "1.86.0",
+  "notes": "Wallpapers vivos. Sem foto no lugar, agora dá pra deixar a tela inicial com uma cena que respira: céu noturno com estrelas piscando lento, alvorada com sol de raios que giram, aurora com faixas que dobram, constelação com fios que aparecem e somem, e uma gota de tinta que espalha no papel. Cada opção é escolhida vendo ela desenhada ao vivo no próprio tile das configurações — sem imagem estática, sem descrição adivinhada. Papel liso continua sendo o padrão pra quem prefere o visual de antes. Sua foto ainda ganha de qualquer wallpaper animado.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "fd3c12a971822e96920e28f2cf1d170e00b3dc24bca8ea0c9d9a2cbb44d613c8"
+  "sha256": "de08549696960fae0136986760f0c5da7fb645e0f00bb56e56f51d1ababe7c74"
 }
