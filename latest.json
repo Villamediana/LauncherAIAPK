@@ -1,7 +1,7 @@
 {
-  "versionCode": 184,
-  "versionName": "1.86.0",
-  "notes": "Wallpapers vivos. Sem foto no lugar, agora dá pra deixar a tela inicial com uma cena que respira: céu noturno com estrelas piscando lento, alvorada com sol de raios que giram, aurora com faixas que dobram, constelação com fios que aparecem e somem, e uma gota de tinta que espalha no papel. Cada opção é escolhida vendo ela desenhada ao vivo no próprio tile das configurações — sem imagem estática, sem descrição adivinhada. Papel liso continua sendo o padrão pra quem prefere o visual de antes. Sua foto ainda ganha de qualquer wallpaper animado.",
+  "versionCode": 185,
+  "versionName": "1.87.0",
+  "notes": "Wallpapers vivos, refeitos. Sobraram três, e cada um virou uma cena de verdade em vez de um desenho parado. Noite: um lago sob a lua crescente — a lua atravessa num arco lento, nuvem fina passa na frente dela e a escurece, e a luz que ela deixa na água escurece junto; o brilho na superfície nunca para de se mexer. Constelação: Cassiopeia, Órion e o Carro se desenham sozinhas, estrela por estrela, ficam acesas e apagam pra próxima começar, com poeira estelar andando atrás e satélite cruzando de vez em quando. Tinta: um pincel pinta um ensō no papel, grosso onde encosta, seco e rasgado onde acaba, e o selo vermelho vem quando o círculo fecha. Alvorada e Aurora saíram. Sua foto continua ganhando de qualquer um deles.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "de08549696960fae0136986760f0c5da7fb645e0f00bb56e56f51d1ababe7c74"
+  "sha256": "96f114cf7304e0cb1335ae27faa09dcfeb82419e60cfb8d421bb4b1c0e003021"
 }
