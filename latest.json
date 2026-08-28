@@ -1,7 +1,7 @@
 {
-  "versionCode": 182,
-  "versionName": "1.84.1",
-  "notes": "Correções do primeiro dia de uso: acabaram as duas orbes na tela inicial, a borda âmbar agora fica acesa o tempo todo em que ela está com você — chamou, perguntou, pensando, respondendo e nos segundos seguintes — e os três pontinhos não somem mais antes da resposta chegar. Chamar só \"Aura\" dá seis segundos para você pensar no que pedir, e dizer o nome dela dentro daqueles 20 segundos sempre conta como pedido.",
+  "versionCode": 183,
+  "versionName": "1.85.0",
+  "notes": "Configurações refeitas do começo. A Home virou uma página só chamada Aparência — o tema é escolhido em três mini-telas ao vivo, o wallpaper mostra o relógio de verdade por cima da imagem, e sumiram doze switches que sempre tinham a mesma resposta certa (relógio, data, bateria, notificações, cards). No Assistente, o motor virou dois cartões grandes: tocar \"No aparelho\" já começa a baixar o Gemma, tocar \"Nuvem\" abre URL e chave ali mesmo. Voz encolheu junto — On device ou Cloud, e no aparelho você só decide se quem escuta é o Gemma ou o Whisper. Automações, MCP e Sistema mais enxutos: MCP suporta vários servidores sem virar bagunça, Idioma parou de duplicar o próprio nome, Permissões numa lista só, atualização só com o botão.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "00d2241755f00c76cdb4c3b5a1a4b5db4df3688977667142a47db7f9b5c3127c"
+  "sha256": "fd3c12a971822e96920e28f2cf1d170e00b3dc24bca8ea0c9d9a2cbb44d613c8"
 }
