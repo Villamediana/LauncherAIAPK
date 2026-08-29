@@ -1,7 +1,7 @@
 {
-  "versionCode": 186,
-  "versionName": "1.88.0",
-  "notes": "Correção do travamento. Quando alguma coisa dava errado antes da Aura começar a responder — ler as extensões MCP, buscar nas memórias, montar o prompt — o erro escapava sem virar mensagem: a resposta ficava com os três pontinhos para sempre, a conversa continuava \"ocupada\" e, como ela recusa mandar outra pergunta enquanto está ocupada, a conversa ficava inutilizável. Era isso que acontecia ao pedir uma tarefa agendada e não vir nada. Agora todo erro é dito na bolha e a conversa sempre volta a funcionar, aconteça o que acontecer. Uma falha solta na Aura também não derruba mais o launcher inteiro. E dá para copiar: segure qualquer mensagem — sua, dela, ou o erro — para copiar o texto.",
+  "versionCode": 187,
+  "versionName": "1.89.0",
+  "notes": "Profundidade e wallpapers procedurais. Incline o aparelho e as camadas se movem umas contra as outras — as estrelas quase nada, a lua um pouco, a nuvem mais, os morros e a água mais ainda. É essa diferença que vira profundidade. O sensor só liga com o launcher na frente e roda no modo mais econômico que existe. Nada mais é roteirizado: não há lista de meteoros, de nuvens nem lugar fixo pras constelações. Cada meteoro é um número — se acontece, por onde passa, quanto dura. A nuvem que sai pela direita volta pela esquerda como outra nuvem. Cassiopeia, Órion, o Carro e o Cruzeiro do Sul aparecem em lugares e tamanhos diferentes toda vez, e nunca dois iguais ao mesmo tempo. Cada ensō é um traço novo. Como cada animação roda no seu próprio período e eles não batem, a cena nunca se repete. As animações ficaram bem mais lentas (a lua leva 15 minutos pra atravessar) e o desenho passou a 30 quadros por segundo em vez dos 120 da tela — três em cada quatro simplesmente não são desenhados. Mais realismo: extinção atmosférica (estrela perto do horizonte fica mais fraca e mais alaranjada), mares escuros na lua, fase que muda ao longo do dia, e o papel da Tinta ganhou um brilho que escorrega quando você vira o aparelho.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "966aac3b3cd7c220032df8891785285d8d64adc26760139029719f489bdc0ce9"
+  "sha256": "eb529f4e1c2ab06e668f307f10ef33d0a78254d422e81676508ab8c32206fe44"
 }
