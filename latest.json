@@ -1,7 +1,7 @@
 {
-  "versionCode": 190,
-  "versionName": "1.91.0",
-  "notes": "Tarefas em dias específicos. Antes um agendamento era só um intervalo, e intervalo não sabe dizer \"dias úteis\" — por isso a Aura ofereceu cancelar a semanal e criar cinco diárias, que não é a mesma coisa: são cinco tarefas rodando todo dia. Agora o intervalo decide de quanto em quanto tempo e os dias decidem se hoje conta. Peça \"sincronizar as reuniões todo dia útil às 8\" e é uma tarefa só, que pula sábado e domingo. Entende dias úteis, fim de semana ou a lista que você quiser (seg, qua, sex), com ou sem acento, em português, inglês ou espanhol. Se pedir dias sem repetição, ou uma combinação que nunca cairia num dia permitido, ela recusa na hora em vez de agendar algo que nunca dispara. E a tela de Automação foi refeita: o título da tarefa dividia a linha com três botões e sobrava um terço da tela pra ele — virava \"Sincroniz ar reuni…\". Agora o texto ocupa a largura toda, os botões ficam embaixo com espaço pra serem lidos e acertados, e a linha do horário está no seu idioma (era \"every 1 d…\" em inglês, vinda do texto que é escrito pro modelo ler).",
+  "versionCode": 191,
+  "versionName": "1.91.1",
+  "notes": "Corrigindo dois exageros meus da versão passada. Os wallpapers voltaram — eu tinha desligado o recurso inteiro quando você pediu só o paralaxe. Agora só o paralaxe está desligado: a lua continua atravessando, as nuvens passando na frente dela, o pincel pintando o ensō e as constelações se desenhando. O que sai é o sensor de inclinação — nenhum sensor é registrado e as camadas ficam paradas umas em relação às outras, que é justamente a parte que valia isolar primeiro. Sua escolha de wallpaper e o seletor voltaram intactos. E a reescrita de notificação voltou como era: acordar o modelo do aparelho pra reescrever o que chega é exatamente pra isso que ele existe, e não passa pela API de ninguém — eu tinha limitado isso a quem conversa no modelo local, sem motivo. Continua valendo desta vez: calendário, clima e relógio da tela inicial só rodam com o launcher na frente.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c2520c58564a69bac2e26c51599cd9442444042a296e90959831307a73fb492d"
+  "sha256": "1a092fbd71366681f0e612d6d10f2becb900a3a834b80ea2d5ec5fdacab870e6"
 }
