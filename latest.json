@@ -1,7 +1,7 @@
 {
-  "versionCode": 191,
-  "versionName": "1.91.1",
-  "notes": "Corrigindo dois exageros meus da versão passada. Os wallpapers voltaram — eu tinha desligado o recurso inteiro quando você pediu só o paralaxe. Agora só o paralaxe está desligado: a lua continua atravessando, as nuvens passando na frente dela, o pincel pintando o ensō e as constelações se desenhando. O que sai é o sensor de inclinação — nenhum sensor é registrado e as camadas ficam paradas umas em relação às outras, que é justamente a parte que valia isolar primeiro. Sua escolha de wallpaper e o seletor voltaram intactos. E a reescrita de notificação voltou como era: acordar o modelo do aparelho pra reescrever o que chega é exatamente pra isso que ele existe, e não passa pela API de ninguém — eu tinha limitado isso a quem conversa no modelo local, sem motivo. Continua valendo desta vez: calendário, clima e relógio da tela inicial só rodam com o launcher na frente.",
+  "versionCode": 192,
+  "versionName": "1.92.0",
+  "notes": "As três coisas daquela conversa. 1) Ela não tinha ferramenta pra rodar uma tarefa agendada — só listar, criar e cancelar. Por isso ficava listando e perguntando \"quer que eu dispare?\": não era cautela, era a única coisa que ela conseguia fazer. Agora existe run_task e \"rode a tarefa agora\" roda, sem devolver o pedido como pergunta. Com uma tarefa só, ela nem pergunta qual. 2) O MCP estava cortado: a tela dizia 64 ativas e o modelo recebia as 24 primeiras, e as de calendário caíam fora — por isso ela dizia com toda sinceridade que não tinha ferramenta de calendário. O corte vinha depois da sua escolha, o que não é limite, é o botão não funcionar. O teto subiu pra 128 (essas ferramentas só vão pro modelo em nuvem, onde isso não é nada) e, se algum dia estourar, a tela avisa quantas ficaram de fora em vez de sumir com elas. 3) O chip vermelho \"A plan needs at least two steps\" era um erro sobre o raciocínio dela, não sobre a sua tarefa; agora um plano de um passo simplesmente segue em frente.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "1a092fbd71366681f0e612d6d10f2becb900a3a834b80ea2d5ec5fdacab870e6"
+  "sha256": "ab93389361be2d0a5e4e7c2373d72db78f1824c450e0a79b1716bf8cb2dab438"
 }
