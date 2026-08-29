@@ -1,7 +1,7 @@
 {
-  "versionCode": 188,
-  "versionName": "1.89.1",
-  "notes": "Correção do macro que parava no passo 1. Sair de um app pra ir pra tela inicial levanta um evento da tela inicial que está configurada — no seu caso a da Samsung — e o gravador só ignorava o pacote da própria Aura. Resultado: o atalho ficava com um passo \"Open launcher\" na frente do trabalho, que falhava na hora de repetir e derrubava o macro inteiro antes de fazer qualquer coisa. Agora o gravador ignora qualquer tela inicial, e os atalhos que você já gravou são consertados sozinhos na primeira vez que abrirem — não precisa gravar de novo.",
+  "versionCode": 189,
+  "versionName": "1.90.0",
+  "notes": "Bateria. Os wallpapers animados estão desligados nesta versão pra tirar eles da conta — sua escolha continua guardada e volta quando religar. O achado principal não eram eles: a cada notificação a Aura acordava o modelo de 2,5 GB do aparelho, segurava um wake lock (que existe justamente pra furar o Doze) e rodava duas inferências — inclusive em quem usa nuvem, onde esse modelo não estava carregado pra nada. Agora só acorda se o modelo do aparelho for o que você usa pra conversar; em nuvem ele fica dormindo e o wake lock nem é pedido. Três laços da tela inicial também rodavam o dia inteiro atrás de qualquer app aberto: o calendário consultava o provedor a cada 60 segundos (1.400 vezes por dia), o clima acordava a cada 5 minutos e ia à rede a cada 20, e o relógio virava de minuto em minuto. Os três agora só rodam com o launcher na frente, e leem tudo de novo assim que você volta.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "3a32e497555746842b71b27fac9766588ab18f44400ea0c785966db3a3980cf6"
+  "sha256": "561b8b3e2835fc644dd2b1bb87aa81805ccddccd5b092dc41e4e114aaa531f50"
 }
