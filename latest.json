@@ -1,7 +1,7 @@
 {
-  "versionCode": 187,
-  "versionName": "1.89.0",
-  "notes": "Profundidade e wallpapers procedurais. Incline o aparelho e as camadas se movem umas contra as outras — as estrelas quase nada, a lua um pouco, a nuvem mais, os morros e a água mais ainda. É essa diferença que vira profundidade. O sensor só liga com o launcher na frente e roda no modo mais econômico que existe. Nada mais é roteirizado: não há lista de meteoros, de nuvens nem lugar fixo pras constelações. Cada meteoro é um número — se acontece, por onde passa, quanto dura. A nuvem que sai pela direita volta pela esquerda como outra nuvem. Cassiopeia, Órion, o Carro e o Cruzeiro do Sul aparecem em lugares e tamanhos diferentes toda vez, e nunca dois iguais ao mesmo tempo. Cada ensō é um traço novo. Como cada animação roda no seu próprio período e eles não batem, a cena nunca se repete. As animações ficaram bem mais lentas (a lua leva 15 minutos pra atravessar) e o desenho passou a 30 quadros por segundo em vez dos 120 da tela — três em cada quatro simplesmente não são desenhados. Mais realismo: extinção atmosférica (estrela perto do horizonte fica mais fraca e mais alaranjada), mares escuros na lua, fase que muda ao longo do dia, e o papel da Tinta ganhou um brilho que escorrega quando você vira o aparelho.",
+  "versionCode": 188,
+  "versionName": "1.89.1",
+  "notes": "Correção do macro que parava no passo 1. Sair de um app pra ir pra tela inicial levanta um evento da tela inicial que está configurada — no seu caso a da Samsung — e o gravador só ignorava o pacote da própria Aura. Resultado: o atalho ficava com um passo \"Open launcher\" na frente do trabalho, que falhava na hora de repetir e derrubava o macro inteiro antes de fazer qualquer coisa. Agora o gravador ignora qualquer tela inicial, e os atalhos que você já gravou são consertados sozinhos na primeira vez que abrirem — não precisa gravar de novo.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "eb529f4e1c2ab06e668f307f10ef33d0a78254d422e81676508ab8c32206fe44"
+  "sha256": "3a32e497555746842b71b27fac9766588ab18f44400ea0c785966db3a3980cf6"
 }
