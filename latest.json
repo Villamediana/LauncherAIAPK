@@ -1,7 +1,7 @@
 {
-  "versionCode": 194,
-  "versionName": "1.94.0",
-  "notes": "Correções em cima da 1.93.0. 1) A tela não apaga mais no meio de uma tarefa — enquanto a Aura está mexendo no celular o display fica aceso, e solta sozinho quando ela termina (ou em 3 minutos, se algum passo travar). 2) Ela não vai mais oferecer um atalho que você já tem: mesmo que a rotina continue acontecendo, e mesmo que apareça com um toque a mais no fim, ela reconhece que é o mesmo atalho e fica quieta. 3) Quando você pergunta uma coisa enquanto ela ainda está trabalhando, a resposta agora aparece embaixo da pergunta certa. 4) Bateria: acabou o despertador de 5 em 5 minutos que só servia pra perguntar se algo tinha acontecido, as gravações do rastro passaram de 15 por minuto pra 1, e a leitura de toque virou limitada em telas com listas enormes. 5) Dois bugs de sincronia no controle de tela que podiam fazer ela tocar no lugar errado ou voltar pro modo lento sem motivo.",
+  "versionCode": 195,
+  "versionName": "1.94.1",
+  "notes": "O modelo do próprio celular voltou a ter a ferramenta de rotinas aprendidas — na 1.94.0 ela tinha sido tirada de lá só porque o texto de instruções não cabia mais. Em vez de cortar a ferramenta, encurtei as descrições que se repetiam: uma delas listava os seis botões do sistema duas vezes na mesma linha. O celular agora lê 1930 palavras de instrução em vez de 2023 antes de começar a responder, com a ferramenta de volta — ou seja, ficou mais rápida e mais completa ao mesmo tempo. Nada mudou no que ela sabe fazer.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e2e0996295525e8e65b07363a7f2c8cd30d70a1b7a5f83206f9e00a57e17014e"
+  "sha256": "a12d275d9e5e5e9ea08f45ae68510ea813ea28317b1573f2d3faf55e6bd09ae0"
 }
