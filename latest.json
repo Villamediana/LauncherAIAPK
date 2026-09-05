@@ -1,7 +1,7 @@
 {
-  "versionCode": 195,
-  "versionName": "1.94.1",
-  "notes": "O modelo do próprio celular voltou a ter a ferramenta de rotinas aprendidas — na 1.94.0 ela tinha sido tirada de lá só porque o texto de instruções não cabia mais. Em vez de cortar a ferramenta, encurtei as descrições que se repetiam: uma delas listava os seis botões do sistema duas vezes na mesma linha. O celular agora lê 1930 palavras de instrução em vez de 2023 antes de começar a responder, com a ferramenta de volta — ou seja, ficou mais rápida e mais completa ao mesmo tempo. Nada mudou no que ela sabe fazer.",
+  "versionCode": 196,
+  "versionName": "1.95.0",
+  "notes": "Chamar a Aura ficou parecido com chamar uma pessoa. Ela acende enquanto você ainda está falando — o brilho na borda da tela, o toque e a vibração chegam cerca de um segundo depois do nome, por cima do pedido, em vez de dois segundos e meio depois de você terminar a frase. A borda agora se mexe com a sua voz enquanto ela ouve, gira rápido e frio enquanto ela trabalha e respira enquanto ela fala; dentro de qualquer app, uma bolha abre no instante em que ela ouve o nome, com a sua voz desenhada ao vivo dentro dela.\nEla também deixa você terminar: a pausa que encerra a pergunta subiu de 1,1 para 1,6 segundo e o teto de 12 para 45 segundos, então ditar uma mensagem inteira não é mais cortado no meio.\nDepois de entregar uma tarefa ela continua ouvindo por 40 segundos (era 20), e o que você diz logo após a resposta — ou enquanto ela ainda está trabalhando — vale direto, sem passar por um juiz que às vezes decidia que não era com ela. Dizer só \"Aura\" dentro dessa janela agora acorda e espera a pergunta, em vez de fechar a conversa.\nA pergunta feita no mesmo fôlego do nome passou a ser ouvida pelo modelo bom de transcrição, não pelo menorzinho que fica ligado o dia todo — e um comando de uma palavra só (\"Aura, cancela\") já conta como pedido. Enquanto ela lê uma resposta em voz alta, tocar no orbe cala.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "a12d275d9e5e5e9ea08f45ae68510ea813ea28317b1573f2d3faf55e6bd09ae0"
+  "sha256": "2980785656fabad1dff406ff397c3f0763da73806fdf90224736f9ea4bfbdf22"
 }
