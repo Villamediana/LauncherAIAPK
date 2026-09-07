@@ -1,7 +1,7 @@
 {
-  "versionCode": 205,
-  "versionName": "1.101.0",
-  "notes": "Quadro de widgets: a Aura cria, edita e mantém atualizados os painéis que você quer achar prontos na tela.",
+  "versionCode": 206,
+  "versionName": "1.101.1",
+  "notes": "Revertido o quadro de widgets; refazemos direito quando você quiser (também na home, arrastando, com o quadro dentro das configurações).",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "9b552a5f881c49d7658f60d80912f3abcb76d51fe088fb560520514241770778"
+  "sha256": "a4dedad9c17c7cb549226590c8a0e6ec32fb3c1782311850e329e82623ee7421"
 }
