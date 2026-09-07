@@ -1,7 +1,7 @@
 {
-  "versionCode": 207,
-  "versionName": "1.102.0",
-  "notes": "Swipe pra qualquer lado num evento da agenda esconde ele pelo dia — volta amanhã sozinho.",
+  "versionCode": 208,
+  "versionName": "1.102.1",
+  "notes": "A tira do drawer agora mostra os últimos três apps abertos, sem legenda.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "134be8a79af5c3385decbafd40e2c056287e8631e4200327f0978e5fc9ebc24e"
+  "sha256": "324b1e19257d6219140e97c76d679920090373e992b1491554e7b77a9e221c1f"
 }
