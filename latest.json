@@ -1,7 +1,7 @@
 {
-  "versionCode": 201,
-  "versionName": "1.98.1",
-  "notes": "A cor de fonte escolhida agora vale para a data, a bateria e o clima; o orbe para de sumir sobre outros apps.",
+  "versionCode": 202,
+  "versionName": "1.99.0",
+  "notes": "A orbe ganhou corpo, ficou sólida sobre os apps, pode ser arrastada, sobe com o teclado e abre a caixa de perguntar ali mesmo.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "df137748d850897277c2f147a417c17b74f3ffd0029a9b2cb5a8a18f8f979043"
+  "sha256": "eef64f5a6b72aee7060c125eebea2dec436fb5c9255a2fc021ae6a9f6ae33d54"
 }
