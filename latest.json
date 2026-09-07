@@ -1,7 +1,7 @@
 {
-  "versionCode": 208,
-  "versionName": "1.102.1",
-  "notes": "A tira do drawer agora mostra os últimos três apps abertos, sem legenda.",
+  "versionCode": 209,
+  "versionName": "1.102.2",
+  "notes": "Drawer mais quieto: quatro recentes, sem contatos/atalhos na busca, sem oferta de perguntar à Aura.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "324b1e19257d6219140e97c76d679920090373e992b1491554e7b77a9e221c1f"
+  "sha256": "a77b937c96195c9a3d4c562a7255bbd06338fc27eb6a6dba33d61f1b25c4eb7e"
 }
