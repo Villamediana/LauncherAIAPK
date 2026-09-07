@@ -1,7 +1,7 @@
 {
-  "versionCode": 204,
-  "versionName": "1.100.1",
-  "notes": "Limpeza do que sobrou da orbe sobreposta: o glow voltou ao tamanho de um dono só, sem mudar de aparência.",
+  "versionCode": 205,
+  "versionName": "1.101.0",
+  "notes": "Quadro de widgets: a Aura cria, edita e mantém atualizados os painéis que você quer achar prontos na tela.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e76d45cc87643c8e7217e4af48b13ccc7a67be1f694c4bbe55e7690a6c6f9c31"
+  "sha256": "9b552a5f881c49d7658f60d80912f3abcb76d51fe088fb560520514241770778"
 }
