@@ -1,7 +1,7 @@
 {
-  "versionCode": 202,
-  "versionName": "1.99.0",
-  "notes": "A orbe ganhou corpo, ficou sólida sobre os apps, pode ser arrastada, sobe com o teclado e abre a caixa de perguntar ali mesmo.",
+  "versionCode": 203,
+  "versionName": "1.100.0",
+  "notes": "A orbe sobre outros apps saiu por completo; a pill e o glow do controle de tela continuam.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "eef64f5a6b72aee7060c125eebea2dec436fb5c9255a2fc021ae6a9f6ae33d54"
+  "sha256": "59363ec9ed13db4e59ee43232f92076bf61c8d6539b245eefdeffefe76ce7748"
 }
