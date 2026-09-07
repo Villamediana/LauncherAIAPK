@@ -1,7 +1,7 @@
 {
-  "versionCode": 199,
-  "versionName": "1.97.1",
-  "notes": "Ela para de refazer o que acabou de fazer: o arquivo que ela buscou numa pergunta continua valendo na resposta seguinte.",
+  "versionCode": 200,
+  "versionName": "1.98.0",
+  "notes": "A Aura não escuta mais pelo nome: a escuta contínua, a notificação permanente e os ajustes dela saíram. Voz continua igual — segure a orbe para falar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c2ab9dbac4205150b7c95e4f6d636323b43fa880251d151297c5bcc936e4dc19"
+  "sha256": "997d80de3df8d5d08e5f182753c7486ba2d9821f665ef99ed1027da6e69bbc3e"
 }
