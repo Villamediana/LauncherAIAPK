@@ -1,7 +1,7 @@
 {
-  "versionCode": 203,
-  "versionName": "1.100.0",
-  "notes": "A orbe sobre outros apps saiu por completo; a pill e o glow do controle de tela continuam.",
+  "versionCode": 204,
+  "versionName": "1.100.1",
+  "notes": "Limpeza do que sobrou da orbe sobreposta: o glow voltou ao tamanho de um dono só, sem mudar de aparência.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "59363ec9ed13db4e59ee43232f92076bf61c8d6539b245eefdeffefe76ce7748"
+  "sha256": "e76d45cc87643c8e7217e4af48b13ccc7a67be1f694c4bbe55e7690a6c6f9c31"
 }
