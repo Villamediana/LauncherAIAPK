@@ -1,7 +1,7 @@
 {
-  "versionCode": 209,
-  "versionName": "1.102.2",
-  "notes": "Drawer mais quieto: quatro recentes, sem contatos/atalhos na busca, sem oferta de perguntar à Aura.",
+  "versionCode": 210,
+  "versionName": "1.102.3",
+  "notes": "Evento da agenda que você swipou fora não volta mais depois do próximo tick de atualização.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "a77b937c96195c9a3d4c562a7255bbd06338fc27eb6a6dba33d61f1b25c4eb7e"
+  "sha256": "dbe5f857b5ee4158065921f76575252c38d23a7e4c8712f7ba75108312a4c100"
 }
