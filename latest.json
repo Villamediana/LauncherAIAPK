@@ -1,7 +1,7 @@
 {
-  "versionCode": 198,
-  "versionName": "1.97.0",
-  "notes": "A notificação de \"ouvindo\" parou de atrapalhar: agora está na importância mínima que o Android permite pra um serviço com microfone — sem ícone na barra de status, encolhida no fim da gaveta e escondida na tela de bloqueio. O Android só deixa baixar a importância de um canal uma vez, então o canal antigo é apagado e o novo entra sozinho na primeira vez que ela iniciar.\nO aviso de \"controle de tela pausado\" saiu da tela inicial. Ele agora fica em Ajustes → Permissões, embaixo de Controle de tela, dizendo qual app desligou e oferecendo reativar — em vez de aparecer no meio do papel de parede toda vez que você abre o banco.\nEla também atende por \"ei\", \"hey\", \"hei\", \"opa\" e \"psiu\", além do nome. Só como primeira palavra e sem tolerância a erro de grafia, pra não acordar com \"sei\", \"lei\" ou \"e aí\". \"Ei, Aura, apaga a luz\" conta como um chamado só.\nE as respostas faladas ficaram curtas de verdade: uma frase, o resultado e mais nada — sem repetir a pergunta, sem narrar o que fez, sem se oferecer pra fazer mais. Isso vale só quando você fala com ela; pergunta digitada continua podendo ter a resposta do tamanho que precisar.",
+  "versionCode": 199,
+  "versionName": "1.97.1",
+  "notes": "Ela para de refazer o que acabou de fazer: o arquivo que ela buscou numa pergunta continua valendo na resposta seguinte.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "286ff0321e880bbd261f79711f0bb6b703aa56745b52ad7b265a4d3258d1bc4b"
+  "sha256": "c2ab9dbac4205150b7c95e4f6d636323b43fa880251d151297c5bcc936e4dc19"
 }
