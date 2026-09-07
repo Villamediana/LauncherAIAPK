@@ -1,7 +1,7 @@
 {
-  "versionCode": 200,
-  "versionName": "1.98.0",
-  "notes": "A Aura não escuta mais pelo nome: a escuta contínua, a notificação permanente e os ajustes dela saíram. Voz continua igual — segure a orbe para falar.",
+  "versionCode": 201,
+  "versionName": "1.98.1",
+  "notes": "A cor de fonte escolhida agora vale para a data, a bateria e o clima; o orbe para de sumir sobre outros apps.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "997d80de3df8d5d08e5f182753c7486ba2d9821f665ef99ed1027da6e69bbc3e"
+  "sha256": "df137748d850897277c2f147a417c17b74f3ffd0029a9b2cb5a8a18f8f979043"
 }
