@@ -1,7 +1,7 @@
 {
-  "versionCode": 206,
-  "versionName": "1.101.1",
-  "notes": "Revertido o quadro de widgets; refazemos direito quando você quiser (também na home, arrastando, com o quadro dentro das configurações).",
+  "versionCode": 207,
+  "versionName": "1.102.0",
+  "notes": "Swipe pra qualquer lado num evento da agenda esconde ele pelo dia — volta amanhã sozinho.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "a4dedad9c17c7cb549226590c8a0e6ec32fb3c1782311850e329e82623ee7421"
+  "sha256": "134be8a79af5c3385decbafd40e2c056287e8631e4200327f0978e5fc9ebc24e"
 }
