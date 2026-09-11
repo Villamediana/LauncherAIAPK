@@ -1,7 +1,7 @@
 {
-  "versionCode": 214,
-  "versionName": "1.104.2",
-  "notes": "As conversas iniciadas ao segurar a orbe agora terminam no chat com a resposta real do modelo que executou a tarefa, além da transcrição do GPT-Live.",
+  "versionCode": 215,
+  "versionName": "1.104.3",
+  "notes": "As tarefas iniciadas pela orbe agora ficam completas no chat, com a resposta final, pills, resultados e dados do modelo configurado. Um toque fora encerra uma chamada acidental, sem aviso vermelho.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "5fc08b1f49c5f780fe2495bc605afa9edaccba72fa2c47885a370345e3406afa"
+  "sha256": "db584879ece0cf56821d988260d844edb4cd8c4128d7758ec13b267d1f5dc021"
 }
