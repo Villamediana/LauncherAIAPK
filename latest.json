@@ -1,7 +1,7 @@
 {
-  "versionCode": 210,
-  "versionName": "1.102.3",
-  "notes": "Evento da agenda que você swipou fora não volta mais depois do próximo tick de atualização.",
+  "versionCode": 211,
+  "versionName": "1.103.0",
+  "notes": "Conversa ao vivo: toque no ícone de onda ao lado do microfone e fale com a Aura sem apertar nada — ela ouve enquanto fala, e o trabalho continua indo pro assistente de sempre. Precisa de uma chave do GPT-Live em Ajustes.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "dbe5f857b5ee4158065921f76575252c38d23a7e4c8712f7ba75108312a4c100"
+  "sha256": "0ca212fc5464fc2e3a1bcd52a548cbd159daa6b9ca316323889c7e6c65b0cf2e"
 }
