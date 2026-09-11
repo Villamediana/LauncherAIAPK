@@ -1,7 +1,7 @@
 {
-  "versionCode": 212,
-  "versionName": "1.104.0",
-  "notes": "Agora dá pra segurar a orbe e falar com a Aura direto, sem abrir nada: solta quando terminar e ela acaba a tarefa, responde e desliga sozinha. Pedir mais de uma coisa entra na fila em vez de cancelar a anterior, a conversa fica salva no chat depois, e ela finalmente sabe quais extensões você conectou.",
+  "versionCode": 213,
+  "versionName": "1.104.1",
+  "notes": "Segurar a orbe agora preserva sua fala enquanto o GPT-Live conecta, espera a resposta antes de encerrar e não deixa a fila travada. A configuração também ficou mais simples, sem prompt editável nem catálogo duplicado de extensões.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "b1b0b41ecb49b29e5f8474fd422135095e22ddc346e6baa0d0531c1b1e03d9ba"
+  "sha256": "a07301fca005e5b566590c6a5a682f261c170d319eee5a32f6141c0311998f6c"
 }
