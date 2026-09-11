@@ -1,7 +1,7 @@
 {
-  "versionCode": 216,
-  "versionName": "1.104.4",
-  "notes": "A conversa por voz agora entende correções com base no histórico recente e termina de falar antes de encerrar.",
+  "versionCode": 217,
+  "versionName": "1.104.5",
+  "notes": "Ao soltar a orbe, a fala termina e a chamada fecha sem esperar a tarefa; o resultado completo chega depois no chat.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "22279dff8215cb44a81cdd17d689922f997ec526caf4ef63f9bf0f7adb626d59"
+  "sha256": "f56ebc5ff94df83bf70d09521fb564dae12739b995fd6fd5aa604efe3e0de6d4"
 }
