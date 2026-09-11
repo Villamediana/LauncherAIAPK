@@ -1,7 +1,7 @@
 {
-  "versionCode": 213,
-  "versionName": "1.104.1",
-  "notes": "Segurar a orbe agora preserva sua fala enquanto o GPT-Live conecta, espera a resposta antes de encerrar e não deixa a fila travada. A configuração também ficou mais simples, sem prompt editável nem catálogo duplicado de extensões.",
+  "versionCode": 214,
+  "versionName": "1.104.2",
+  "notes": "As conversas iniciadas ao segurar a orbe agora terminam no chat com a resposta real do modelo que executou a tarefa, além da transcrição do GPT-Live.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "a07301fca005e5b566590c6a5a682f261c170d319eee5a32f6141c0311998f6c"
+  "sha256": "5fc08b1f49c5f780fe2495bc605afa9edaccba72fa2c47885a370345e3406afa"
 }
