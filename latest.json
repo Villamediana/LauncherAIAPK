@@ -1,7 +1,7 @@
 {
-  "versionCode": 224,
-  "versionName": "1.104.12",
-  "notes": "A ligação agora espera até 30 segundos pela tarefa antes de desligar. Se passar disso, ela encerra e o resultado chega escrito no chat.",
+  "versionCode": 225,
+  "versionName": "1.104.13",
+  "notes": "Corrigido o corte no meio do pedido: ela agora delega antes de falar, a ligação não desliga enquanto ainda chega coisa pela conexão, e um pedido que chegava antes da transcrição não é mais descartado.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "554a05f684c7ee02d96abde6ec99cc38afd36c5021ab9b576928e3528e5381ce"
+  "sha256": "9ea50ac508017fa2b02dff4511738b38d001cff847e12b7ec3bf59b0903df1e3"
 }
