@@ -1,7 +1,7 @@
 {
-  "versionCode": 222,
-  "versionName": "1.104.10",
-  "notes": "Tarefas em segundo plano seguram a chamada por no maximo 15s, e o resultado nao e mais cortado no instante em que ela vai falar.",
+  "versionCode": 223,
+  "versionName": "1.104.11",
+  "notes": "Segurar a orbe agora mantém a ligação aberta enquanto a tarefa roda: ela espera o resultado, fala até o fim e só então desliga. Solta e aperta de novo continua a mesma conversa.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "d52cf8b82a4d6bc85de7a63f4a346d0c4dddcf1a0fb5e93c51f37da275f6c854"
+  "sha256": "0a0dd17f19d56392cac4897f51088ae688bcda174eea5aaf42a60beb8e9974cb"
 }
