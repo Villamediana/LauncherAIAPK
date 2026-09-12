@@ -1,7 +1,7 @@
 {
-  "versionCode": 221,
-  "versionName": "1.104.9",
-  "notes": "Segurar a orbe ficou fluido: ela nao e mais cortada no meio da resposta, soltar rapido nao perde a pergunta, e cada etapa tem sua propria vibracao.",
+  "versionCode": 222,
+  "versionName": "1.104.10",
+  "notes": "Tarefas em segundo plano seguram a chamada por no maximo 15s, e o resultado nao e mais cortado no instante em que ela vai falar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "627249f13d099643a6c8583bd087694e6510af050db10fbbd1575ba6284c3786"
+  "sha256": "d52cf8b82a4d6bc85de7a63f4a346d0c4dddcf1a0fb5e93c51f37da275f6c854"
 }
