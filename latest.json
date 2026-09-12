@@ -1,7 +1,7 @@
 {
-  "versionCode": 217,
-  "versionName": "1.104.5",
-  "notes": "Ao soltar a orbe, a fala termina e a chamada fecha sem esperar a tarefa; o resultado completo chega depois no chat.",
+  "versionCode": 218,
+  "versionName": "1.104.6",
+  "notes": "A voz ao vivo agora se recupera de uma conexão abortada ao iniciar uma nova chamada.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f56ebc5ff94df83bf70d09521fb564dae12739b995fd6fd5aa604efe3e0de6d4"
+  "sha256": "f55d4102ba604dccd5fd5d5e8decdef6f04cfaeac7a2ef53c431172a01590421"
 }
