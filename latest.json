@@ -1,7 +1,7 @@
 {
-  "versionCode": 225,
-  "versionName": "1.104.13",
-  "notes": "Corrigido o corte no meio do pedido: ela agora delega antes de falar, a ligação não desliga enquanto ainda chega coisa pela conexão, e um pedido que chegava antes da transcrição não é mais descartado.",
+  "versionCode": 226,
+  "versionName": "1.104.14",
+  "notes": "Segurar a orbe voltou a ser gravar e transcrever pro chat, como antes. O GPT Live agora fica só no botão dele, com tela própria, transcrição e botão de encerrar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "9ea50ac508017fa2b02dff4511738b38d001cff847e12b7ec3bf59b0903df1e3"
+  "sha256": "dcf7a5044f7212d7fbd83e54904b840c3c685c0c941e96edd4e3839657d839e5"
 }
