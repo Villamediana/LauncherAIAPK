@@ -1,7 +1,7 @@
 {
-  "versionCode": 223,
-  "versionName": "1.104.11",
-  "notes": "Segurar a orbe agora mantém a ligação aberta enquanto a tarefa roda: ela espera o resultado, fala até o fim e só então desliga. Solta e aperta de novo continua a mesma conversa.",
+  "versionCode": 224,
+  "versionName": "1.104.12",
+  "notes": "A ligação agora espera até 30 segundos pela tarefa antes de desligar. Se passar disso, ela encerra e o resultado chega escrito no chat.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "0a0dd17f19d56392cac4897f51088ae688bcda174eea5aaf42a60beb8e9974cb"
+  "sha256": "554a05f684c7ee02d96abde6ec99cc38afd36c5021ab9b576928e3528e5381ce"
 }
