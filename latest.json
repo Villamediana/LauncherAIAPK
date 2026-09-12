@@ -1,7 +1,7 @@
 {
-  "versionCode": 219,
-  "versionName": "1.104.7",
-  "notes": "Chamadas de voz consecutivas agora aguardam o encerramento anterior sem perder a fala, o contexto ou o gesto da orbe.",
+  "versionCode": 220,
+  "versionName": "1.104.8",
+  "notes": "A conversa por voz conecta de forma confiavel: nao trava mais em 'conectando' e nao responde mais a audio antigo da sala.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "86683fc477c16c592de890f7a65a3b1efe0ca15917d095c4b7a443729a8420fd"
+  "sha256": "ca0c1d32d4d4a2b8a45a277d44383a127a8e18c9ee5f75d886995c0e0860018d"
 }
