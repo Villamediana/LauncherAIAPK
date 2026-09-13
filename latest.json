@@ -1,7 +1,7 @@
 {
-  "versionCode": 226,
-  "versionName": "1.104.14",
-  "notes": "Segurar a orbe voltou a ser gravar e transcrever pro chat, como antes. O GPT Live agora fica só no botão dele, com tela própria, transcrição e botão de encerrar.",
+  "versionCode": 227,
+  "versionName": "1.104.15",
+  "notes": "O que ela escreve entre os passos não se perde mais — fica guardado junto do passo. E os passos agora ficam num bloco fechado com a contagem: toca pra abrir e ver tudo.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "dcf7a5044f7212d7fbd83e54904b840c3c685c0c941e96edd4e3839657d839e5"
+  "sha256": "020fcd04abe31d481fb8933cf9affc596b8e3e943e74e2520e70838a86857c0b"
 }
