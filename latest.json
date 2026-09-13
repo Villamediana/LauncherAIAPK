@@ -1,7 +1,7 @@
 {
-  "versionCode": 256,
-  "versionName": "1.107.8",
-  "notes": "O menu de gestos ficou menor e o fundo bem mais escuro, pra caixa e os desenhos serem a única coisa na tela.",
+  "versionCode": 257,
+  "versionName": "1.108.0",
+  "notes": "Gestos de mais de um traço: agora dá pra tirar a mão da tela e continuar, tipo desenhar um X. E o menu ficou menor, com fundo mais leve, entrada suave e barra de rolagem.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "49894177e760013f1b79a6280356c6e8f6bae85fbaed4dc7b7683ba024803ef1"
+  "sha256": "263cfbf5e46972d2014a9b796b5f3360d4148b1017f053ba2acf4ad6a2467cda"
 }
