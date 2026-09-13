@@ -1,7 +1,7 @@
 {
-  "versionCode": 236,
-  "versionName": "1.106.4",
-  "notes": "A notificação de gravação agora mostra quantos passos foram capturados, e tocar em Salvar fecha a barra de notificações sozinho.",
+  "versionCode": 237,
+  "versionName": "1.106.5",
+  "notes": "Abrindo um atalho dá pra remover um passo solto ou regravar tudo, e os botões de excluir e rodar ficaram juntos.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "55ad5059414d81b5c4be7f99aab92ed19b81be83b65b60d54e7c0db4407518e6"
+  "sha256": "da1a4febd67307500f0f128727443edaf944f2e51ba4bac8249dca425bb76b41"
 }
