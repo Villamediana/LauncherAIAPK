@@ -1,7 +1,7 @@
 {
-  "versionCode": 247,
-  "versionName": "1.106.15",
-  "notes": "Os gestos agora funcionam também dentro da gaveta de apps, não só na tela inicial.",
+  "versionCode": 248,
+  "versionName": "1.107.0",
+  "notes": "Desenhe um ponto de interrogação e a Aura mostra todos os seus gestos, desenhados — e dá pra tocar num deles pra executar. O \"?\" já vem pronto.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "bf19f9ef39ec073d9d9c842517f0d8df22d97ce23967233c8916b0fac9f19bd0"
+  "sha256": "05c0ef45cb794c233d6dc36877124de4b67fbe9dab65964e2ef3d508fb357236"
 }
