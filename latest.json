@@ -1,7 +1,7 @@
 {
-  "versionCode": 242,
-  "versionName": "1.106.10",
-  "notes": "Gestos podem rodar uma tarefa agendada na hora, e o cartão das agendadas foi refeito: título, horário, último resultado em destaque próprio e um botão só em evidência.",
+  "versionCode": 243,
+  "versionName": "1.106.11",
+  "notes": "Quarta opção nos gestos: ações dos apps. Lista com busca, cada app abre mostrando o que ele publica, mais um grupo da Aura e um do telefone (lanterna, botões do sistema).",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e87a08acf3d22799b81d60f028aedfd49183cfd154d8224c30edd24aa86003e3"
+  "sha256": "bade1b97a30a107c4c4dd2882655db166fb5db3872fd4473fa1a71e41df59055"
 }
