@@ -1,7 +1,7 @@
 {
-  "versionCode": 258,
-  "versionName": "1.108.1",
-  "notes": "O menu de gestos passou a usar as cores do tema do launcher e abre bem mais rápido.",
+  "versionCode": 259,
+  "versionName": "1.108.2",
+  "notes": "Gestos de mais de um traço agora aparecem desenhados como você fez: o dedo levanta onde você levantou. E quando um gesto novo parece demais com um que já existe, o app diz de qual.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "1256eca059c9fac5d17a51a34d06c76eaca3c905ea32bc7db18b00368a146cd7"
+  "sha256": "4601a5d9311d1e0f07e27dee8cb57bc934433d90abe594090c49161b62c73a45"
 }
