@@ -1,7 +1,7 @@
 {
-  "versionCode": 234,
-  "versionName": "1.106.2",
-  "notes": "Corrigido o atalho que travava no teclado: ele era gravado como se fosse um app pra abrir. Os atalhos que você já gravou são consertados sozinhos, e agora dá pra ver todos os passos na hora de salvar.",
+  "versionCode": 235,
+  "versionName": "1.106.3",
+  "notes": "Tocar num atalho agora abre e mostra os passos, em vez de rodar. Rodar virou um botão de play, ao lado da lixeira.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "2a9e4ece2fe5375ba0ca4b12c205e1a3738a2cecf96ae62462299d5fd7f115e9"
+  "sha256": "dbcba656fdbb052a2af781ccd405c8ece5f105d42e6760f70c90d0e42e19b245"
 }
