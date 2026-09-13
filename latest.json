@@ -1,7 +1,7 @@
 {
-  "versionCode": 260,
-  "versionName": "1.108.3",
-  "notes": "Agora é um véu só atrás dos gestos. Antes o desenho escurecia a tela e o menu punha outro por cima, mais claro — dava a impressão de que trocava de escuro na hora que o menu abria.",
+  "versionCode": 261,
+  "versionName": "1.109.0",
+  "notes": "Ensinar um gesto ficou mais tolerante — a mão pode tremer entre os três desenhos. E o modelo local saiu do chat: agora é um modelo só, o seu endpoint. Ele continua no celular só pra arrumar as notificações, num interruptor em O que a Aura pode fazer, desligado até você pedir.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "9ae850df36aef43745affb58f116350d97759706d477bb69ac19dfb6a49a20bd"
+  "sha256": "67c5b3c8c7eb070c9852ee3cb320a43a8c86aac2f217fcdbb6abd4323280932c"
 }
