@@ -1,7 +1,7 @@
 {
-  "versionCode": 252,
-  "versionName": "1.107.4",
-  "notes": "O menu de gestos ficou de vidro, sem título, e cada linha é só o desenho e o nome.",
+  "versionCode": 253,
+  "versionName": "1.107.5",
+  "notes": "No menu de gestos dá pra segurar o dedo e deslizar: a linha embaixo dele acende, a lista rola sozinha perto das bordas, e soltar executa. O painel encolheu pro tamanho do conteúdo.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "7cc5e6f392201475da027b8cd51ba7efc8635cf4fd4df754c7d8c834a7c5e073"
+  "sha256": "a6ce30d383a1f0449a6a68f346b5afec0fde941a2be58397a31c9c33cd442c40"
 }
