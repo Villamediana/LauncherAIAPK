@@ -1,7 +1,7 @@
 {
-  "versionCode": 237,
-  "versionName": "1.106.5",
-  "notes": "Abrindo um atalho dá pra remover um passo solto ou regravar tudo, e os botões de excluir e rodar ficaram juntos.",
+  "versionCode": 238,
+  "versionName": "1.106.6",
+  "notes": "Atalhos não gravam mais \"abrir o app\" quando você já está dentro dele — era isso que travava a reprodução. Os que você já gravou são consertados sozinhos.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "da1a4febd67307500f0f128727443edaf944f2e51ba4bac8249dca425bb76b41"
+  "sha256": "c248ccd996e43fdef4d00acae6adfd255562105daccb4aa164351edf3f05b2bb"
 }
