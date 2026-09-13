@@ -1,7 +1,7 @@
 {
-  "versionCode": 250,
-  "versionName": "1.107.2",
-  "notes": "O gesto de interrogação não vem mais pronto. \"Mostrar meus gestos\" continua em Ações de um app → Aura, pra você dar a forma que quiser.",
+  "versionCode": 251,
+  "versionName": "1.107.3",
+  "notes": "O menu de gestos agora abre de onde você desenhou, ficou bem menos transparente, e não lista mais o próprio gesto que abre ele.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "9cc240ceeeccd888fcddbf6418107b67a3d63eabebdb83bfb897bd2aaab93df3"
+  "sha256": "145ebb904035e81edd35a6938efdcde1f4080e7290bb26b890f862d804e2b63c"
 }
