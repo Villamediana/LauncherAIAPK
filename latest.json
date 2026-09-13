@@ -1,7 +1,7 @@
 {
-  "versionCode": 263,
-  "versionName": "1.111.0",
-  "notes": "Controle de tela mais rápido e mais esperto: dá pra tocar por texto, achar+tocar num passo só, e o toque cego virou 1/5 de segundo mais rápido. Bugs corrigidos e verbosidade removida das seções.",
+  "versionCode": 264,
+  "versionName": "1.111.1",
+  "notes": "Controle de tela mais rápido e inteligente, persistência mais segura e correções de estabilidade, atualização e compatibilidade.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "31e62e096e35716201dc32fdca66952f10136dd8e5bb051e61ef92d13f8720c6"
+  "sha256": "7a9339eb871330e07976023a1538c307373fd280d18d6fc4b91f07356b47fa40"
 }
