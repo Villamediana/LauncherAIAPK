@@ -1,7 +1,7 @@
 {
-  "versionCode": 264,
-  "versionName": "1.111.1",
-  "notes": "Controle de tela mais rápido e inteligente, persistência mais segura e correções de estabilidade, atualização e compatibilidade.",
+  "versionCode": 265,
+  "versionName": "1.111.2",
+  "notes": "Fixes Settings startup stalls, clarifies Android versus Aura settings, and hardens downloads, notifications, accessibility checks, and updates.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "7a9339eb871330e07976023a1538c307373fd280d18d6fc4b91f07356b47fa40"
+  "sha256": "b2c2e4decf603a05e3251883f7556f334be55a7936285bc6093972c794de8844"
 }
