@@ -1,7 +1,7 @@
 {
-  "versionCode": 257,
-  "versionName": "1.108.0",
-  "notes": "Gestos de mais de um traço: agora dá pra tirar a mão da tela e continuar, tipo desenhar um X. E o menu ficou menor, com fundo mais leve, entrada suave e barra de rolagem.",
+  "versionCode": 258,
+  "versionName": "1.108.1",
+  "notes": "O menu de gestos passou a usar as cores do tema do launcher e abre bem mais rápido.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "263cfbf5e46972d2014a9b796b5f3360d4148b1017f053ba2acf4ad6a2467cda"
+  "sha256": "1256eca059c9fac5d17a51a34d06c76eaca3c905ea32bc7db18b00368a146cd7"
 }
