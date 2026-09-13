@@ -1,7 +1,7 @@
 {
-  "versionCode": 262,
-  "versionName": "1.110.0",
-  "notes": "Aparência: wallpaper e wallpaper animado viraram uma escolha só — papel, céu noturno, constelação ou uma foto sua. O resto dos ajustes some verbosidade: seções colapsadas em Assistente, tarefas agendadas com ícones, gestos sempre ligados.",
+  "versionCode": 263,
+  "versionName": "1.111.0",
+  "notes": "Controle de tela mais rápido e mais esperto: dá pra tocar por texto, achar+tocar num passo só, e o toque cego virou 1/5 de segundo mais rápido. Bugs corrigidos e verbosidade removida das seções.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "64ff9c6549bac303b0326ccb89c737cec3bd8ab0a6d053b266f56e7adb5078fa"
+  "sha256": "31e62e096e35716201dc32fdca66952f10136dd8e5bb051e61ef92d13f8720c6"
 }
