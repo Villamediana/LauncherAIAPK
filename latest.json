@@ -1,7 +1,7 @@
 {
-  "versionCode": 251,
-  "versionName": "1.107.3",
-  "notes": "O menu de gestos agora abre de onde você desenhou, ficou bem menos transparente, e não lista mais o próprio gesto que abre ele.",
+  "versionCode": 252,
+  "versionName": "1.107.4",
+  "notes": "O menu de gestos ficou de vidro, sem título, e cada linha é só o desenho e o nome.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "145ebb904035e81edd35a6938efdcde1f4080e7290bb26b890f862d804e2b63c"
+  "sha256": "7cc5e6f392201475da027b8cd51ba7efc8635cf4fd4df754c7d8c834a7c5e073"
 }
