@@ -1,7 +1,7 @@
 {
-  "versionCode": 232,
-  "versionName": "1.106.0",
-  "notes": "Gestos viraram fluxos: cada passo pode ser uma ação do próprio app (as mesmas de segurar o ícone), mandar texto, abrir link, esperar, e passar o resultado de um passo pro seguinte.",
+  "versionCode": 233,
+  "versionName": "1.106.1",
+  "notes": "Montar um gesto ficou simples: duas opções em vez de uma lista enorme — escrever o que você quer que a Aura faça, ou escolher um atalho já gravado.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "1d603e5eafb56bbbd1f37d34521457530f6498542c21b5136e99c25a93e09f95"
+  "sha256": "4e10d1b011e83a491e03138cccda4d97581c49b690990002b4aca455043e6960"
 }
