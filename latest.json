@@ -1,7 +1,7 @@
 {
-  "versionCode": 254,
-  "versionName": "1.107.6",
-  "notes": "Os desenhos dos gestos no menu ficaram sólidos — a espessura do traço estava em pixels e virava fio de cabelo em tela de alta densidade.",
+  "versionCode": 255,
+  "versionName": "1.107.7",
+  "notes": "A caixa do menu de gestos voltou a ser sólida — os desenhos são finos demais pra competir com o papel de parede atrás.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "7008f6d74792a61db29254a2ba6dd82285822b71b77f6e998341eb2f7ef2f4fa"
+  "sha256": "020e3e47b26888260b1f0a3ab6bcaabbc93727cb1d7ad0345de5686566600fca"
 }
