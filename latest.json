@@ -1,7 +1,7 @@
 {
-  "versionCode": 240,
-  "versionName": "1.106.8",
-  "notes": "O passo do gesto mostra o texto inteiro que você escreveu, sem cortar em 40 caracteres e sem o prefixo em inglês.",
+  "versionCode": 241,
+  "versionName": "1.106.9",
+  "notes": "Atalhos agora dão uma respirada entre um passo e outro em vez de disparar assim que a tela para — era isso que fazia pular etapas.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "0242a2ef56e29c336617f04f3e0571a9cb6d698dab3d87feb7172f685c4f8841"
+  "sha256": "eb6b8470b76a2586824b736f68aaeafa838165aa1de6875c571cd397b48d96f8"
 }
