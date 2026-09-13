@@ -1,7 +1,7 @@
 {
-  "versionCode": 246,
-  "versionName": "1.106.14",
-  "notes": "Quando a Aura desliga o controle de tela por causa de um app de banco, agora aparece uma notificação que leva direto pro interruptor do Android.",
+  "versionCode": 247,
+  "versionName": "1.106.15",
+  "notes": "Os gestos agora funcionam também dentro da gaveta de apps, não só na tela inicial.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e915ed5c3b6b03c036824020bd86c360de52e63dae9fd8507eeaa8258e4f0604"
+  "sha256": "bf19f9ef39ec073d9d9c842517f0d8df22d97ce23967233c8916b0fac9f19bd0"
 }
