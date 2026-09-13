@@ -1,7 +1,7 @@
 {
-  "versionCode": 233,
-  "versionName": "1.106.1",
-  "notes": "Montar um gesto ficou simples: duas opções em vez de uma lista enorme — escrever o que você quer que a Aura faça, ou escolher um atalho já gravado.",
+  "versionCode": 234,
+  "versionName": "1.106.2",
+  "notes": "Corrigido o atalho que travava no teclado: ele era gravado como se fosse um app pra abrir. Os atalhos que você já gravou são consertados sozinhos, e agora dá pra ver todos os passos na hora de salvar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4e10d1b011e83a491e03138cccda4d97581c49b690990002b4aca455043e6960"
+  "sha256": "2a9e4ece2fe5375ba0ca4b12c205e1a3738a2cecf96ae62462299d5fd7f115e9"
 }
