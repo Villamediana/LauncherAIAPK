@@ -1,7 +1,7 @@
 {
-  "versionCode": 230,
-  "versionName": "1.104.18",
-  "notes": "O card do player some sozinho quando você fecha o app, e parou de esvaziar e voltar quando pula de vídeo.",
+  "versionCode": 231,
+  "versionName": "1.105.0",
+  "notes": "Gestos: desenhe uma forma com dois dedos na tela inicial e ela faz o que você mandar — abrir app, rodar atalho, gravar macro, perguntar pra Aura. Ensine em Ajustes → Gestos.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f2da939697c5d952c14ce8d084eb1439a96c7af1c5d595841bca21756c6f8c07"
+  "sha256": "7f38b8a2ec5fdfb38d7501885b19a707266b0a15085c1487d67ba33ed44a5ffd"
 }
