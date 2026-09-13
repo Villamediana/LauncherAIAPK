@@ -1,7 +1,7 @@
 {
-  "versionCode": 241,
-  "versionName": "1.106.9",
-  "notes": "Atalhos agora dão uma respirada entre um passo e outro em vez de disparar assim que a tela para — era isso que fazia pular etapas.",
+  "versionCode": 242,
+  "versionName": "1.106.10",
+  "notes": "Gestos podem rodar uma tarefa agendada na hora, e o cartão das agendadas foi refeito: título, horário, último resultado em destaque próprio e um botão só em evidência.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "eb6b8470b76a2586824b736f68aaeafa838165aa1de6875c571cd397b48d96f8"
+  "sha256": "e87a08acf3d22799b81d60f028aedfd49183cfd154d8224c30edd24aa86003e3"
 }
