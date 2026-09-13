@@ -1,7 +1,7 @@
 {
-  "versionCode": 227,
-  "versionName": "1.104.15",
-  "notes": "O que ela escreve entre os passos não se perde mais — fica guardado junto do passo. E os passos agora ficam num bloco fechado com a contagem: toca pra abrir e ver tudo.",
+  "versionCode": 228,
+  "versionName": "1.104.16",
+  "notes": "O card do player não some mais quando você pula de faixa — ele fica firme durante a troca, e o botão para de piscar entre play e pause.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "020fcd04abe31d481fb8933cf9affc596b8e3e943e74e2520e70838a86857c0b"
+  "sha256": "9faebf50bbc8cdc61ded7ff4c818fb53fdc459ac74c89c37fbb26e7a5d250400"
 }
