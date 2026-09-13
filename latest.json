@@ -1,7 +1,7 @@
 {
-  "versionCode": 259,
-  "versionName": "1.108.2",
-  "notes": "Gestos de mais de um traço agora aparecem desenhados como você fez: o dedo levanta onde você levantou. E quando um gesto novo parece demais com um que já existe, o app diz de qual.",
+  "versionCode": 260,
+  "versionName": "1.108.3",
+  "notes": "Agora é um véu só atrás dos gestos. Antes o desenho escurecia a tela e o menu punha outro por cima, mais claro — dava a impressão de que trocava de escuro na hora que o menu abria.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4601a5d9311d1e0f07e27dee8cb57bc934433d90abe594090c49161b62c73a45"
+  "sha256": "9ae850df36aef43745affb58f116350d97759706d477bb69ac19dfb6a49a20bd"
 }
