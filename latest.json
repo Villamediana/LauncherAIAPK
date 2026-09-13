@@ -1,7 +1,7 @@
 {
-  "versionCode": 228,
-  "versionName": "1.104.16",
-  "notes": "O card do player não some mais quando você pula de faixa — ele fica firme durante a troca, e o botão para de piscar entre play e pause.",
+  "versionCode": 229,
+  "versionName": "1.104.17",
+  "notes": "O card do player não some mais entre um vídeo e outro do YouTube, e parou de piscar quando você pausa ou troca de faixa.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "9faebf50bbc8cdc61ded7ff4c818fb53fdc459ac74c89c37fbb26e7a5d250400"
+  "sha256": "716a780f5bd483468dce7d2ac1f0181883894b7928e86019a5a0b188d962af12"
 }
