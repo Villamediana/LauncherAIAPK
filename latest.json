@@ -1,7 +1,7 @@
 {
-  "versionCode": 244,
-  "versionName": "1.106.12",
-  "notes": "Um scroll só na hora de escolher o passo — a lista de apps não briga mais com a rolagem da janela. Sem barra de busca.",
+  "versionCode": 245,
+  "versionName": "1.106.13",
+  "notes": "Abrir o chat depois de perguntar pra Aura agora espera a resposta dela. E os passos no chat ficam sempre fechados — toque pra abrir quando quiser ver.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "677e0e328bb3c401fe6acf17a57ce98be0dd3ab78faf58d1e61c3040e2d9f0d8"
+  "sha256": "7fd203b82026f2d6fbdd93c7da2ea6fa52bf5b97d43c1913993793bed04dda0f"
 }
