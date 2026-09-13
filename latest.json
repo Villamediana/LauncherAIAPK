@@ -1,7 +1,7 @@
 {
-  "versionCode": 265,
-  "versionName": "1.111.2",
-  "notes": "Fixes Settings startup stalls, clarifies Android versus Aura settings, and hardens downloads, notifications, accessibility checks, and updates.",
+  "versionCode": 266,
+  "versionName": "1.111.3",
+  "notes": "Fixes the crash when opening Appearance, restores the original settings icons, and makes wallpaper loading safer.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "b2c2e4decf603a05e3251883f7556f334be55a7936285bc6093972c794de8844"
+  "sha256": "fbd981daec11a32a6ca7decd4fbf70446dbf214ba2dcc66e7dfc322af96a80a4"
 }
