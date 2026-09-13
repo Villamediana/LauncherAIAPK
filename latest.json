@@ -1,7 +1,7 @@
 {
-  "versionCode": 238,
-  "versionName": "1.106.6",
-  "notes": "Atalhos não gravam mais \"abrir o app\" quando você já está dentro dele — era isso que travava a reprodução. Os que você já gravou são consertados sozinhos.",
+  "versionCode": 239,
+  "versionName": "1.106.7",
+  "notes": "Atalhos esperam mais por telas que demoram a carregar (mapa, lista), e passos gravados agora ganham o nome que estava escrito na tela em vez de \"icon\".",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c248ccd996e43fdef4d00acae6adfd255562105daccb4aa164351edf3f05b2bb"
+  "sha256": "9b51e536f8c0fcc5abf65c72a16514480ca2c9fbea39253cb27463f8c233e404"
 }
