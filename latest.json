@@ -1,7 +1,7 @@
 {
-  "versionCode": 248,
-  "versionName": "1.107.0",
-  "notes": "Desenhe um ponto de interrogação e a Aura mostra todos os seus gestos, desenhados — e dá pra tocar num deles pra executar. O \"?\" já vem pronto.",
+  "versionCode": 249,
+  "versionName": "1.107.1",
+  "notes": "Abrir a Aura estando na gaveta de apps agora abre o chat ali mesmo, sem voltar pra tela inicial.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "05c0ef45cb794c233d6dc36877124de4b67fbe9dab65964e2ef3d508fb357236"
+  "sha256": "bdb92a1672b107ed514bb9168dfd9af22f921525c39df4141ef9d74a31fe0fd5"
 }
