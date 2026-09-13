@@ -1,7 +1,7 @@
 {
-  "versionCode": 231,
-  "versionName": "1.105.0",
-  "notes": "Gestos: desenhe uma forma com dois dedos na tela inicial e ela faz o que você mandar — abrir app, rodar atalho, gravar macro, perguntar pra Aura. Ensine em Ajustes → Gestos.",
+  "versionCode": 232,
+  "versionName": "1.106.0",
+  "notes": "Gestos viraram fluxos: cada passo pode ser uma ação do próprio app (as mesmas de segurar o ícone), mandar texto, abrir link, esperar, e passar o resultado de um passo pro seguinte.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "7f38b8a2ec5fdfb38d7501885b19a707266b0a15085c1487d67ba33ed44a5ffd"
+  "sha256": "1d603e5eafb56bbbd1f37d34521457530f6498542c21b5136e99c25a93e09f95"
 }
