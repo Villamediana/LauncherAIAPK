@@ -1,7 +1,7 @@
 {
-  "versionCode": 249,
-  "versionName": "1.107.1",
-  "notes": "Abrir a Aura estando na gaveta de apps agora abre o chat ali mesmo, sem voltar pra tela inicial.",
+  "versionCode": 250,
+  "versionName": "1.107.2",
+  "notes": "O gesto de interrogação não vem mais pronto. \"Mostrar meus gestos\" continua em Ações de um app → Aura, pra você dar a forma que quiser.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "bdb92a1672b107ed514bb9168dfd9af22f921525c39df4141ef9d74a31fe0fd5"
+  "sha256": "9cc240ceeeccd888fcddbf6418107b67a3d63eabebdb83bfb897bd2aaab93df3"
 }
