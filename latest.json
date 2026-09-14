@@ -1,7 +1,7 @@
 {
-  "versionCode": 269,
-  "versionName": "1.111.6",
-  "notes": "Notificações reescritas agora mostram o resumo completo, sem cortar o final com reticências.",
+  "versionCode": 270,
+  "versionName": "1.111.7",
+  "notes": "O menu de gestos agora rola normalmente e executa opções com um toque. Endpoints OpenAI e Azure adaptam autenticação e alternam automaticamente entre Chat Completions e Responses, mostrando erros em vez de respostas vazias.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4456328481d235b3b7618b0c5bb1295696c0811fd1af47dddced9fb5157b272d"
+  "sha256": "5c40060ac947c0f302052ea432bef2b2c3f863079bd04e2c5aedc82a411dcbd8"
 }
