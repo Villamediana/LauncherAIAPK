@@ -1,7 +1,7 @@
 {
-  "versionCode": 266,
-  "versionName": "1.111.3",
-  "notes": "Fixes the crash when opening Appearance, restores the original settings icons, and makes wallpaper loading safer.",
+  "versionCode": 267,
+  "versionName": "1.111.4",
+  "notes": "Fluxos por gesto agora acumulam os resultados de cada etapa, incluindo as telas capturadas por macros, e entregam tudo à Aura nos passos seguintes.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "fbd981daec11a32a6ca7decd4fbf70446dbf214ba2dcc66e7dfc322af96a80a4"
+  "sha256": "f9b91a6c46ceaebfef1d6ee3beb22e7102d4a838ce25f56a3a88f19302ad6871"
 }
