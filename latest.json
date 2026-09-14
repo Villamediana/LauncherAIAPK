@@ -1,7 +1,7 @@
 {
-  "versionCode": 268,
-  "versionName": "1.111.5",
-  "notes": "O menu de gestos agora abre reto e acompanha o dedo com precisão ao descer e voltar pela lista.",
+  "versionCode": 269,
+  "versionName": "1.111.6",
+  "notes": "Notificações reescritas agora mostram o resumo completo, sem cortar o final com reticências.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "0bd9c39be77c16a5fa4bc335ed762e691fcf529a282d304b4d8f41d2933435bb"
+  "sha256": "4456328481d235b3b7618b0c5bb1295696c0811fd1af47dddced9fb5157b272d"
 }
