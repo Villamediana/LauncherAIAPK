@@ -1,7 +1,7 @@
 {
-  "versionCode": 270,
-  "versionName": "1.111.7",
-  "notes": "O menu de gestos agora rola normalmente e executa opções com um toque. Endpoints OpenAI e Azure adaptam autenticação e alternam automaticamente entre Chat Completions e Responses, mostrando erros em vez de respostas vazias.",
+  "versionCode": 271,
+  "versionName": "1.111.8",
+  "notes": "O gesto Voltar na tela inicial não recarrega mais o launcher, e notificações removidas por swipe permanecem removidas mesmo durante atualizações simultâneas do Android.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "5c40060ac947c0f302052ea432bef2b2c3f863079bd04e2c5aedc82a411dcbd8"
+  "sha256": "c3c4dbe4b4aca9097c38947e718771cd6e8082b8357544ad41e78ce0b0515996"
 }
