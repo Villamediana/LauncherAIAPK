@@ -1,7 +1,7 @@
 {
-  "versionCode": 267,
-  "versionName": "1.111.4",
-  "notes": "Fluxos por gesto agora acumulam os resultados de cada etapa, incluindo as telas capturadas por macros, e entregam tudo à Aura nos passos seguintes.",
+  "versionCode": 268,
+  "versionName": "1.111.5",
+  "notes": "O menu de gestos agora abre reto e acompanha o dedo com precisão ao descer e voltar pela lista.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f9b91a6c46ceaebfef1d6ee3beb22e7102d4a838ce25f56a3a88f19302ad6871"
+  "sha256": "0bd9c39be77c16a5fa4bc335ed762e691fcf529a282d304b4d8f41d2933435bb"
 }
