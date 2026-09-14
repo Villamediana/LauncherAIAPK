@@ -1,7 +1,7 @@
 {
-  "versionCode": 272,
-  "versionName": "1.111.9",
-  "notes": "Ações compactas agora usam ícones claros no editor de gestos, notificações, papel de parede e atalhos, mantendo descrições para acessibilidade.",
+  "versionCode": 273,
+  "versionName": "1.111.10",
+  "notes": "O clima da tela inicial e do painel detalhado agora obtém uma localização atual quando necessário, usa o fuso correto, exibe estados de carregamento e erro com nova tentativa e respeita a opção de ocultar clima.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "1e12b8f5797a3f1940c2d1d8a1523746347e5c23f3ace1afaf73ca1aa9860464"
+  "sha256": "885dfff189238c31a536887e094340b62a54c30ffa47cf05781f57ae4d592deb"
 }
