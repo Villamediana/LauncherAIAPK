@@ -1,7 +1,7 @@
 {
-  "versionCode": 274,
-  "versionName": "1.111.11",
-  "notes": "Menos consumo de bateria e tokens: memória sem chamada extra à nuvem, prompts enxutos e atualizações inteligentes de calendário e clima.",
+  "versionCode": 275,
+  "versionName": "1.111.12",
+  "notes": "Novo desenho gestual com uma mão: toque duas vezes no fundo da Home e desenhe com um dedo. Memórias remotas voltam a ser preparadas pelo próprio modelo antes da resposta.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c7f460fbc1b0afe8595a316104bc6fffad0bbf0e182ed0000705e6e536f8abee"
+  "sha256": "be047b2c0d7148a5ffcb5f06935fe813b492c4f0401b3370aa6be37f7aa5d226"
 }
