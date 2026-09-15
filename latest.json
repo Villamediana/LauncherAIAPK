@@ -1,7 +1,7 @@
 {
-  "versionCode": 273,
-  "versionName": "1.111.10",
-  "notes": "O clima da tela inicial e do painel detalhado agora obtém uma localização atual quando necessário, usa o fuso correto, exibe estados de carregamento e erro com nova tentativa e respeita a opção de ocultar clima.",
+  "versionCode": 274,
+  "versionName": "1.111.11",
+  "notes": "Menos consumo de bateria e tokens: memória sem chamada extra à nuvem, prompts enxutos e atualizações inteligentes de calendário e clima.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "885dfff189238c31a536887e094340b62a54c30ffa47cf05781f57ae4d592deb"
+  "sha256": "c7f460fbc1b0afe8595a316104bc6fffad0bbf0e182ed0000705e6e536f8abee"
 }
