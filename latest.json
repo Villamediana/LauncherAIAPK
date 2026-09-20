@@ -1,7 +1,7 @@
 {
-  "versionCode": 283,
-  "versionName": "1.114.1",
-  "notes": "Segurar um widget move (não abre mais ajustes), o swipe funciona nas pilhas e arrastar a carta visível é o que a tira da pilha. Formulários salvam sozinhos.",
+  "versionCode": 284,
+  "versionName": "1.114.2",
+  "notes": "Pilhas com ar entre as cartas e altura estável, swipe que não perde para o segurar, e soltar no mesmo lugar não desmancha mais a pilha.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "db45f77af48fb65e3868bdf30e92f973faffe11f93d59c064a9eda5789b4c253"
+  "sha256": "69771d8d7bb5b06dc5086ad23fb2e82708d232809c57c941b4f098de78c962ad"
 }
