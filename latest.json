@@ -1,7 +1,7 @@
 {
-  "versionCode": 301,
-  "versionName": "1.116.3",
-  "notes": "Os botões dentro dos widgets — play, pausar, marcar dose, fralda — reivindicam o toque na hora, então segurar não faz mais o widget engolir o clique.",
+  "versionCode": 302,
+  "versionName": "1.116.4",
+  "notes": "Toque e segurar convivem no mesmo widget; dose marcada mostra o check antes de sair; editar remédio não fecha sozinho; e dá para corrigir as doses dadas.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "77db44e4c84e79f3437272f6aa269c27f15e87d13d3b19f4794b65ccefe9f41a"
+  "sha256": "b0e4ebf1d64c46d414822493adcba0e632150679b432aec7fb41297a5732d673"
 }
