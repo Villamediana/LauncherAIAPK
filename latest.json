@@ -1,7 +1,7 @@
 {
-  "versionCode": 290,
-  "versionName": "1.114.8",
-  "notes": "O modo de arrumar se desliga sozinho cinco segundos depois do último widget solto.",
+  "versionCode": 291,
+  "versionName": "1.114.9",
+  "notes": "O card mostra sempre as seis doses mais próximas — um remédio de 24 h não some mais da lista.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "afbfd3bcab26fc4cc1a14712d0e6413f1ebe29d01bd2ed01cb10d46186a07e0e"
+  "sha256": "a0396db485fbb27cfaa73ff0df393d959cb71592291ca13539124f7914be3f18"
 }
