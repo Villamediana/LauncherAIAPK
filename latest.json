@@ -1,7 +1,7 @@
 {
-  "versionCode": 282,
-  "versionName": "1.114.0",
-  "notes": "Segure um widget para mover, solte sobre outro para empilhar e deslize entre os empilhados. Widget desligado não toca mais lembrete.",
+  "versionCode": 283,
+  "versionName": "1.114.1",
+  "notes": "Segurar um widget move (não abre mais ajustes), o swipe funciona nas pilhas e arrastar a carta visível é o que a tira da pilha. Formulários salvam sozinhos.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "38e90e189373249b15364e5bd18815ab5eafc5709ffc2a4baf758a74df9baaca"
+  "sha256": "db45f77af48fb65e3868bdf30e92f973faffe11f93d59c064a9eda5789b4c253"
 }
