@@ -1,7 +1,7 @@
 {
-  "versionCode": 276,
-  "versionName": "1.112.0",
-  "notes": "Tela inicial agora é feita de widgets: ligue ou desligue cada um em Ajustes › Widgets. Dois novos — mamadas, com etapas cronometradas e previsão da próxima, e remédios, com doses marcáveis e gráfico da dose.",
+  "versionCode": 277,
+  "versionName": "1.112.1",
+  "notes": "Mamadas e remédios agora são linhas leves sobre o papel de parede, sem caixa preta. Remédios só aparece quando há algo cadastrado; o cadastro fica em Ajustes › Widgets.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "fff72bb61b5948b468f78537117f33c0def46adc08e1a523577c517dc073f2b8"
+  "sha256": "4504b9a5ab77b14eb8ab7e81c11fbe49f02f3016e48f123552da53ee370a7bfd"
 }
