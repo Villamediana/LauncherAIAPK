@@ -1,7 +1,7 @@
 {
-  "versionCode": 291,
-  "versionName": "1.114.9",
-  "notes": "O card mostra sempre as seis doses mais próximas — um remédio de 24 h não some mais da lista.",
+  "versionCode": 293,
+  "versionName": "1.114.11",
+  "notes": "As seis linhas são as seis doses ainda por dar, da mais próxima em diante; o que já foi dado só ocupa linha que sobrou.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "a0396db485fbb27cfaa73ff0df393d959cb71592291ca13539124f7914be3f18"
+  "sha256": "edfe81faa3cb08391b27b35df2cd53b988a018fa76f82765407269464b9f9cf6"
 }
