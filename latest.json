@@ -1,7 +1,7 @@
 {
-  "versionCode": 288,
-  "versionName": "1.114.6",
-  "notes": "As linhas de remédio perdem o \"Amanhã\", que quebrava o pareamento em duas colunas.",
+  "versionCode": 289,
+  "versionName": "1.114.7",
+  "notes": "As doses do próximo horário ficam em destaque e as seguintes recuam. O play volta a iniciar a mamada.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6ab4f127cc7994538164cc5e30d6ef267df715068d0a517c6199b193aa167468"
+  "sha256": "6567ca5f1dce2957a0e8c01450f4bed921f76a38c04cba139c4804bdeba67676"
 }
