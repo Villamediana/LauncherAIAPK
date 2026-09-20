@@ -1,7 +1,7 @@
 {
-  "versionCode": 275,
-  "versionName": "1.111.12",
-  "notes": "Novo desenho gestual com uma mão: toque duas vezes no fundo da Home e desenhe com um dedo. Memórias remotas voltam a ser preparadas pelo próprio modelo antes da resposta.",
+  "versionCode": 276,
+  "versionName": "1.112.0",
+  "notes": "Tela inicial agora é feita de widgets: ligue ou desligue cada um em Ajustes › Widgets. Dois novos — mamadas, com etapas cronometradas e previsão da próxima, e remédios, com doses marcáveis e gráfico da dose.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "be047b2c0d7148a5ffcb5f06935fe813b492c4f0401b3370aa6be37f7aa5d226"
+  "sha256": "fff72bb61b5948b468f78537117f33c0def46adc08e1a523577c517dc073f2b8"
 }
