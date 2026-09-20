@@ -1,7 +1,7 @@
 {
-  "versionCode": 289,
-  "versionName": "1.114.7",
-  "notes": "As doses do próximo horário ficam em destaque e as seguintes recuam. O play volta a iniciar a mamada.",
+  "versionCode": 290,
+  "versionName": "1.114.8",
+  "notes": "O modo de arrumar se desliga sozinho cinco segundos depois do último widget solto.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6567ca5f1dce2957a0e8c01450f4bed921f76a38c04cba139c4804bdeba67676"
+  "sha256": "afbfd3bcab26fc4cc1a14712d0e6413f1ebe29d01bd2ed01cb10d46186a07e0e"
 }
