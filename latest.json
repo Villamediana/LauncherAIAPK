@@ -1,7 +1,7 @@
 {
-  "versionCode": 277,
-  "versionName": "1.112.1",
-  "notes": "Mamadas e remédios agora são linhas leves sobre o papel de parede, sem caixa preta. Remédios só aparece quando há algo cadastrado; o cadastro fica em Ajustes › Widgets.",
+  "versionCode": 278,
+  "versionName": "1.112.2",
+  "notes": "Os formulários de remédio e mamada agora são digitados: horas, horário da primeira dose e duração em dias. Começar mamada virou um ícone de play sem fundo, e o widget de remédios some quando não há dose.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4504b9a5ab77b14eb8ab7e81c11fbe49f02f3016e48f123552da53ee370a7bfd"
+  "sha256": "568e774a3ddfc11b2504c65a3a5fdf4a4dd799c90b2f2503098956bca33a2307"
 }
