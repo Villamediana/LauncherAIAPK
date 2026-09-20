@@ -1,7 +1,7 @@
 {
-  "versionCode": 298,
-  "versionName": "1.116.0",
-  "notes": "Etapas da mamada podem ser cronômetro (tempo aberto) além de temporizador, e o botão de parar agora pausa de verdade — com continuar, reiniciar e terminar.",
+  "versionCode": 299,
+  "versionName": "1.116.1",
+  "notes": "Terminar a mamada salva na hora — o reagendamento dos lembretes saiu da thread da interface.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "ab562c9b91fa5a35caf0cefae4d2ea8e0cbbb03051c44b7279319b5e488d0eb8"
+  "sha256": "ea626abd6f789cb15946095556b4f628d0e8ddac622f5c64a7615452ae3069f4"
 }
