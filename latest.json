@@ -1,7 +1,7 @@
 {
-  "versionCode": 300,
-  "versionName": "1.116.2",
-  "notes": "Um relógio só para os três widgets de cuidado, sem tique a cada segundo quando a mamada está pausada.",
+  "versionCode": 301,
+  "versionName": "1.116.3",
+  "notes": "Os botões dentro dos widgets — play, pausar, marcar dose, fralda — reivindicam o toque na hora, então segurar não faz mais o widget engolir o clique.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "13201d1bda04e388f3116b84a9173ac3b7ba6efb50c8a7f039845163ea01548c"
+  "sha256": "77db44e4c84e79f3437272f6aa269c27f15e87d13d3b19f4794b65ccefe9f41a"
 }
