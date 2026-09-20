@@ -1,7 +1,7 @@
 {
-  "versionCode": 296,
-  "versionName": "1.115.2",
-  "notes": "Espaçamento igual entre todos os widgets, sem vão fantasma dos que estão vazios; fraldas sem texto nenhum ao lado.",
+  "versionCode": 297,
+  "versionName": "1.115.3",
+  "notes": "Arrastar widget ficou leve — sem recompor a tela inteira a cada quadro — e o play volta a iniciar a mamada.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "838a6e0295609348ddf912035addce92ebf5e40fedeaeb9cee920afb9405bad8"
+  "sha256": "6ee7dec5eacd02d8877ab6ac0e3fa7a292df1bb719bac7f79e0220ca0c408bb2"
 }
