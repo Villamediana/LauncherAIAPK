@@ -1,7 +1,7 @@
 {
-  "versionCode": 287,
-  "versionName": "1.114.5",
-  "notes": "Ao arrastar um widget, os outros voltam a abrir espaço com animação.",
+  "versionCode": 288,
+  "versionName": "1.114.6",
+  "notes": "As linhas de remédio perdem o \"Amanhã\", que quebrava o pareamento em duas colunas.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "eaafa49afb10107be3740f9a620a814898bfca7b18c4e743c288cb2200b4e0b7"
+  "sha256": "6ab4f127cc7994538164cc5e30d6ef267df715068d0a517c6199b193aa167468"
 }
