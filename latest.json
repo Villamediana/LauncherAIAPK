@@ -1,7 +1,7 @@
 {
-  "versionCode": 286,
-  "versionName": "1.114.4",
-  "notes": "Menos espaço entre os widgets e fim do salto ao reordenar — o widget solta onde a tela mostrou que ia soltar.",
+  "versionCode": 287,
+  "versionName": "1.114.5",
+  "notes": "Ao arrastar um widget, os outros voltam a abrir espaço com animação.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "b1782945fb10ebe99bde60d28c7d929bf1391de440c607179c8b5600b108be9a"
+  "sha256": "eaafa49afb10107be3740f9a620a814898bfca7b18c4e743c288cb2200b4e0b7"
 }
