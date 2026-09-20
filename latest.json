@@ -1,7 +1,7 @@
 {
-  "versionCode": 279,
-  "versionName": "1.113.0",
-  "notes": "A Aura agora mexe nos widgets: cadastrar, editar, pausar ou apagar remédio, marcar dose, registrar mamada, rodar o cronômetro e ligar ou desligar widgets — tudo falando.",
+  "versionCode": 280,
+  "versionName": "1.113.1",
+  "notes": "O widget de remédios mostra uma linha por remédio — a dose atrasada, ou a próxima — em vez de listar todos os horários.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "2de56e785ec2793b3c2c0d8e8199b61e53ac9cf914f79725c8a22999812281ec"
+  "sha256": "026195d14f35bdb3c9b9cb39e89d8064ab79f760c6e1aae0b212b09c4d5c2e06"
 }
