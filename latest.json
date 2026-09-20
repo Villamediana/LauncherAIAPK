@@ -1,7 +1,7 @@
 {
-  "versionCode": 299,
-  "versionName": "1.116.1",
-  "notes": "Terminar a mamada salva na hora — o reagendamento dos lembretes saiu da thread da interface.",
+  "versionCode": 300,
+  "versionName": "1.116.2",
+  "notes": "Um relógio só para os três widgets de cuidado, sem tique a cada segundo quando a mamada está pausada.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "ea626abd6f789cb15946095556b4f628d0e8ddac622f5c64a7615452ae3069f4"
+  "sha256": "13201d1bda04e388f3116b84a9173ac3b7ba6efb50c8a7f039845163ea01548c"
 }
