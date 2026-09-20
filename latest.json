@@ -1,7 +1,7 @@
 {
-  "versionCode": 293,
-  "versionName": "1.114.11",
-  "notes": "As seis linhas são as seis doses ainda por dar, da mais próxima em diante; o que já foi dado só ocupa linha que sobrou.",
+  "versionCode": 294,
+  "versionName": "1.115.0",
+  "notes": "Novo widget de fraldas — xixi e cocô com um toque, contados em 24 h — e um resumo dos últimos 7 dias para levar ao pediatra, com botão de compartilhar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "edfe81faa3cb08391b27b35df2cd53b988a018fa76f82765407269464b9f9cf6"
+  "sha256": "f053cbbbc734c7cd17943194d38eaf1487b3ddcb50b358fffa626d7ea186bdcd"
 }
