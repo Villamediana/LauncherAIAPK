@@ -1,7 +1,7 @@
 {
-  "versionCode": 281,
-  "versionName": "1.113.2",
-  "notes": "Os remédios ficam em duas colunas, com o marcador no início da linha e o horário logo depois do nome.",
+  "versionCode": 282,
+  "versionName": "1.114.0",
+  "notes": "Segure um widget para mover, solte sobre outro para empilhar e deslize entre os empilhados. Widget desligado não toca mais lembrete.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "8e384cb94b31a1bdfbb670fc23a3efcb54133ab3c0c662436fa0cf4159d5c367"
+  "sha256": "38e90e189373249b15364e5bd18815ab5eafc5709ffc2a4baf758a74df9baaca"
 }
