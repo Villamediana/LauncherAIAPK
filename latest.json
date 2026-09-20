@@ -1,7 +1,7 @@
 {
-  "versionCode": 278,
-  "versionName": "1.112.2",
-  "notes": "Os formulários de remédio e mamada agora são digitados: horas, horário da primeira dose e duração em dias. Começar mamada virou um ícone de play sem fundo, e o widget de remédios some quando não há dose.",
+  "versionCode": 279,
+  "versionName": "1.113.0",
+  "notes": "A Aura agora mexe nos widgets: cadastrar, editar, pausar ou apagar remédio, marcar dose, registrar mamada, rodar o cronômetro e ligar ou desligar widgets — tudo falando.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "568e774a3ddfc11b2504c65a3a5fdf4a4dd799c90b2f2503098956bca33a2307"
+  "sha256": "2de56e785ec2793b3c2c0d8e8199b61e53ac9cf914f79725c8a22999812281ec"
 }
