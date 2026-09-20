@@ -1,7 +1,7 @@
 {
-  "versionCode": 280,
-  "versionName": "1.113.1",
-  "notes": "O widget de remédios mostra uma linha por remédio — a dose atrasada, ou a próxima — em vez de listar todos os horários.",
+  "versionCode": 281,
+  "versionName": "1.113.2",
+  "notes": "Os remédios ficam em duas colunas, com o marcador no início da linha e o horário logo depois do nome.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "026195d14f35bdb3c9b9cb39e89d8064ab79f760c6e1aae0b212b09c4d5c2e06"
+  "sha256": "8e384cb94b31a1bdfbb670fc23a3efcb54133ab3c0c662436fa0cf4159d5c367"
 }
