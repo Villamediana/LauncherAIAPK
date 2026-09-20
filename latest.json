@@ -1,7 +1,7 @@
 {
-  "versionCode": 297,
-  "versionName": "1.115.3",
-  "notes": "Arrastar widget ficou leve — sem recompor a tela inteira a cada quadro — e o play volta a iniciar a mamada.",
+  "versionCode": 298,
+  "versionName": "1.116.0",
+  "notes": "Etapas da mamada podem ser cronômetro (tempo aberto) além de temporizador, e o botão de parar agora pausa de verdade — com continuar, reiniciar e terminar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6ee7dec5eacd02d8877ab6ac0e3fa7a292df1bb719bac7f79e0220ca0c408bb2"
+  "sha256": "ab562c9b91fa5a35caf0cefae4d2ea8e0cbbb03051c44b7279319b5e488d0eb8"
 }
