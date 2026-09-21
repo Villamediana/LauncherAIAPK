@@ -1,7 +1,7 @@
 {
-  "versionCode": 312,
-  "versionName": "1.118.0",
-  "notes": "Sai o GPT-Live: o protocolo, a chamada em tela cheia, o serviço com o microfone e a seção nos ajustes. Nos ajustes do assistente, agir no celular passa a ser sempre ligado e ver imagens/ouvir áudio sempre desligado — os dois interruptores saíram da tela.",
+  "versionCode": 313,
+  "versionName": "1.118.1",
+  "notes": "Na tela de bloqueio, a faixa vertical virou um botão redondo no canto inferior direito, com o traço da Aura desenhado dentro. Toque nele para abrir a página de desenho, ou arraste para fora e já comece o traço.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "0c386f433f4a70cd9322a65698ef92353a0678f817b54301cf525591e87d76b5"
+  "sha256": "d3abd6be652772099026a0306fdf3eb3d6395e1dc1cd549c92301cb9561dab05"
 }
