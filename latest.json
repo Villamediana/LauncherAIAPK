@@ -1,7 +1,7 @@
 {
-  "versionCode": 317,
-  "versionName": "1.120.0",
-  "notes": "A orbe da Aura — a mesma, não uma cópia — agora pode flutuar por cima de qualquer app, e ao lado dela uma marca abre a tela de desenho dentro de qualquer app. Dois toggles, em Ações e em Gestos. Tocar na orbe sobre um app leva a leitura da tela junto com a pergunta.",
+  "versionCode": 318,
+  "versionName": "1.121.0",
+  "notes": "Dois passos novos nos gestos: Ouvir, que abre uma barrinha com a onda do microfone e devolve o que você falou, e Ler a tela, que captura o que está na frente. Encadeáveis com {it} — circule algo, ela lê a tela, você fala, e a pergunta chega com as duas coisas.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "04bb3638ebd366f28b78996cb812445a679b66298aebf4e253febc48ec411896"
+  "sha256": "b4656763b56fd1c1aa4175996acf07b7960f111b1266341100213f000976c992"
 }
