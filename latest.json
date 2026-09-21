@@ -1,7 +1,7 @@
 {
-  "versionCode": 304,
-  "versionName": "1.116.6",
-  "notes": "Tocar ao lado do nome de um favorito não abre mais o app — o alvo é a palavra, não a linha inteira.",
+  "versionCode": 305,
+  "versionName": "1.117.0",
+  "notes": "Experimento: uma faixa na borda esquerda da tela de bloqueio para desenhar os gestos. Ligue em Ajustes › Gestos; a ação só roda depois da digital.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "8058586b4c9c2d4a684908edd3286d766ba019f240a626a76ad94e0beaae9415"
+  "sha256": "89c96be797beca61e86b83a3500ecd1dda1d1ebe57dfd37b480ab7c62140e052"
 }
