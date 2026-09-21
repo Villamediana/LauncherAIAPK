@@ -1,7 +1,7 @@
 {
-  "versionCode": 302,
-  "versionName": "1.116.4",
-  "notes": "Toque e segurar convivem no mesmo widget; dose marcada mostra o check antes de sair; editar remédio não fecha sozinho; e dá para corrigir as doses dadas.",
+  "versionCode": 303,
+  "versionName": "1.116.5",
+  "notes": "As doses já dadas viram um campo dentro de editar remédio, não mais um mais/menos no detalhe.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "b0e4ebf1d64c46d414822493adcba0e632150679b432aec7fb41297a5732d673"
+  "sha256": "39a612e583f8b2edf9866960df5d33bcd2c8f555f539dc7359d20aa545914c8f"
 }
