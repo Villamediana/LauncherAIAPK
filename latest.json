@@ -1,7 +1,7 @@
 {
-  "versionCode": 316,
-  "versionName": "1.119.0",
-  "notes": "Onboarding refeito: agora pede as permissões todas de uma vez, a chave do assistente com URL e modelo já preenchidos, e oferece os downloads do Whisper e do Gemma — para sair da configuração com tudo funcionando.",
+  "versionCode": 317,
+  "versionName": "1.120.0",
+  "notes": "A orbe da Aura — a mesma, não uma cópia — agora pode flutuar por cima de qualquer app, e ao lado dela uma marca abre a tela de desenho dentro de qualquer app. Dois toggles, em Ações e em Gestos. Tocar na orbe sobre um app leva a leitura da tela junto com a pergunta.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "ef35f9d14608d05805211ee9b4369a03a8002974198d8b4c2019a185193ea89e"
+  "sha256": "04bb3638ebd366f28b78996cb812445a679b66298aebf4e253febc48ec411896"
 }
