@@ -1,7 +1,7 @@
 {
-  "versionCode": 310,
-  "versionName": "1.117.5",
-  "notes": "Gesto reconhecido na tela de bloqueio volta a executar: era preciso a permissão de sobrepor apps, agora listada em Permissões. O traço também diz se acertou ou não.",
+  "versionCode": 311,
+  "versionName": "1.117.6",
+  "notes": "Aparência: a foto escolhida vira também o wallpaper da tela de bloqueio, e um slider de overlay escurece a foto ao vivo pro relógio e os nomes aparecerem.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "37ab74eb28577da6ed7687b89e2590bc039aa8ca85d340a05b46e1ae455f9584"
+  "sha256": "9488c7db66ebd848bc243974630f6516e9f793f5e12085021d41070d529715f0"
 }
