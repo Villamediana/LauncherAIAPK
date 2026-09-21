@@ -1,7 +1,7 @@
 {
-  "versionCode": 318,
-  "versionName": "1.121.0",
-  "notes": "Dois passos novos nos gestos: Ouvir, que abre uma barrinha com a onda do microfone e devolve o que você falou, e Ler a tela, que captura o que está na frente. Encadeáveis com {it} — circule algo, ela lê a tela, você fala, e a pergunta chega com as duas coisas.",
+  "versionCode": 319,
+  "versionName": "1.121.1",
+  "notes": "Corrige o travamento ao ligar a orbe por cima dos apps: o dono do ciclo de vida precisava estar na raiz da janela, não no ComposeView. A barra também não aparecia por conta disso.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "b4656763b56fd1c1aa4175996acf07b7960f111b1266341100213f000976c992"
+  "sha256": "ac4769958647b072ecbb72027612bf0d25e5bc9e2461a3374a79fe46f74610a8"
 }
