@@ -1,7 +1,7 @@
 {
-  "versionCode": 307,
-  "versionName": "1.117.2",
-  "notes": "Na tela de bloqueio: toque na faixa para abrir o papel e desenhe onde quiser, com o mesmo traço da home.",
+  "versionCode": 308,
+  "versionName": "1.117.3",
+  "notes": "O interruptor dos gestos na tela de bloqueio volta para Ajustes › Gestos.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "ede6cff0d9fe21571369657a6213cdc741a88a2461bb92483213f5eb3ec96f52"
+  "sha256": "f709aa803be482bb89ac48722e4c35863065956d62856a6d312a807e6b5d6c39"
 }
