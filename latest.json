@@ -1,7 +1,7 @@
 {
-  "versionCode": 306,
-  "versionName": "1.117.1",
-  "notes": "O interruptor dos gestos na tela de bloqueio foi para Ajustes › Sistema › Permissões, logo abaixo do controle de tela de que ele depende.",
+  "versionCode": 307,
+  "versionName": "1.117.2",
+  "notes": "Na tela de bloqueio: toque na faixa para abrir o papel e desenhe onde quiser, com o mesmo traço da home.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "2c1489d5192f24243db80d3ed45b654f77da83fceb623e8e9de9ef41678d554c"
+  "sha256": "ede6cff0d9fe21571369657a6213cdc741a88a2461bb92483213f5eb3ec96f52"
 }
