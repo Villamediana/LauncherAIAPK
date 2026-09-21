@@ -1,7 +1,7 @@
 {
-  "versionCode": 309,
-  "versionName": "1.117.4",
-  "notes": "A tela de desenho abre saindo da faixa, com animação, e agora cobre também a barra de status.",
+  "versionCode": 310,
+  "versionName": "1.117.5",
+  "notes": "Gesto reconhecido na tela de bloqueio volta a executar: era preciso a permissão de sobrepor apps, agora listada em Permissões. O traço também diz se acertou ou não.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "0d4edf5f47527c7842c7cb38822b32aaf8b61cf8765bfce1a6e20bed067acaa8"
+  "sha256": "37ab74eb28577da6ed7687b89e2590bc039aa8ca85d340a05b46e1ae455f9584"
 }
