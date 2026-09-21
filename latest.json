@@ -1,7 +1,7 @@
 {
-  "versionCode": 320,
-  "versionName": "1.122.0",
-  "notes": "Remove a orbe e os gestos por cima de outros apps, e os passos Ouvir e Ler a tela. O launcher volta a ser o da 1.119.0, com o onboarding novo, o overlay do wallpaper e o botão de desenho na tela de bloqueio.",
+  "versionCode": 321,
+  "versionName": "1.122.1",
+  "notes": "Corrige o botão de play da mamada e o segurar-para-mover no widget: o card de mamada tinha ficado de fora da mudança que fez botões e arrasto dividirem os mesmos pixels.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "768c550461f5562842adc6fa7575e8e1ee9d5248f9addd9a5487db474dd5ce85"
+  "sha256": "6e0d56287760db4cb88c67d25f8f9ec4c6c60a8c9eee0f2114ae45e40c369fc3"
 }
