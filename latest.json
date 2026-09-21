@@ -1,7 +1,7 @@
 {
-  "versionCode": 305,
-  "versionName": "1.117.0",
-  "notes": "Experimento: uma faixa na borda esquerda da tela de bloqueio para desenhar os gestos. Ligue em Ajustes › Gestos; a ação só roda depois da digital.",
+  "versionCode": 306,
+  "versionName": "1.117.1",
+  "notes": "O interruptor dos gestos na tela de bloqueio foi para Ajustes › Sistema › Permissões, logo abaixo do controle de tela de que ele depende.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "89c96be797beca61e86b83a3500ecd1dda1d1ebe57dfd37b480ab7c62140e052"
+  "sha256": "2c1489d5192f24243db80d3ed45b654f77da83fceb623e8e9de9ef41678d554c"
 }
