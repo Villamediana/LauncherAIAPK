@@ -1,7 +1,7 @@
 {
-  "versionCode": 308,
-  "versionName": "1.117.3",
-  "notes": "O interruptor dos gestos na tela de bloqueio volta para Ajustes › Gestos.",
+  "versionCode": 309,
+  "versionName": "1.117.4",
+  "notes": "A tela de desenho abre saindo da faixa, com animação, e agora cobre também a barra de status.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f709aa803be482bb89ac48722e4c35863065956d62856a6d312a807e6b5d6c39"
+  "sha256": "0d4edf5f47527c7842c7cb38822b32aaf8b61cf8765bfce1a6e20bed067acaa8"
 }
