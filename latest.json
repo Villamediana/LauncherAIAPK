@@ -1,7 +1,7 @@
 {
-  "versionCode": 323,
-  "versionName": "1.122.3",
-  "notes": "Corrige o segurar-para-mover no widget de mamada: ele era o único com um clickable na raiz, que consome o toque e fazia o board desistir do card inteiro.",
+  "versionCode": 324,
+  "versionName": "1.122.4",
+  "notes": "No widget de remédios, uma dose já marcada sai da lista de seis depois de duas horas, liberando a linha para o que ainda vem.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "3fd6200275729716525b5102d9a09c97602c2739c781dc4ffe54c7588dfb524e"
+  "sha256": "2e3d04c5f7240938b1fc8ec901fc120db24d085125e3178fa9cee6ec83cc8627"
 }
