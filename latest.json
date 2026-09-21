@@ -1,7 +1,7 @@
 {
-  "versionCode": 314,
-  "versionName": "1.118.2",
-  "notes": "No botão da tela de bloqueio, arrastar para fora agora só abre a página de desenho — sem deixar um traço vindo do canto. Toque e arrasto terminam igual: a página aberta e em branco, pronta para o desenho.",
+  "versionCode": 315,
+  "versionName": "1.118.3",
+  "notes": "A página de desenho da tela de bloqueio agora sai de dentro do próprio botão e volta pra dentro dele ao fechar, em vez de aparecer e sumir seca.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "516f136039e68c37654c4cfb03f79a669d949d25d8c4f9f536aa7d450399baf4"
+  "sha256": "6a1db5c1d1e2ed465eef46e9a1f507b1714e3ba7d30bd543ace59862c67a755d"
 }
