@@ -1,7 +1,7 @@
 {
-  "versionCode": 311,
-  "versionName": "1.117.6",
-  "notes": "Aparência: a foto escolhida vira também o wallpaper da tela de bloqueio, e um slider de overlay escurece a foto ao vivo pro relógio e os nomes aparecerem.",
+  "versionCode": 312,
+  "versionName": "1.118.0",
+  "notes": "Sai o GPT-Live: o protocolo, a chamada em tela cheia, o serviço com o microfone e a seção nos ajustes. Nos ajustes do assistente, agir no celular passa a ser sempre ligado e ver imagens/ouvir áudio sempre desligado — os dois interruptores saíram da tela.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "9488c7db66ebd848bc243974630f6516e9f793f5e12085021d41070d529715f0"
+  "sha256": "0c386f433f4a70cd9322a65698ef92353a0678f817b54301cf525591e87d76b5"
 }
