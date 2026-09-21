@@ -1,7 +1,7 @@
 {
-  "versionCode": 319,
-  "versionName": "1.121.1",
-  "notes": "Corrige o travamento ao ligar a orbe por cima dos apps: o dono do ciclo de vida precisava estar na raiz da janela, não no ComposeView. A barra também não aparecia por conta disso.",
+  "versionCode": 320,
+  "versionName": "1.122.0",
+  "notes": "Remove a orbe e os gestos por cima de outros apps, e os passos Ouvir e Ler a tela. O launcher volta a ser o da 1.119.0, com o onboarding novo, o overlay do wallpaper e o botão de desenho na tela de bloqueio.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "ac4769958647b072ecbb72027612bf0d25e5bc9e2461a3374a79fe46f74610a8"
+  "sha256": "768c550461f5562842adc6fa7575e8e1ee9d5248f9addd9a5487db474dd5ce85"
 }
