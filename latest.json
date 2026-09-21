@@ -1,7 +1,7 @@
 {
-  "versionCode": 321,
-  "versionName": "1.122.1",
-  "notes": "Corrige o botão de play da mamada e o segurar-para-mover no widget: o card de mamada tinha ficado de fora da mudança que fez botões e arrasto dividirem os mesmos pixels.",
+  "versionCode": 322,
+  "versionName": "1.122.2",
+  "notes": "Corrige o segurar-para-mover os widgets: o board somava cada passo do dedo em vez de medir o quanto ele saiu do lugar, e o tremor natural de um dedo parado cancelava o hold antes de ele terminar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6e0d56287760db4cb88c67d25f8f9ec4c6c60a8c9eee0f2114ae45e40c369fc3"
+  "sha256": "cad6151ed46834e355c3556e4ccc77e2a5bab27a9d55558ff93cee32af3b8177"
 }
