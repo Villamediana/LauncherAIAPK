@@ -1,7 +1,7 @@
 {
-  "versionCode": 324,
-  "versionName": "1.122.4",
-  "notes": "No widget de remédios, uma dose já marcada sai da lista de seis depois de duas horas, liberando a linha para o que ainda vem.",
+  "versionCode": 325,
+  "versionName": "1.122.5",
+  "notes": "A dose perdida solta a linha depois de duas horas e as fraldas contam desde a meia-noite.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "2e3d04c5f7240938b1fc8ec901fc120db24d085125e3178fa9cee6ec83cc8627"
+  "sha256": "21d27c295ecbecdc982ad15215f5b94e5b8dbdd6ec054a8587e73c28cde4a86e"
 }
