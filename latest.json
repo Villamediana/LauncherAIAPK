@@ -1,7 +1,7 @@
 {
-  "versionCode": 303,
-  "versionName": "1.116.5",
-  "notes": "As doses já dadas viram um campo dentro de editar remédio, não mais um mais/menos no detalhe.",
+  "versionCode": 304,
+  "versionName": "1.116.6",
+  "notes": "Tocar ao lado do nome de um favorito não abre mais o app — o alvo é a palavra, não a linha inteira.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "39a612e583f8b2edf9866960df5d33bcd2c8f555f539dc7359d20aa545914c8f"
+  "sha256": "8058586b4c9c2d4a684908edd3286d766ba019f240a626a76ad94e0beaae9415"
 }
