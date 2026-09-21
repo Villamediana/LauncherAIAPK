@@ -1,7 +1,7 @@
 {
-  "versionCode": 313,
-  "versionName": "1.118.1",
-  "notes": "Na tela de bloqueio, a faixa vertical virou um botão redondo no canto inferior direito, com o traço da Aura desenhado dentro. Toque nele para abrir a página de desenho, ou arraste para fora e já comece o traço.",
+  "versionCode": 314,
+  "versionName": "1.118.2",
+  "notes": "No botão da tela de bloqueio, arrastar para fora agora só abre a página de desenho — sem deixar um traço vindo do canto. Toque e arrasto terminam igual: a página aberta e em branco, pronta para o desenho.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "d3abd6be652772099026a0306fdf3eb3d6395e1dc1cd549c92301cb9561dab05"
+  "sha256": "516f136039e68c37654c4cfb03f79a669d949d25d8c4f9f536aa7d450399baf4"
 }
