@@ -1,7 +1,7 @@
 {
-  "versionCode": 327,
-  "versionName": "1.123.1",
-  "notes": "As decisões rápidas agora também funcionam pelo OpenRouter — dá pra usar a chave e o crédito que você já tem lá, em vez de abrir conta na TypeSafe.",
+  "versionCode": 328,
+  "versionName": "1.123.2",
+  "notes": "As decisões rápidas saíram: a Aura volta a trabalhar só com o modelo que você configurou, sem chave nem serviço extra no caminho.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "05f5d715b0f5a8327a7d07ed92ffba7cd7cc8c10d382bea4b310500c5b2d72bf"
+  "sha256": "614153a4b05598e8188456b9295e3eded4b0cc37245ae26abe989560d4b7171b"
 }
