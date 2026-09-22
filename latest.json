@@ -1,7 +1,7 @@
 {
-  "versionCode": 329,
-  "versionName": "1.124.0",
-  "notes": "Backup em Ajustes → Dados: exporta tudo num arquivo só, restaura de volta, manda uma cópia pra onde quiser, e pode escrever sozinho todo dia numa pasta que você escolhe.",
+  "versionCode": 330,
+  "versionName": "1.124.1",
+  "notes": "Correções no backup: uma restauração já não podia ser desfeita por um arquivo temporário antigo, e uma falha ao gravar já não apaga a cópia do dia anterior.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c96ecd4ebf522876c125e300ce7c92ac9a350be755a8fa75921902d8bc3801ee"
+  "sha256": "0b00be0563d1df38d2e6b094053b7338d24a4e99c4fe3d68291736331e1c16f3"
 }
