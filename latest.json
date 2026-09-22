@@ -1,7 +1,7 @@
 {
-  "versionCode": 330,
-  "versionName": "1.124.1",
-  "notes": "Correções no backup: uma restauração já não podia ser desfeita por um arquivo temporário antigo, e uma falha ao gravar já não apaga a cópia do dia anterior.",
+  "versionCode": 331,
+  "versionName": "1.124.2",
+  "notes": "A tela de backup ficou mais enxuta, exportar não cria mais um segundo arquivo com o mesmo conteúdo, e mandar uma cópia pra outro app voltou a funcionar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "0b00be0563d1df38d2e6b094053b7338d24a4e99c4fe3d68291736331e1c16f3"
+  "sha256": "91936391423d75f3757a0ccfe10d9b4eeaae74d8b261f5c6f76a2d79f3a2a4f9"
 }
