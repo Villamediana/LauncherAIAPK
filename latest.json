@@ -1,7 +1,7 @@
 {
-  "versionCode": 328,
-  "versionName": "1.123.2",
-  "notes": "As decisões rápidas saíram: a Aura volta a trabalhar só com o modelo que você configurou, sem chave nem serviço extra no caminho.",
+  "versionCode": 329,
+  "versionName": "1.124.0",
+  "notes": "Backup em Ajustes → Dados: exporta tudo num arquivo só, restaura de volta, manda uma cópia pra onde quiser, e pode escrever sozinho todo dia numa pasta que você escolhe.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "614153a4b05598e8188456b9295e3eded4b0cc37245ae26abe989560d4b7171b"
+  "sha256": "c96ecd4ebf522876c125e300ce7c92ac9a350be755a8fa75921902d8bc3801ee"
 }
