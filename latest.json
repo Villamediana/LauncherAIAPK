@@ -1,7 +1,7 @@
 {
-  "versionCode": 325,
-  "versionName": "1.122.5",
-  "notes": "A dose perdida solta a linha depois de duas horas e as fraldas contam desde a meia-noite.",
+  "versionCode": 326,
+  "versionName": "1.123.0",
+  "notes": "Os gestos aprendem com os traços que você acerta, e os atalhos gravados se corrigem sozinhos quando o app muda de lugar. Em Ajustes, decisões rápidas deixam o controle de tela bem mais ágil.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "21d27c295ecbecdc982ad15215f5b94e5b8dbdd6ec054a8587e73c28cde4a86e"
+  "sha256": "5abc5da4a9f49c2e0bda7218e178350b5fb5892a94e185597d1668b0900b93ad"
 }
