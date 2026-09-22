@@ -1,7 +1,7 @@
 {
-  "versionCode": 326,
-  "versionName": "1.123.0",
-  "notes": "Os gestos aprendem com os traços que você acerta, e os atalhos gravados se corrigem sozinhos quando o app muda de lugar. Em Ajustes, decisões rápidas deixam o controle de tela bem mais ágil.",
+  "versionCode": 327,
+  "versionName": "1.123.1",
+  "notes": "As decisões rápidas agora também funcionam pelo OpenRouter — dá pra usar a chave e o crédito que você já tem lá, em vez de abrir conta na TypeSafe.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "5abc5da4a9f49c2e0bda7218e178350b5fb5892a94e185597d1668b0900b93ad"
+  "sha256": "05f5d715b0f5a8327a7d07ed92ffba7cd7cc8c10d382bea4b310500c5b2d72bf"
 }
