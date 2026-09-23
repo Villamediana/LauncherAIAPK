@@ -1,7 +1,7 @@
 {
-  "versionCode": 331,
-  "versionName": "1.124.2",
-  "notes": "A tela de backup ficou mais enxuta, exportar não cria mais um segundo arquivo com o mesmo conteúdo, e mandar uma cópia pra outro app voltou a funcionar.",
+  "versionCode": 332,
+  "versionName": "1.125.0",
+  "notes": "Os cards de mamada e fralda saíram. No lugar do primeiro entrou um cronômetro com temporizador: o mostrador é o botão, e a contagem sobrevive à tela apagar e ao celular reiniciar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "91936391423d75f3757a0ccfe10d9b4eeaae74d8b261f5c6f76a2d79f3a2a4f9"
+  "sha256": "01d17bb1f49fce9a7a3db709b27c0206891fa201017e3ca17d2ffc12b6f34bd1"
 }
