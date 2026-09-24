@@ -1,7 +1,7 @@
 {
-  "versionCode": 347,
-  "versionName": "1.129.9",
-  "notes": "A caixa de conversa volta à altura de antes.",
+  "versionCode": 348,
+  "versionName": "1.129.10",
+  "notes": "Os ajustes abrem sem engasgar, e o título voltou pra mesma letra do resto.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f6de817be0a5fec68aa3f277d7171c9b9dd1b31e73f1593d91e30c5af0ce1ae9"
+  "sha256": "4104119d026599039e6b641da823bed1623c8fa63ed876ca4554cc2219612e87"
 }
