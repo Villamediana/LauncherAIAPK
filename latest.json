@@ -1,7 +1,7 @@
 {
-  "versionCode": 335,
-  "versionName": "1.128.0",
-  "notes": "Visual novo: fontes próprias em todo o app, relógio Editorial, gaveta com letras grandes, orbe com um cometa enquanto trabalha e ajustes com transições suaves.",
+  "versionCode": 336,
+  "versionName": "1.128.1",
+  "notes": "Os apps abrem num círculo saindo do seu toque, sem a gaveta voltar pro início antes. A tela inicial volta com a letra e o espaçamento de antes.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "59e3440e29130a1b649eb5d84aba7234b8454d23070ebf76568b735f3a4391bd"
+  "sha256": "3fd0ed8fe8e4b401232f2254528f3801cfb342e5406fe68225f92afb2649f44c"
 }
