@@ -1,7 +1,7 @@
 {
-  "versionCode": 345,
-  "versionName": "1.129.7",
-  "notes": "A orbe ficou da altura da caixa de conversa e a caixa abre no mesmo lugar; os recentes da gaveta agora são só quatro nomes, sem fundo.",
+  "versionCode": 346,
+  "versionName": "1.129.8",
+  "notes": "A orbe volta ao tamanho de antes, e a caixa de conversa agora tem exatamente a altura dela.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e3912ffaf3e38c2ccf5f5774e6906cf215bb42ff8059146e4d91c3adb46766b9"
+  "sha256": "dbd132cc94e02006ea2814cd880270323fc8767d8ed6a7a9114f80e23d66c243"
 }
