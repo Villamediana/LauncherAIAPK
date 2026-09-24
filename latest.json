@@ -1,7 +1,7 @@
 {
-  "versionCode": 348,
-  "versionName": "1.129.10",
-  "notes": "Os ajustes abrem sem engasgar, e o título voltou pra mesma letra do resto.",
+  "versionCode": 349,
+  "versionName": "1.130.0",
+  "notes": "Novo widget de mapa na tela inicial: onde você está, em 3D, com as ruas em volta e a distância até o próximo compromisso da agenda.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4104119d026599039e6b641da823bed1623c8fa63ed876ca4554cc2219612e87"
+  "sha256": "09daf03843abad70a88143f037e1e77a290c838a0d81e126a0f8322c9aee3285"
 }
