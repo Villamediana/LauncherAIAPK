@@ -1,7 +1,7 @@
 {
-  "versionCode": 337,
-  "versionName": "1.128.2",
-  "notes": "Favoritos da tela inicial mais juntinhos, e a letra dos remédios e das outras telas de volta à de sempre.",
+  "versionCode": 338,
+  "versionName": "1.129.0",
+  "notes": "A orbe solta faíscas enquanto trabalha e estoura quando responde, a caixa de conversa ganhou o mesmo cometa na borda, e o botão de enviar ficou vivo.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "8c0b4e81954f7eeb248d4172d046202365337a2183684e385bd2277dba4a723d"
+  "sha256": "ae0494c45fceafd7d2b81b23fff04f381095670f6068f50b46e03f895d69f829"
 }
