@@ -1,7 +1,7 @@
 {
-  "versionCode": 342,
-  "versionName": "1.129.4",
-  "notes": "Gaveta sem as letras grandes no meio da lista, e os apps com o espaçamento de antes.",
+  "versionCode": 343,
+  "versionName": "1.129.5",
+  "notes": "As letras laranjas voltaram na gaveta, com os nomes dos apps mais leves e um pouco mais espaçados.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "11f6a4018dd61a78cc20b4022166445d2add4667d11ed8cbc9dfe5c2ca4b4d67"
+  "sha256": "bf3a65148200eb118f4e90fc19e5a5ad942704700722f8b46ac0f70bc46c907f"
 }
