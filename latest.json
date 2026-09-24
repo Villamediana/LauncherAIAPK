@@ -1,7 +1,7 @@
 {
-  "versionCode": 339,
-  "versionName": "1.129.1",
-  "notes": "Recentes da gaveta em carrossel sem cortar nomes, apps mais juntinhos na lista, e os ajustes abrem direto sem passar pela tela inicial.",
+  "versionCode": 340,
+  "versionName": "1.129.2",
+  "notes": "A orbe gira sem emendas, sem o brilho e sem o cometa na caixa, e os apps da gaveta ficaram mais juntinhos.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "d09333597d3a0f870786063eb5e149433dc8f850943c29a57cfa0a447e054341"
+  "sha256": "930749b8d6b909688fd47d1fe304cf221f2381fd210dd0090cda7928a9b6f957"
 }
