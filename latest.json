@@ -1,7 +1,7 @@
 {
-  "versionCode": 338,
-  "versionName": "1.129.0",
-  "notes": "A orbe solta faíscas enquanto trabalha e estoura quando responde, a caixa de conversa ganhou o mesmo cometa na borda, e o botão de enviar ficou vivo.",
+  "versionCode": 339,
+  "versionName": "1.129.1",
+  "notes": "Recentes da gaveta em carrossel sem cortar nomes, apps mais juntinhos na lista, e os ajustes abrem direto sem passar pela tela inicial.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "ae0494c45fceafd7d2b81b23fff04f381095670f6068f50b46e03f895d69f829"
+  "sha256": "d09333597d3a0f870786063eb5e149433dc8f850943c29a57cfa0a447e054341"
 }
