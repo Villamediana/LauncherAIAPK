@@ -1,7 +1,7 @@
 {
-  "versionCode": 346,
-  "versionName": "1.129.8",
-  "notes": "A orbe volta ao tamanho de antes, e a caixa de conversa agora tem exatamente a altura dela.",
+  "versionCode": 347,
+  "versionName": "1.129.9",
+  "notes": "A caixa de conversa volta à altura de antes.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "dbd132cc94e02006ea2814cd880270323fc8767d8ed6a7a9114f80e23d66c243"
+  "sha256": "f6de817be0a5fec68aa3f277d7171c9b9dd1b31e73f1593d91e30c5af0ce1ae9"
 }
