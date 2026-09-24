@@ -1,7 +1,7 @@
 {
-  "versionCode": 341,
-  "versionName": "1.129.3",
-  "notes": "A orbe volta ao cometa limpo, sem faíscas.",
+  "versionCode": 342,
+  "versionName": "1.129.4",
+  "notes": "Gaveta sem as letras grandes no meio da lista, e os apps com o espaçamento de antes.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c38df77f3a57e90bb8ea460e68dd91006c6854d951b3822dbdbf376e84a67bb0"
+  "sha256": "11f6a4018dd61a78cc20b4022166445d2add4667d11ed8cbc9dfe5c2ca4b4d67"
 }
