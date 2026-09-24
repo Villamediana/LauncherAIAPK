@@ -1,7 +1,7 @@
 {
-  "versionCode": 350,
-  "versionName": "1.131.0",
-  "notes": "Dois widgets novos: Agora (o que importa neste minuto, até a hora de sair) e Céu do dia (o sol e a lua desenhados). O mapa ganhou uma seta que aponta pra onde você está virado e mostra o que tem por perto.",
+  "versionCode": 351,
+  "versionName": "1.131.1",
+  "notes": "O Agora ficou mais esperto: só mostra remédio atrasado de agora, pega a agenda do dia inteiro e inclui alarmes, temporizador e tarefas da Aura.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "2c57cae4593e4225d2da26822670e10b7cf9df0210380dfa3adf10c8959db377"
+  "sha256": "63220711f2f1e81b2836ae1ac3540bee0d1ef5e6adf4e95c3806ca23a5eb5f1b"
 }
