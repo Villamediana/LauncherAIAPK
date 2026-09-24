@@ -1,7 +1,7 @@
 {
-  "versionCode": 336,
-  "versionName": "1.128.1",
-  "notes": "Os apps abrem num círculo saindo do seu toque, sem a gaveta voltar pro início antes. A tela inicial volta com a letra e o espaçamento de antes.",
+  "versionCode": 337,
+  "versionName": "1.128.2",
+  "notes": "Favoritos da tela inicial mais juntinhos, e a letra dos remédios e das outras telas de volta à de sempre.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "3fd0ed8fe8e4b401232f2254528f3801cfb342e5406fe68225f92afb2649f44c"
+  "sha256": "8c0b4e81954f7eeb248d4172d046202365337a2183684e385bd2277dba4a723d"
 }
