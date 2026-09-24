@@ -1,7 +1,7 @@
 {
-  "versionCode": 353,
-  "versionName": "1.132.0",
-  "notes": "O mapa agora abre em tela cheia: busque um destino, veja a rota se desenhar de carro, a pé, de bike ou de transporte público (SP e Rio), alterne 2D/3D e mande pro Maps ou pro Uber.",
+  "versionCode": 354,
+  "versionName": "1.132.1",
+  "notes": "Corrigido o tempo das rotas a pé e de bike no mapa, que estavam iguais às de carro.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "67937ef757407af8af9afcbd33de19d3c645c82db7acd7d9d7a2a11e87f80216"
+  "sha256": "fa6c78808b75627c6accd88d7f155c8d96f69bd4a53a7390b9eadd867e2d3b68"
 }
