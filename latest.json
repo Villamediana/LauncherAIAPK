@@ -1,7 +1,7 @@
 {
-  "versionCode": 351,
-  "versionName": "1.131.1",
-  "notes": "O Agora ficou mais esperto: só mostra remédio atrasado de agora, pega a agenda do dia inteiro e inclui alarmes, temporizador e tarefas da Aura.",
+  "versionCode": 352,
+  "versionName": "1.131.2",
+  "notes": "Quando não há nada pendente, o Agora some da tela.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "63220711f2f1e81b2836ae1ac3540bee0d1ef5e6adf4e95c3806ca23a5eb5f1b"
+  "sha256": "89f4be1e764c4e3a54e02b5140052231fe66c86de8e06d1dc9a18097b58fc381"
 }
