@@ -1,7 +1,7 @@
 {
-  "versionCode": 344,
-  "versionName": "1.129.6",
-  "notes": "A lista da gaveta volta a ser como era, e a caixa de conversa agora nasce de dentro da orbe.",
+  "versionCode": 345,
+  "versionName": "1.129.7",
+  "notes": "A orbe ficou da altura da caixa de conversa e a caixa abre no mesmo lugar; os recentes da gaveta agora são só quatro nomes, sem fundo.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "d08c60a736010a8cfbfbbf7151697690bfff53dfd29e5684dff10d8442f2659b"
+  "sha256": "e3912ffaf3e38c2ccf5f5774e6906cf215bb42ff8059146e4d91c3adb46766b9"
 }
