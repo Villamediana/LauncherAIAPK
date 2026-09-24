@@ -1,7 +1,7 @@
 {
-  "versionCode": 332,
-  "versionName": "1.125.0",
-  "notes": "Os cards de mamada e fralda saíram. No lugar do primeiro entrou um cronômetro com temporizador: o mostrador é o botão, e a contagem sobrevive à tela apagar e ao celular reiniciar.",
+  "versionCode": 333,
+  "versionName": "1.126.0",
+  "notes": "A Aura faz vários toques de uma vez (tocar, digitar, enviar) sem parar pra pensar entre cada um, e acerta botões mesmo sem acento. A conversa ganhou animações novas.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "01d17bb1f49fce9a7a3db709b27c0206891fa201017e3ca17d2ffc12b6f34bd1"
+  "sha256": "65936e403cf29ecb84fd17dfe01d135a7e07485386fcedaf3f6f3fef60fc21dd"
 }
