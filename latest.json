@@ -1,7 +1,7 @@
 {
-  "versionCode": 349,
-  "versionName": "1.130.0",
-  "notes": "Novo widget de mapa na tela inicial: onde você está, em 3D, com as ruas em volta e a distância até o próximo compromisso da agenda.",
+  "versionCode": 350,
+  "versionName": "1.131.0",
+  "notes": "Dois widgets novos: Agora (o que importa neste minuto, até a hora de sair) e Céu do dia (o sol e a lua desenhados). O mapa ganhou uma seta que aponta pra onde você está virado e mostra o que tem por perto.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "09daf03843abad70a88143f037e1e77a290c838a0d81e126a0f8322c9aee3285"
+  "sha256": "2c57cae4593e4225d2da26822670e10b7cf9df0210380dfa3adf10c8959db377"
 }
