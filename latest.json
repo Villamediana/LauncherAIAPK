@@ -1,7 +1,7 @@
 {
-  "versionCode": 359,
-  "versionName": "1.133.4",
-  "notes": "Ela agora sabe onde você está e o seu fuso horário: previsão do tempo, lugares e eventos sem perguntar a cidade.",
+  "versionCode": 360,
+  "versionName": "1.133.5",
+  "notes": "Ela decide sozinha quando uma resposta fica melhor em visual, e não perde mais o fio da conversa entre uma pergunta e outra.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "aec386798e487235d43f996981ab32538baff7dc0d0b1eb5e28058324ef4d18c"
+  "sha256": "51838a77bddd6e0e4039e458a4d514d6fe94d4b60c66d13e52124285d116f063"
 }
