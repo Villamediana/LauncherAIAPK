@@ -1,7 +1,7 @@
 {
-  "versionCode": 354,
-  "versionName": "1.132.1",
-  "notes": "Corrigido o tempo das rotas a pé e de bike no mapa, que estavam iguais às de carro.",
+  "versionCode": 355,
+  "versionName": "1.133.0",
+  "notes": "A Aura agora mostra enquanto fala: cotação, placar, tabela e gráficos animados aparecem no Palco, acima da conversa. E ela cria o que você pedir — jogos, animações, simulações — rodando ali mesmo.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "fa6c78808b75627c6accd88d7f155c8d96f69bd4a53a7390b9eadd867e2d3b68"
+  "sha256": "51bfefa6eded0d3412fc4baa1e9fcb7767d967f41936a633c62796274cc05ceb"
 }
