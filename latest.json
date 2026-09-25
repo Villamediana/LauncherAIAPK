@@ -1,7 +1,7 @@
 {
-  "versionCode": 355,
-  "versionName": "1.133.0",
-  "notes": "A Aura agora mostra enquanto fala: cotação, placar, tabela e gráficos animados aparecem no Palco, acima da conversa. E ela cria o que você pedir — jogos, animações, simulações — rodando ali mesmo.",
+  "versionCode": 356,
+  "versionName": "1.133.1",
+  "notes": "Tela cheia no Palco não fecha mais o launcher, o código não aparece mais no chat enquanto ela monta algo, e ela passa a mostrar listas, eventos e resultados no Palco sem você precisar pedir.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "51bfefa6eded0d3412fc4baa1e9fcb7767d967f41936a633c62796274cc05ceb"
+  "sha256": "bce1b1dd9c01c989481c9365af7f8c4674fc81387366c453d7f55e43712fe8d7"
 }
