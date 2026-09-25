@@ -1,7 +1,7 @@
 {
-  "versionCode": 361,
-  "versionName": "1.134.0",
-  "notes": "O Palco ganhou oito tipos novos: previsão por dia, lugares que abrem no mapa, comparação lado a lado, checklist de tocar, calendário, medidor, barra de pesquisa e citação.",
+  "versionCode": 362,
+  "versionName": "1.134.1",
+  "notes": "Três cartões novos no Palco: conversor com teclado próprio, letra com tradução linha a linha e carteira de ativos com minigráficos.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "33ce0d2fec3beb31371501d04120197589f5948200a04361372038d10cecaaeb"
+  "sha256": "e5137229f77e1ae2516639fc516fb57f1b7cb50947e519f059485a1f7eec83b9"
 }
