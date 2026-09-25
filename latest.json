@@ -1,7 +1,7 @@
 {
-  "versionCode": 358,
-  "versionName": "1.133.3",
-  "notes": "Ela não para mais depois de dizer \"vou conferir…\": agora segue e entrega a resposta.",
+  "versionCode": 359,
+  "versionName": "1.133.4",
+  "notes": "Ela agora sabe onde você está e o seu fuso horário: previsão do tempo, lugares e eventos sem perguntar a cidade.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6efafb0f1bc9e34d1ba2c40d63fa614caec29d9ee2f3134e96758962f3359b00"
+  "sha256": "aec386798e487235d43f996981ab32538baff7dc0d0b1eb5e28058324ef4d18c"
 }
