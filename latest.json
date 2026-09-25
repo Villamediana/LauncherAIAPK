@@ -1,7 +1,7 @@
 {
-  "versionCode": 357,
-  "versionName": "1.133.2",
-  "notes": "Ela agora abre as páginas e lê em vez de dizer que não achou, faz em vez de perguntar se pode, e a cotação vai até 10 anos atrás, mês a mês.",
+  "versionCode": 358,
+  "versionName": "1.133.3",
+  "notes": "Ela não para mais depois de dizer \"vou conferir…\": agora segue e entrega a resposta.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "5f16e9a99eb4361cb4ca085dfccad2d209f919121d2521ac2f3847da3d7f1e15"
+  "sha256": "6efafb0f1bc9e34d1ba2c40d63fa614caec29d9ee2f3134e96758962f3359b00"
 }
