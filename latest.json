@@ -1,7 +1,7 @@
 {
-  "versionCode": 360,
-  "versionName": "1.133.5",
-  "notes": "Ela decide sozinha quando uma resposta fica melhor em visual, e não perde mais o fio da conversa entre uma pergunta e outra.",
+  "versionCode": 361,
+  "versionName": "1.134.0",
+  "notes": "O Palco ganhou oito tipos novos: previsão por dia, lugares que abrem no mapa, comparação lado a lado, checklist de tocar, calendário, medidor, barra de pesquisa e citação.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "51838a77bddd6e0e4039e458a4d514d6fe94d4b60c66d13e52124285d116f063"
+  "sha256": "33ce0d2fec3beb31371501d04120197589f5948200a04361372038d10cecaaeb"
 }
