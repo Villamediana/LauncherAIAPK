@@ -1,7 +1,7 @@
 {
-  "versionCode": 365,
-  "versionName": "1.135.2",
-  "notes": "Correções: transcrição de áudio longo sem travar, downloads de música mais confiáveis e o player de vídeo no Palco mais estável.",
+  "versionCode": 366,
+  "versionName": "1.136.0",
+  "notes": "Músicas e vídeos do YouTube agora tocam na hora, sem baixar. O arquivo só é baixado quando você pede para salvar, compartilhar ou editar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "2c2cb3ee2f8dc1e383f418ca5051b3e0628e090c447bbd02aa19fc66fd0d8b09"
+  "sha256": "552667dd3cf7c65c97d138da03a3b2007cd6bf369daa3ebe3debdd747f4e944a"
 }
