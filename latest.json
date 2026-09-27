@@ -1,7 +1,7 @@
 {
-  "versionCode": 364,
-  "versionName": "1.135.1",
-  "notes": "A conversa volta a lembrar das últimas 5 trocas.",
+  "versionCode": 365,
+  "versionName": "1.135.2",
+  "notes": "Correções: transcrição de áudio longo sem travar, downloads de música mais confiáveis e o player de vídeo no Palco mais estável.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f5997814c04ea0dd49394a5c32d5d0cede77aba25e4a65dae988d2a4965f200a"
+  "sha256": "2c2cb3ee2f8dc1e383f418ca5051b3e0628e090c447bbd02aa19fc66fd0d8b09"
 }
