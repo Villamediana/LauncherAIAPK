@@ -1,7 +1,7 @@
 {
-  "versionCode": 363,
-  "versionName": "1.135.0",
-  "notes": "Agora a Aura lê e cria arquivos: anexe PDF, planilha, áudio ou vídeo e peça o que quiser; ela gera PDF, Word, Excel e PowerPoint, converte, escaneia documentos, e baixa música e vídeo do YouTube com player no chat e no Palco.",
+  "versionCode": 364,
+  "versionName": "1.135.1",
+  "notes": "A conversa volta a lembrar das últimas 5 trocas.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c2f22884fd07e0aa05c16e35e9684e3352954801aa310fac7f59a335c8061183"
+  "sha256": "f5997814c04ea0dd49394a5c32d5d0cede77aba25e4a65dae988d2a4965f200a"
 }
