@@ -1,7 +1,7 @@
 {
-  "versionCode": 366,
-  "versionName": "1.136.0",
-  "notes": "Músicas e vídeos do YouTube agora tocam na hora, sem baixar. O arquivo só é baixado quando você pede para salvar, compartilhar ou editar.",
+  "versionCode": 367,
+  "versionName": "1.136.1",
+  "notes": "Ela não trava mais depois de anunciar o que vai fazer; documentos no Palco abrem com um toque.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "552667dd3cf7c65c97d138da03a3b2007cd6bf369daa3ebe3debdd747f4e944a"
+  "sha256": "d30869e4a2ed743bc5520e183222e54f7325dac96e109efe4687300d1dea3020"
 }
