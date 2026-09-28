@@ -1,7 +1,7 @@
 {
-  "versionCode": 367,
-  "versionName": "1.136.1",
-  "notes": "Ela não trava mais depois de anunciar o que vai fazer; documentos no Palco abrem com um toque.",
+  "versionCode": 368,
+  "versionName": "1.137.0",
+  "notes": "Documentos e galeria de arquivos no Palco; PDF que não abria corrigido; ela busca o arquivo antes de recusar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "d30869e4a2ed743bc5520e183222e54f7325dac96e109efe4687300d1dea3020"
+  "sha256": "9ed637e1e5e20e6cda03d664e7927a0380a3c32af58f406ad48a2681a0efab44"
 }
