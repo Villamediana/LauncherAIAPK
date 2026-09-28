@@ -1,7 +1,7 @@
 {
-  "versionCode": 369,
-  "versionName": "1.137.1",
-  "notes": "Controle de tela mais rápido: pensa curto entre os passos, acha campos de busca e ouve os avisos do app.",
+  "versionCode": 370,
+  "versionName": "1.137.2",
+  "notes": "Remédio marcado não aparece mais duplicado na home.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "98fca32c94ee16a054cd376c766c9114e2ef94e52fb5fa2c938a9426091597cf"
+  "sha256": "ba47898dc4a174731c7cae09511be983fee19112889b5aac50f0e8389760eae0"
 }
