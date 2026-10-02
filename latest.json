@@ -1,7 +1,7 @@
 {
-  "versionCode": 370,
-  "versionName": "1.137.2",
-  "notes": "Remédio marcado não aparece mais duplicado na home.",
+  "versionCode": 371,
+  "versionName": "1.138.0",
+  "notes": "Em Modelo agora dá pra escolher OpenAI, Anthropic (cada um com sua chave) ou Gemma local no próprio celular.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "ba47898dc4a174731c7cae09511be983fee19112889b5aac50f0e8389760eae0"
+  "sha256": "2606d331888ef084770a5503b1ac899687654f6d814a771fb53338841d69bfc2"
 }
