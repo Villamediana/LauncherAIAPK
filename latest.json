@@ -1,7 +1,7 @@
 {
-  "versionCode": 371,
-  "versionName": "1.138.0",
-  "notes": "Em Modelo agora dá pra escolher OpenAI, Anthropic (cada um com sua chave) ou Gemma local no próprio celular.",
+  "versionCode": 372,
+  "versionName": "1.139.0",
+  "notes": "O Gemma local agora faz tudo que a nuvem faz (Palco, arquivos, PDFs, música, código). E em Modelo tem o OpenRouter com modelos grátis prontos pra escolher.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "2606d331888ef084770a5503b1ac899687654f6d814a771fb53338841d69bfc2"
+  "sha256": "9ec8035f413c73024d636c288626f0c772218ccc54b859982d44924668800d1c"
 }
