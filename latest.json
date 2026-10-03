@@ -1,7 +1,7 @@
 {
-  "versionCode": 372,
-  "versionName": "1.139.0",
-  "notes": "O Gemma local agora faz tudo que a nuvem faz (Palco, arquivos, PDFs, música, código). E em Modelo tem o OpenRouter com modelos grátis prontos pra escolher.",
+  "versionCode": 373,
+  "versionName": "1.139.1",
+  "notes": "O Gemma local agora sabe que tem internet: busca, lê páginas, baixa arquivos e toca música sem dizer que está offline.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "9ec8035f413c73024d636c288626f0c772218ccc54b859982d44924668800d1c"
+  "sha256": "3174b7636af45bae0f47ce137361dc4d875e060a0ca967e89f68d80f85843de3"
 }
