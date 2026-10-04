@@ -1,7 +1,7 @@
 {
-  "versionCode": 383,
-  "versionName": "1.144.4",
-  "notes": "A voz da Luna agora toca no volume de mídia (antes saía no volume do sistema e ficava muda), a caixa não abre quando ela responde falando, e tem um botão Testar a voz nos ajustes.",
+  "versionCode": 384,
+  "versionName": "1.144.5",
+  "notes": "Respostas por voz bem mais rápidas: a Luna começa a falar na primeira frase, enquanto ainda escreve o resto, e não para entre uma frase e outra.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c44d77f32f77c3be4df3624f789a46f16870448ebfcb4f9ca844acd57ddaacbc"
+  "sha256": "70397c81fca32a944f39ca8c7f3b9a7c035a5a02171aaba51d79cb5759509e78"
 }
