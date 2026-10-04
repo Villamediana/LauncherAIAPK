@@ -1,7 +1,7 @@
 {
-  "versionCode": 382,
-  "versionName": "1.144.3",
-  "notes": "Ao segurar pra falar, a Luna ouve com ondas da própria luz; sem o cometa antigo; e a voz da ElevenLabs alinhada com a documentação atual.",
+  "versionCode": 383,
+  "versionName": "1.144.4",
+  "notes": "A voz da Luna agora toca no volume de mídia (antes saía no volume do sistema e ficava muda), a caixa não abre quando ela responde falando, e tem um botão Testar a voz nos ajustes.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "687e54d048ec9c725e57916df450d6cd21af05756a23bee5bcb7c7906aa7eab9"
+  "sha256": "c44d77f32f77c3be4df3624f789a46f16870448ebfcb4f9ca844acd57ddaacbc"
 }
