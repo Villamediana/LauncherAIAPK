@@ -1,7 +1,7 @@
 {
-  "versionCode": 397,
-  "versionName": "1.147.5",
-  "notes": "Sem confirmação também para pagar ou comprar o que você pediu.",
+  "versionCode": 398,
+  "versionName": "1.147.6",
+  "notes": "A Luna manda mensagens e arquivos (inclusive pro seu próprio número) sem pedir confirmação.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "af16d38da98b58454e8331d0934f10cc152829e40f107c41874a9890c2c25211"
+  "sha256": "734a155380ec5642406dc89013764892c65d52ea68914d80d500a615d919a487"
 }
