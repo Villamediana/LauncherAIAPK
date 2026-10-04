@@ -1,7 +1,7 @@
 {
-  "versionCode": 393,
-  "versionName": "1.147.1",
-  "notes": "A Luna reorganiza a memória sempre que entra algo novo, sem esperar horário.",
+  "versionCode": 394,
+  "versionName": "1.147.2",
+  "notes": "Quando a Luna diz que vai lembrar algo, ela salva de verdade na memória.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "ea97d12648d1011ed55cadb5b8f7d492a78d5d35d9c0d9275ff90b883c501870"
+  "sha256": "642d63e28ceb50120659261b20ef56d194d09c9238e7e03a3725acd126390158"
 }
