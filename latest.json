@@ -1,7 +1,7 @@
 {
-  "versionCode": 389,
-  "versionName": "1.145.3",
-  "notes": "Com o Jev ligado, a Luna devolve a tela para ele depois de cada passo que precisar fazer sozinha, quantas vezes for preciso.",
+  "versionCode": 390,
+  "versionName": "1.145.4",
+  "notes": "O aviso vermelho de erro na caixa da Luna some sozinho depois de alguns segundos.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "a029560d4a777b1f1b8ee8604b469a77a4d28faa00a4238124734b532a0c967a"
+  "sha256": "1d607d22f8db73a4bb0aa60a30682b3e1990016caf36fbddef02a2ad37f3bb67"
 }
