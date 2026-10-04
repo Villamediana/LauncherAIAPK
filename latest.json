@@ -1,7 +1,7 @@
 {
-  "versionCode": 391,
-  "versionName": "1.146.0",
-  "notes": "A Luna ficou pessoal: tem identidade e jeito próprio de falar, memória dela (momentos, vínculo, quem você é, assuntos pendentes) e pode puxar assunto sozinha. Ajustes > Assistente > Luna.",
+  "versionCode": 392,
+  "versionName": "1.147.0",
+  "notes": "Mapa da memória da Luna; menu Assistente reorganizado com teste de conexão; Luna reflete e organiza a própria memória.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "21b2e7ad96460b3ff117e638bfb792fd1eb1f152f779f12568c3825740475b50"
+  "sha256": "579477c2cd1ae7aaf69ad465974518f414ef722dbab5a4c84b880f51f6f6777c"
 }
