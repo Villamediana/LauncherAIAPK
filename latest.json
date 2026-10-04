@@ -1,7 +1,7 @@
 {
-  "versionCode": 398,
-  "versionName": "1.147.6",
-  "notes": "A Luna manda mensagens e arquivos (inclusive pro seu próprio número) sem pedir confirmação.",
+  "versionCode": 399,
+  "versionName": "1.147.7",
+  "notes": "Prompt da Luna revisado: mais curto, sem contradições e aproveitando melhor o cache.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "734a155380ec5642406dc89013764892c65d52ea68914d80d500a615d919a487"
+  "sha256": "3d8368259061851a54b899d6d57d4da3952859cc43f9271f5961e7f84db113b0"
 }
