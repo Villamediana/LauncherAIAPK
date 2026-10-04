@@ -1,7 +1,7 @@
 {
-  "versionCode": 396,
-  "versionName": "1.147.4",
-  "notes": "A Luna faz o que você pede até o final, sem ficar pedindo confirmação.",
+  "versionCode": 397,
+  "versionName": "1.147.5",
+  "notes": "Sem confirmação também para pagar ou comprar o que você pediu.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "aabb5f32f2af20161fe23c666baaeb14ebe5ae3931345f05abaedcb278c23901"
+  "sha256": "af16d38da98b58454e8331d0934f10cc152829e40f107c41874a9890c2c25211"
 }
