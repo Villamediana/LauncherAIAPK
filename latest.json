@@ -1,7 +1,7 @@
 {
-  "versionCode": 384,
-  "versionName": "1.144.5",
-  "notes": "Respostas por voz bem mais rápidas: a Luna começa a falar na primeira frase, enquanto ainda escreve o resto, e não para entre uma frase e outra.",
+  "versionCode": 385,
+  "versionName": "1.144.6",
+  "notes": "Tarefas pedidas por voz voltam a ser planejadas com o raciocínio completo; a fala rápida continua.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "70397c81fca32a944f39ca8c7f3b9a7c035a5a02171aaba51d79cb5759509e78"
+  "sha256": "4502bcb78ab0fdff75ea6a32336c72d762c9dd3b0c2404a38e0ebecafcf62c5f"
 }
