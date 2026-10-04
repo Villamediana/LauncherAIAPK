@@ -1,7 +1,7 @@
 {
-  "versionCode": 400,
-  "versionName": "1.147.8",
-  "notes": "A memória da Luna usa datas de verdade, o que aproveita melhor o cache.",
+  "versionCode": 401,
+  "versionName": "1.148.0",
+  "notes": "Luna mais emotiva: 12 emoções novas, gestos e reações espontâneas (música, carregador, notificações, manhã).",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "85f5f1c1a3cbd112bf09747f314880d99211dc13b5203ee913af1a64a64617d4"
+  "sha256": "6d7f335d3490670d350ae63e8fb599d0aa85e1789dd4094588202eb0dbefb809"
 }
