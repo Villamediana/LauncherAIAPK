@@ -1,7 +1,7 @@
 {
-  "versionCode": 390,
-  "versionName": "1.145.4",
-  "notes": "O aviso vermelho de erro na caixa da Luna some sozinho depois de alguns segundos.",
+  "versionCode": 391,
+  "versionName": "1.146.0",
+  "notes": "A Luna ficou pessoal: tem identidade e jeito próprio de falar, memória dela (momentos, vínculo, quem você é, assuntos pendentes) e pode puxar assunto sozinha. Ajustes > Assistente > Luna.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "1d607d22f8db73a4bb0aa60a30682b3e1990016caf36fbddef02a2ad37f3bb67"
+  "sha256": "21b2e7ad96460b3ff117e638bfb792fd1eb1f152f779f12568c3825740475b50"
 }
