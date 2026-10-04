@@ -1,7 +1,7 @@
 {
-  "versionCode": 388,
-  "versionName": "1.145.2",
-  "notes": "Corrige o erro 401 ao usar o OpenRouter depois de ter configurado Azure/OpenAI: cada provedor agora usa só a própria chave e o próprio endereço.",
+  "versionCode": 389,
+  "versionName": "1.145.3",
+  "notes": "Com o Jev ligado, a Luna devolve a tela para ele depois de cada passo que precisar fazer sozinha, quantas vezes for preciso.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "3dd0a0c9449d0dd4988f3dac6ffa6adf9c3b3ff1ea225ae0e2b20a3acd1d0d9b"
+  "sha256": "a029560d4a777b1f1b8ee8604b469a77a4d28faa00a4238124734b532a0c967a"
 }
