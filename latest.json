@@ -1,7 +1,7 @@
 {
-  "versionCode": 378,
-  "versionName": "1.143.1",
-  "notes": "Se a voz da ElevenLabs falhar, a caixa abre com a resposta escrita; e quando você fala com ela durante uma tarefa, ela vai contando o que está fazendo.",
+  "versionCode": 379,
+  "versionName": "1.144.0",
+  "notes": "Agora ela se chama Luna. A caixa abre exatamente onde o orbe está, e o campo de escrever virou uma peça só com a caixa.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "00e2b7ba560717abecc63266353ee543038d40a074ac6485ce211265492ee0fc"
+  "sha256": "766ec49bd241faf3415c310318a24344177b8ecf31707815d890385127faaf3f"
 }
