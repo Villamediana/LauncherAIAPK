@@ -1,7 +1,7 @@
 {
-  "versionCode": 376,
-  "versionName": "1.142.0",
-  "notes": "Sem o quadrado em volta do orbe; a caixa nasce do orbe onde ele estiver; campo de escrever e áudio redesenhados, com a voz virando fitas de luz.",
+  "versionCode": 377,
+  "versionName": "1.143.0",
+  "notes": "Voz da ElevenLabs: cole a chave, escolha a voz, e a Aura ouve com o Scribe e responde falando — rindo e suspirando quando cabe —, com o orbe falando junto.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c4a8e80ea3a14b8be83f0a336d211b707b2b4025db090319a8a55b2cdd04222a"
+  "sha256": "759354c412f2afc7b6d8e89056d842a480e26dad34e227349afb6a901746f8a0"
 }
