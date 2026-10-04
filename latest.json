@@ -1,7 +1,7 @@
 {
-  "versionCode": 374,
-  "versionName": "1.140.0",
-  "notes": "Orbe novo com olhos e emoções, que dá pra arrastar; onboarding simples com assistente pronto (OpenRouter grátis), permissões e controle de tela guiados; lista de coisas a fazer no lugar dos remédios; home só com o básico; e atualização que instala direto.",
+  "versionCode": 375,
+  "versionName": "1.141.0",
+  "notes": "Controle de tela mais rápido e esperto (abre apps na hora, espera o carregamento sozinha, insiste no toque), rostinho da Aura dentro da caixa que acompanha o que você digita, orbe que acorda e te dá boas-vindas, e o app todo mais fluido.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "353a12aae3f685fafdd986942b440169d519889eb8acc810d16ff0fb4a65e5ea"
+  "sha256": "2cdfd8a5671e162303f209e710e5e9bbd853e0fd9aebd4c3696230a241fa3f6d"
 }
