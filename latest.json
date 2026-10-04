@@ -1,7 +1,7 @@
 {
-  "versionCode": 381,
-  "versionName": "1.144.2",
-  "notes": "Corrige o erro que aparecia em toda resposta; a Luna não aparece mais duplicada na caixa; e ao abrir, ela voa até o canto do campo enquanto a caixa nasce dela (e volta ao fechar).",
+  "versionCode": 382,
+  "versionName": "1.144.3",
+  "notes": "Ao segurar pra falar, a Luna ouve com ondas da própria luz; sem o cometa antigo; e a voz da ElevenLabs alinhada com a documentação atual.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "b94f791793c910eca9b472035256ee23411eecf89966be81f626419a43c6d80b"
+  "sha256": "687e54d048ec9c725e57916df450d6cd21af05756a23bee5bcb7c7906aa7eab9"
 }
