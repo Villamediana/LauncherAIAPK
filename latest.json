@@ -1,7 +1,7 @@
 {
-  "versionCode": 386,
-  "versionName": "1.145.0",
-  "notes": "Jev no controle de tela: ligue em Assistente › Ações, use a chave do OpenRouter, e o Jev passa a escolher cada toque — rápido e barato. Tem botão para testar.",
+  "versionCode": 387,
+  "versionName": "1.145.1",
+  "notes": "Correções: a Luna não perde mais frases quando fala rápido, links nas respostas voltaram a aparecer, a chave do OpenRouter não some ao trocar de modelo e o Instalar da notificação de atualização funciona.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "1670c8551cc88f83202e9f3e689c549da17068785d704d6f6e1bfb5ced02f986"
+  "sha256": "a0fa9f5ffd4c966241d1b09db2e4c3a7a0dc855c8f18c24efafe7fa0814078f1"
 }
