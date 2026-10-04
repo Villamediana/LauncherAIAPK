@@ -1,7 +1,7 @@
 {
-  "versionCode": 379,
-  "versionName": "1.144.0",
-  "notes": "Agora ela se chama Luna. A caixa abre exatamente onde o orbe está, e o campo de escrever virou uma peça só com a caixa.",
+  "versionCode": 380,
+  "versionName": "1.144.1",
+  "notes": "O Palco agora acompanha a Luna: aparece acima ou abaixo dela, onde tiver mais espaço.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "766ec49bd241faf3415c310318a24344177b8ecf31707815d890385127faaf3f"
+  "sha256": "768d6fb8efaf924596bdbac7a6e42b72347493d5b8dc662f1a7ea70b43881d85"
 }
