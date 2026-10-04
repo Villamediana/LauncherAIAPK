@@ -1,7 +1,7 @@
 {
-  "versionCode": 399,
-  "versionName": "1.147.7",
-  "notes": "Prompt da Luna revisado: mais curto, sem contradições e aproveitando melhor o cache.",
+  "versionCode": 400,
+  "versionName": "1.147.8",
+  "notes": "A memória da Luna usa datas de verdade, o que aproveita melhor o cache.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "3d8368259061851a54b899d6d57d4da3952859cc43f9271f5961e7f84db113b0"
+  "sha256": "85f5f1c1a3cbd112bf09747f314880d99211dc13b5203ee913af1a64a64617d4"
 }
