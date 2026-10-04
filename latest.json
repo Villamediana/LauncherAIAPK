@@ -1,7 +1,7 @@
 {
-  "versionCode": 387,
-  "versionName": "1.145.1",
-  "notes": "Correções: a Luna não perde mais frases quando fala rápido, links nas respostas voltaram a aparecer, a chave do OpenRouter não some ao trocar de modelo e o Instalar da notificação de atualização funciona.",
+  "versionCode": 388,
+  "versionName": "1.145.2",
+  "notes": "Corrige o erro 401 ao usar o OpenRouter depois de ter configurado Azure/OpenAI: cada provedor agora usa só a própria chave e o próprio endereço.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "a0fa9f5ffd4c966241d1b09db2e4c3a7a0dc855c8f18c24efafe7fa0814078f1"
+  "sha256": "3dd0a0c9449d0dd4988f3dac6ffa6adf9c3b3ff1ea225ae0e2b20a3acd1d0d9b"
 }
