@@ -1,7 +1,7 @@
 {
-  "versionCode": 380,
-  "versionName": "1.144.1",
-  "notes": "O Palco agora acompanha a Luna: aparece acima ou abaixo dela, onde tiver mais espaço.",
+  "versionCode": 381,
+  "versionName": "1.144.2",
+  "notes": "Corrige o erro que aparecia em toda resposta; a Luna não aparece mais duplicada na caixa; e ao abrir, ela voa até o canto do campo enquanto a caixa nasce dela (e volta ao fechar).",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "768d6fb8efaf924596bdbac7a6e42b72347493d5b8dc662f1a7ea70b43881d85"
+  "sha256": "b94f791793c910eca9b472035256ee23411eecf89966be81f626419a43c6d80b"
 }
