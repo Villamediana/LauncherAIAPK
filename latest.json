@@ -1,7 +1,7 @@
 {
-  "versionCode": 375,
-  "versionName": "1.141.0",
-  "notes": "Controle de tela mais rápido e esperto (abre apps na hora, espera o carregamento sozinha, insiste no toque), rostinho da Aura dentro da caixa que acompanha o que você digita, orbe que acorda e te dá boas-vindas, e o app todo mais fluido.",
+  "versionCode": 376,
+  "versionName": "1.142.0",
+  "notes": "Sem o quadrado em volta do orbe; a caixa nasce do orbe onde ele estiver; campo de escrever e áudio redesenhados, com a voz virando fitas de luz.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "2cdfd8a5671e162303f209e710e5e9bbd853e0fd9aebd4c3696230a241fa3f6d"
+  "sha256": "c4a8e80ea3a14b8be83f0a336d211b707b2b4025db090319a8a55b2cdd04222a"
 }
