@@ -1,7 +1,7 @@
 {
-  "versionCode": 392,
-  "versionName": "1.147.0",
-  "notes": "Mapa da memória da Luna; menu Assistente reorganizado com teste de conexão; Luna reflete e organiza a própria memória.",
+  "versionCode": 393,
+  "versionName": "1.147.1",
+  "notes": "A Luna reorganiza a memória sempre que entra algo novo, sem esperar horário.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "579477c2cd1ae7aaf69ad465974518f414ef722dbab5a4c84b880f51f6f6777c"
+  "sha256": "ea97d12648d1011ed55cadb5b8f7d492a78d5d35d9c0d9275ff90b883c501870"
 }
