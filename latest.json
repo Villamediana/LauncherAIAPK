@@ -1,7 +1,7 @@
 {
-  "versionCode": 385,
-  "versionName": "1.144.6",
-  "notes": "Tarefas pedidas por voz voltam a ser planejadas com o raciocínio completo; a fala rápida continua.",
+  "versionCode": 386,
+  "versionName": "1.145.0",
+  "notes": "Jev no controle de tela: ligue em Assistente › Ações, use a chave do OpenRouter, e o Jev passa a escolher cada toque — rápido e barato. Tem botão para testar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4502bcb78ab0fdff75ea6a32336c72d762c9dd3b0c2404a38e0ebecafcf62c5f"
+  "sha256": "1670c8551cc88f83202e9f3e689c549da17068785d704d6f6e1bfb5ced02f986"
 }
