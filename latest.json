@@ -1,7 +1,7 @@
 {
-  "versionCode": 394,
-  "versionName": "1.147.2",
-  "notes": "Quando a Luna diz que vai lembrar algo, ela salva de verdade na memória.",
+  "versionCode": 395,
+  "versionName": "1.147.3",
+  "notes": "A Luna volta a salvar na memória quando você conta algo ou pede 'lembra disso'; o passo aparece na resposta.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "642d63e28ceb50120659261b20ef56d194d09c9238e7e03a3725acd126390158"
+  "sha256": "18abb83226d3c16e87ad4a26553b3b6bf5592297091e74d66c1e03ce8f8e1a00"
 }
