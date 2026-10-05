@@ -1,7 +1,7 @@
 {
-  "versionCode": 402,
-  "versionName": "1.149.0",
-  "notes": "Luna por cima dos apps (Ajustes > Assistente > Luna): a mesma Luna, arrastável, abre a caixa onde está e entende o que está na tela.",
+  "versionCode": 403,
+  "versionName": "1.150.0",
+  "notes": "Luna atenta: acompanha a rolagem e a digitação com o olhar e reage ao que você vê (modelo do celular).",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "a48c6ce468ff5b3157b14108a57ab483317e070151e96d52e100a1c15c0fb4c4"
+  "sha256": "dd49b6486f0478a8d112744b62b598cc1bfe529261bace32fa5244b2d34bc9c4"
 }
