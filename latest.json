@@ -1,7 +1,7 @@
 {
-  "versionCode": 408,
-  "versionName": "1.151.4",
-  "notes": "Luna flutuante sem as tremidinhas de virar a cabeça sozinha.",
+  "versionCode": 409,
+  "versionName": "1.152.0",
+  "notes": "Volta ao comportamento da 1.147.8 (o trabalho novo ficou guardado à parte).",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f74d7ee73b6746af406b820c24ccba32b4e830f352fb30d8c40420dd404e9758"
+  "sha256": "eb6ad66f89d02b862e5b7dc8a2074de628f47faf7f8795ce0463f709d10b146d"
 }
