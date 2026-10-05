@@ -1,7 +1,7 @@
 {
-  "versionCode": 406,
-  "versionName": "1.151.2",
-  "notes": "Luna flutuante estável ao segurar, sem tremer, e a caixa sobre os apps abre sem o teclado.",
+  "versionCode": 407,
+  "versionName": "1.151.3",
+  "notes": "Arrastar a Luna por cima dos apps: ela segue o dedo, sem quicar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "0446316cb682f2cfa3781d23c1be67af40b000249a921361b7967137c6af3695"
+  "sha256": "998f82b52d8e8030fa81f9172487f0f65b6519c725f2828d202866f5c54dcb7e"
 }
