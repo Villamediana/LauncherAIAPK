@@ -1,7 +1,7 @@
 {
-  "versionCode": 405,
-  "versionName": "1.151.1",
-  "notes": "Correções: Luna flutuante volta a aparecer, caixa da home não fecha sozinha, hábitos aprendem só dos seus toques.",
+  "versionCode": 406,
+  "versionName": "1.151.2",
+  "notes": "Luna flutuante estável ao segurar, sem tremer, e a caixa sobre os apps abre sem o teclado.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "b86879cfd9b50ad89712cacaab203af4e0769fc80399e043a90349195eaddece"
+  "sha256": "0446316cb682f2cfa3781d23c1be67af40b000249a921361b7967137c6af3695"
 }
