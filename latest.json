@@ -1,7 +1,7 @@
 {
-  "versionCode": 403,
-  "versionName": "1.150.0",
-  "notes": "Luna atenta: acompanha a rolagem e a digitação com o olhar e reage ao que você vê (modelo do celular).",
+  "versionCode": 404,
+  "versionName": "1.151.0",
+  "notes": "Hábitos por app: ao abrir um app, a Luna oferece o que você costuma fazer ali — um toque e ela faz.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "dd49b6486f0478a8d112744b62b598cc1bfe529261bace32fa5244b2d34bc9c4"
+  "sha256": "61551e2d4e006caaca26f326dc3db76fec4c8b7c83cfebf92abe796adebbe038"
 }
