@@ -1,7 +1,7 @@
 {
-  "versionCode": 401,
-  "versionName": "1.148.0",
-  "notes": "Luna mais emotiva: 12 emoções novas, gestos e reações espontâneas (música, carregador, notificações, manhã).",
+  "versionCode": 402,
+  "versionName": "1.149.0",
+  "notes": "Luna por cima dos apps (Ajustes > Assistente > Luna): a mesma Luna, arrastável, abre a caixa onde está e entende o que está na tela.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6d7f335d3490670d350ae63e8fb599d0aa85e1789dd4094588202eb0dbefb809"
+  "sha256": "a48c6ce468ff5b3157b14108a57ab483317e070151e96d52e100a1c15c0fb4c4"
 }
