@@ -1,7 +1,7 @@
 {
-  "versionCode": 407,
-  "versionName": "1.151.3",
-  "notes": "Arrastar a Luna por cima dos apps: ela segue o dedo, sem quicar.",
+  "versionCode": 408,
+  "versionName": "1.151.4",
+  "notes": "Luna flutuante sem as tremidinhas de virar a cabeça sozinha.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "998f82b52d8e8030fa81f9172487f0f65b6519c725f2828d202866f5c54dcb7e"
+  "sha256": "f74d7ee73b6746af406b820c24ccba32b4e830f352fb30d8c40420dd404e9758"
 }
