@@ -1,7 +1,7 @@
 {
-  "versionCode": 411,
-  "versionName": "1.153.1",
-  "notes": "Corrige reprodução em loop e alcance musical do Palco, leitura de MIDI/MusicXML, controles do celular, rotas, tarefas agendadas e validação da transcrição.",
+  "versionCode": 412,
+  "versionName": "1.153.2",
+  "notes": "Renova piano e ukulele do Palco, adiciona piano e rotas em tela cheia, mapas vetoriais 3D com rota animada e opção de voz da Luna desativada.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "7e02187c2b2cd77e48246d03dbc09c9ef11ac793b6b55f89c605870c5e1e1de6"
+  "sha256": "ead56e5ce8850f2866d1dc2f8fc06c51616cf7739b662fa18d32f27cffc66955"
 }
