@@ -1,7 +1,7 @@
 {
-  "versionCode": 410,
-  "versionName": "1.153.0",
-  "notes": "O Palco ganhou piano com notas caindo, ukulele, rotas animadas, cores, alarmes e controles do celular. Luna também cria música e audiolivros, encontra letras e cifras e transforma MIDI, MusicXML, áudio ou YouTube em prática interativa.",
+  "versionCode": 411,
+  "versionName": "1.153.1",
+  "notes": "Corrige reprodução em loop e alcance musical do Palco, leitura de MIDI/MusicXML, controles do celular, rotas, tarefas agendadas e validação da transcrição.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f8e20d974b2641572ee006d7c228901e2b4f9bace977bfa1a60881d59e48ebcb"
+  "sha256": "7e02187c2b2cd77e48246d03dbc09c9ef11ac793b6b55f89c605870c5e1e1de6"
 }
