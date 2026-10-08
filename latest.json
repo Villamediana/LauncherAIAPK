@@ -1,7 +1,7 @@
 {
-  "versionCode": 412,
-  "versionName": "1.153.2",
-  "notes": "Renova piano e ukulele do Palco, adiciona piano e rotas em tela cheia, mapas vetoriais 3D com rota animada e opção de voz da Luna desativada.",
+  "versionCode": 413,
+  "versionName": "1.153.3",
+  "notes": "Restaura integralmente o estado anterior ao Palco inteligente e às integrações Luna.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "ead56e5ce8850f2866d1dc2f8fc06c51616cf7739b662fa18d32f27cffc66955"
+  "sha256": "4b911f6febc1f20e98027f0aeb1bfdeae4c1812cdc2e96a803f30bac85369a3d"
 }
