@@ -1,7 +1,7 @@
 {
-  "versionCode": 413,
-  "versionName": "1.153.3",
-  "notes": "Restaura integralmente o estado anterior ao Palco inteligente e às integrações Luna.",
+  "versionCode": 414,
+  "versionName": "1.154.0",
+  "notes": "O Palco agora é o Open Intelligent UI da CopilotKit: tudo que é visual (cotação, mapa, tabela, gráfico, calculadora, jogo) é gerado na hora e vai se montando ao vivo no Palco, nada mais no chat.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4b911f6febc1f20e98027f0aeb1bfdeae4c1812cdc2e96a803f30bac85369a3d"
+  "sha256": "d559a40fc7d2c2a6ba672ae851aac7b1eed6849f35f0f9fdae0a8ade6c7cac76"
 }
