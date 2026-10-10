@@ -1,7 +1,7 @@
 {
-  "versionCode": 428,
-  "versionName": "1.161.2",
-  "notes": "Piano e ukulele respondem mais rápido ao toque e não emudecem em glissando rápido",
+  "versionCode": 429,
+  "versionName": "1.162.0",
+  "notes": "Piano com som real: amostras do Salamander Grand (Yamaha C5) com ressonância natural, abafador ao soltar a tecla e um toque de sala",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e8f0327cf279459d93a483c7821aa1e29c9ab3dcdad1667a4da8d26e4aa875ff"
+  "sha256": "018d8585267851f7a0c5a7590904554f4e1d30ad2ac7c5224796c842066d8ef8"
 }
