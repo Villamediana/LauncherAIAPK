@@ -1,7 +1,7 @@
 {
-  "versionCode": 418,
-  "versionName": "1.156.2",
-  "notes": "Memória mais inteligente: a cada coisa nova que ela guarda, é ela quem decide se é novidade, se já sabia, se atualiza ou se completa algo que você já contou.",
+  "versionCode": 419,
+  "versionName": "1.156.3",
+  "notes": "Balões da Luna em vidro e mostrando o que ela está fazendo (pesquisando, lendo, montando no Palco); fechar a pílula guarda os balões.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6b56ab1e1cc04ef4b0070a39bd573dbc5b60493f12676c1c92ade053c7c61dc4"
+  "sha256": "44dcf4cc602f0c91bb7149fbdc185b68e31c485a72bdc982e041520026e594ca"
 }
