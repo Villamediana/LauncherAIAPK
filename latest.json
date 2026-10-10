@@ -1,7 +1,7 @@
 {
-  "versionCode": 426,
-  "versionName": "1.161.0",
-  "notes": "Clima ao vivo na Home (Ajustes › Sua tela): chuva fraca/forte, tempestade com raios, neve, neblina, nuvens, sol, lua e estrelas, geada no frio e calor — com prévia de cada céu e economia de bateria",
+  "versionCode": 427,
+  "versionName": "1.161.1",
+  "notes": "Clima ao vivo mais realista: chuva em profundidade e gotas escorrendo no vidro, raios que iluminam as nuvens, nuvens macias, neve desfocada, poeira no sol, estrela cadente, entardecer",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4797d2e825469a3da5c09dd6befe79e6116809131289d81702f6f45d8f61b537"
+  "sha256": "48aead659cfbbd425c480b4f85c07e541fe01a35d27562e4a9b9efe61da5a99a"
 }
