@@ -1,7 +1,7 @@
 {
-  "versionCode": 423,
-  "versionName": "1.159.1",
-  "notes": "Controle de tela mais rápido: jogos sem vai-e-vem com o Jev, print já ao abrir o app, app citado no pedido abre direto; sem texto 'previsto' antes da ação",
+  "versionCode": 424,
+  "versionName": "1.160.0",
+  "notes": "Música no celular: reconhece a música (tipo Shazam), separa voz/piano/baixo/bateria/guitarra (karaokê), transcreve em partitura, acordes de qualquer site com ukulele/violão/piano tocáveis, piano no Palco, tom do que você canta; conversor na cotação; guia passo a passo e quiz; modo só voz; favoritos no Dia em linha",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "0f50387b41e033db8994dfe1d860070e0ac4b71e5ce1371a1b1a38a44daaf397"
+  "sha256": "5777c6713576d62d6ec8144d3d3093179fe11fe8df943f808ddfbec7be83c6b4"
 }
