@@ -1,7 +1,7 @@
 {
-  "versionCode": 415,
-  "versionName": "1.155.0",
-  "notes": "Palco com a cara do launcher: cores e tema da Luna (claro/escuro do próprio launcher), números grandes, chips e gráficos no estilo dela, e espera em português enquanto monta.",
+  "versionCode": 416,
+  "versionName": "1.156.0",
+  "notes": "Luna sem caixa: escolha Só voz, Só escrita ou Voz e escrita em Ajustes › Ela; as respostas aparecem em legenda ou balões sobre a orbe. Ajustes reorganizados em Ela, Sua tela, O que ela faz e Seus dados, com sugestões que resolvem o que falta.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "1ad8324ac5c314e3cbcb857128d4b3a50a3f8c8793f59c0303c72e6c87808d4b"
+  "sha256": "73257d9461fd53e4e59794204f972c618031b89cae0f6d9efe228cfb826cdb34"
 }
