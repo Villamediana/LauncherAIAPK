@@ -1,7 +1,7 @@
 {
-  "versionCode": 425,
-  "versionName": "1.160.1",
-  "notes": "Piano com teclas na proporção certa (rola de lado e segue as notas), glissando com vários dedos; ukulele/violão: arraste pra dedilhar, acorde atual em destaque, andamento ajustável",
+  "versionCode": 426,
+  "versionName": "1.161.0",
+  "notes": "Clima ao vivo na Home (Ajustes › Sua tela): chuva fraca/forte, tempestade com raios, neve, neblina, nuvens, sol, lua e estrelas, geada no frio e calor — com prévia de cada céu e economia de bateria",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4d0f65c9fc7fd4b3387b5a7ba4c6497142d37c60eaa1777ada074702ea661709"
+  "sha256": "4797d2e825469a3da5c09dd6befe79e6116809131289d81702f6f45d8f61b537"
 }
