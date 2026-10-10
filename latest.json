@@ -1,7 +1,7 @@
 {
-  "versionCode": 427,
-  "versionName": "1.161.1",
-  "notes": "Clima ao vivo mais realista: chuva em profundidade e gotas escorrendo no vidro, raios que iluminam as nuvens, nuvens macias, neve desfocada, poeira no sol, estrela cadente, entardecer",
+  "versionCode": 428,
+  "versionName": "1.161.2",
+  "notes": "Piano e ukulele respondem mais rápido ao toque e não emudecem em glissando rápido",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "48aead659cfbbd425c480b4f85c07e541fe01a35d27562e4a9b9efe61da5a99a"
+  "sha256": "e8f0327cf279459d93a483c7821aa1e29c9ab3dcdad1667a4da8d26e4aa875ff"
 }
