@@ -1,7 +1,7 @@
 {
-  "versionCode": 420,
-  "versionName": "1.157.0",
-  "notes": "Home nova: seu dia numa linha (agora, compromissos, lembretes e amanhã) com widgets em vidro; dá pra voltar à clássica em Ajustes › Sua tela. E as páginas dentro dos Ajustes com o visual novo.",
+  "versionCode": 421,
+  "versionName": "1.158.0",
+  "notes": "Palco e caixinha da Luna de volta como eram (cards nativos + HTML pro que não cabe); Home e widgets sem vidro, direto no papel de parede",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "d97b8779ab56b8779be0782c7e2f2742d4fdb24a3df3440b1f0ba3abf4effcd4"
+  "sha256": "35b815d31aab4c8d2f0afa23e23b5adbf10edcc4700df0264d651aa41a23b2c2"
 }
