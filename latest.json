@@ -1,7 +1,7 @@
 {
-  "versionCode": 422,
-  "versionName": "1.159.0",
-  "notes": "Controle de tela enxerga com marcas numeradas (toque exato), print automático quando trava, aba/campo selecionado; fotos do chat abrem inteiras com zoom; orbe gasta menos bateria parada",
+  "versionCode": 423,
+  "versionName": "1.159.1",
+  "notes": "Controle de tela mais rápido: jogos sem vai-e-vem com o Jev, print já ao abrir o app, app citado no pedido abre direto; sem texto 'previsto' antes da ação",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e1c8b8544008ccb315925521304779ebf98b4dedcc95fca85972904f6e5c5dc5"
+  "sha256": "0f50387b41e033db8994dfe1d860070e0ac4b71e5ce1371a1b1a38a44daaf397"
 }
