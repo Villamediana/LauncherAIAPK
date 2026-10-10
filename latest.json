@@ -1,7 +1,7 @@
 {
-  "versionCode": 417,
-  "versionName": "1.156.1",
-  "notes": "Memória consertada: ela não apaga mais um fato antigo quando você conta um parecido, guarda até 600 coisas e usa mais do que sabe sobre você em cada conversa.",
+  "versionCode": 418,
+  "versionName": "1.156.2",
+  "notes": "Memória mais inteligente: a cada coisa nova que ela guarda, é ela quem decide se é novidade, se já sabia, se atualiza ou se completa algo que você já contou.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "235c74fd3e24cf403696ece7f11f554c8b3e7e4b111566d7e3fafd014a6cf060"
+  "sha256": "6b56ab1e1cc04ef4b0070a39bd573dbc5b60493f12676c1c92ade053c7c61dc4"
 }
