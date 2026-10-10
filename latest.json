@@ -1,7 +1,7 @@
 {
-  "versionCode": 419,
-  "versionName": "1.156.3",
-  "notes": "Balões da Luna em vidro e mostrando o que ela está fazendo (pesquisando, lendo, montando no Palco); fechar a pílula guarda os balões.",
+  "versionCode": 420,
+  "versionName": "1.157.0",
+  "notes": "Home nova: seu dia numa linha (agora, compromissos, lembretes e amanhã) com widgets em vidro; dá pra voltar à clássica em Ajustes › Sua tela. E as páginas dentro dos Ajustes com o visual novo.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "44dcf4cc602f0c91bb7149fbdc185b68e31c485a72bdc982e041520026e594ca"
+  "sha256": "d97b8779ab56b8779be0782c7e2f2742d4fdb24a3df3440b1f0ba3abf4effcd4"
 }
