@@ -1,7 +1,7 @@
 {
-  "versionCode": 421,
-  "versionName": "1.158.0",
-  "notes": "Palco e caixinha da Luna de volta como eram (cards nativos + HTML pro que não cabe); Home e widgets sem vidro, direto no papel de parede",
+  "versionCode": 422,
+  "versionName": "1.159.0",
+  "notes": "Controle de tela enxerga com marcas numeradas (toque exato), print automático quando trava, aba/campo selecionado; fotos do chat abrem inteiras com zoom; orbe gasta menos bateria parada",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "35b815d31aab4c8d2f0afa23e23b5adbf10edcc4700df0264d651aa41a23b2c2"
+  "sha256": "e1c8b8544008ccb315925521304779ebf98b4dedcc95fca85972904f6e5c5dc5"
 }
