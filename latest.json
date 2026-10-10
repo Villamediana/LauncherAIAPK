@@ -1,7 +1,7 @@
 {
-  "versionCode": 424,
-  "versionName": "1.160.0",
-  "notes": "Música no celular: reconhece a música (tipo Shazam), separa voz/piano/baixo/bateria/guitarra (karaokê), transcreve em partitura, acordes de qualquer site com ukulele/violão/piano tocáveis, piano no Palco, tom do que você canta; conversor na cotação; guia passo a passo e quiz; modo só voz; favoritos no Dia em linha",
+  "versionCode": 425,
+  "versionName": "1.160.1",
+  "notes": "Piano com teclas na proporção certa (rola de lado e segue as notas), glissando com vários dedos; ukulele/violão: arraste pra dedilhar, acorde atual em destaque, andamento ajustável",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "5777c6713576d62d6ec8144d3d3093179fe11fe8df943f808ddfbec7be83c6b4"
+  "sha256": "4d0f65c9fc7fd4b3387b5a7ba4c6497142d37c60eaa1777ada074702ea661709"
 }
