@@ -1,7 +1,7 @@
 {
-  "versionCode": 435,
-  "versionName": "1.166.0",
-  "notes": "Cobrinha nova: fases que mudam (Jardim, Colunas, Labirinto, Escuridão, Lava, Enxame, Chuva de ouro) com portal, inimigos (besouro, vespa, cobra rival), 11 poderes, 3 vidas e câmera 3D com intro de fase e mergulho no portal.",
+  "versionCode": 436,
+  "versionName": "1.167.0",
+  "notes": "Jogo novo: Neon Defense. Você é uma nave numa arena neon: hordas procedurais de todos os lados, chefes a cada 10 ondas, dinheiro das mortes para melhorar na hora, bônus a cada 5 ondas, 8 habilidades e laboratório com melhorias permanentes e níveis de dificuldade.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "afc1b926ef6ce859868655e549a252cd53a1b5181fc25fc91f281cf5f1604efa"
+  "sha256": "4f7bd5c43ba60078c1ea19e703138bfaf3b3203cae40ac87f108eebad0a54d3b"
 }
