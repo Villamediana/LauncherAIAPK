@@ -1,7 +1,7 @@
 {
-  "versionCode": 457,
-  "versionName": "1.175.1",
-  "notes": "Neon: o cofre aparece como +N ao lado dos cristais e rende mais",
+  "versionCode": 458,
+  "versionName": "1.175.2",
+  "notes": "Neon: o cofre rende bem mais",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "39ce8d03ea3a048adad0f2e13f24981fc88cb2799657d894d7e13e0fff79ff0b"
+  "sha256": "bbef9610f3f869aa85fd484c2e152df11a4978fc7743e381087f047c858a3538"
 }
