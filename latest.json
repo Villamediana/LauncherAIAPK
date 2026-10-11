@@ -1,7 +1,7 @@
 {
-  "versionCode": 444,
-  "versionName": "1.170.3",
-  "notes": "Jogos: o gesto de voltar agora volta dentro do jogo (laboratório → menu, jogando → pausa → menu) e só sai do jogo quando você já está no menu inicial dele.",
+  "versionCode": 445,
+  "versionName": "1.171.0",
+  "notes": "Novo jogo: Gênese — um mundo vivo onde dois humanos viram povos, com bichos, clima, dia e noite, e você como Deus",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "0b7d3a9c225226647d046995ae2a0da54d6c5cf19dc1d88893fe403e5205f327"
+  "sha256": "a78d394af5b007fbc37fc86ebcb8c74f0ccb53ddf97e17d15c75d18e4356922e"
 }
