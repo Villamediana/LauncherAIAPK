@@ -1,7 +1,7 @@
 {
-  "versionCode": 441,
-  "versionName": "1.170.0",
-  "notes": "Neon Defense: inimigos mais inteligentes que mudam a cada fase (interceptam, cercam, flanqueiam, emboscam e desviam), com aviso e câmera em cada fase nova. Dinheiro da partida vale só para a partida; melhoria permanente agora é só com cristais no laboratório.",
+  "versionCode": 442,
+  "versionName": "1.170.1",
+  "notes": "Cobrinha: o jogo espera enquanto a câmera mostra o portal (sem bater fora da tela); a escolha entre fases agora é um atributo só para a fase seguinte (Veloz, Calma, Resistente, Vida extra, Etérea e outros), sem acumular.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "3569a8043d835d3da95be7368b13e9931a3a43e8a2b5c1411a1b9032a713854b"
+  "sha256": "f838382206b367994829813dc83ab331fe9cd78de5304d5c1184cd7f71547290"
 }
