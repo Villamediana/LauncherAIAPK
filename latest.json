@@ -1,7 +1,7 @@
 {
-  "versionCode": 443,
-  "versionName": "1.170.2",
-  "notes": "Neon Defense: ao passar de fase a vida enche 25%; rolar a lista de melhorias não compra mais sem querer.",
+  "versionCode": 444,
+  "versionName": "1.170.3",
+  "notes": "Jogos: o gesto de voltar agora volta dentro do jogo (laboratório → menu, jogando → pausa → menu) e só sai do jogo quando você já está no menu inicial dele.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "580cbc559d817f51930f0a0cb4c1eb63ef978eaf52614f760dbdf7a834718499"
+  "sha256": "0b7d3a9c225226647d046995ae2a0da54d6c5cf19dc1d88893fe403e5205f327"
 }
