@@ -1,7 +1,7 @@
 {
-  "versionCode": 433,
-  "versionName": "1.165.0",
-  "notes": "Luna não trava mais depois de dizer 'Vou procurar…': ela continua e faz. Jogos: Cobrinha nova com combos, velocidade por nível, poderes (Turbo, Fantasma, Ímã, Câmera lenta, Escudo), pedras, câmera que segue e treme; saíram 2048 e Memória.",
+  "versionCode": 434,
+  "versionName": "1.165.1",
+  "notes": "Luna não perde mais a internet quando abre outro app (Maps etc.) no meio de um pedido, e tenta de novo sozinha se a rede piscar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "2d4a47bb4bd0da1b87b5343cd27eb1b01ba89ece0885b4b4eae0c61d84f01ce2"
+  "sha256": "278c7318eb74468a18ffdfd25e99362325195ced9d2b76c4e2af98c4bb723919"
 }
