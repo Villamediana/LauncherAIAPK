@@ -1,7 +1,7 @@
 {
-  "versionCode": 458,
-  "versionName": "1.175.2",
-  "notes": "Neon: o cofre rende bem mais",
+  "versionCode": 459,
+  "versionName": "1.175.3",
+  "notes": "Home mais econômica: as animações dividem o mesmo quadro e desaceleram na economia de bateria",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "bbef9610f3f869aa85fd484c2e152df11a4978fc7743e381087f047c858a3538"
+  "sha256": "9720fc610f9ad4f5eac183513077e8627eef2c61f85977ddde1aa9f9459aa438"
 }
