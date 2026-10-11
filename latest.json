@@ -1,7 +1,7 @@
 {
-  "versionCode": 460,
-  "versionName": "1.175.4",
-  "notes": "Neon: o dinheiro guardado já entra no total de cristais",
+  "versionCode": 461,
+  "versionName": "1.176.0",
+  "notes": "Neon: ao morrer, dá para continuar do começo da fase em que estava",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "fba045f7cb7497be93295565b15742f713f26c4b3f2f8daee05093369b26d0d1"
+  "sha256": "0d9bbdcce611d921109c96dfefe889b252520b133f31b4135831ea2adc594ad7"
 }
