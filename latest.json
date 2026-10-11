@@ -1,7 +1,7 @@
 {
-  "versionCode": 447,
-  "versionName": "1.172.0",
-  "notes": "Gênese: reis, eleições, revoltas, crimes e magia; atributos; 10 bichos novos; interface nova com abas, zoom, minimapa e seguir alguém; mais leve na bateria. Cifras com acentos certos. Neon: mais cristais",
+  "versionCode": 448,
+  "versionName": "1.173.0",
+  "notes": "Neon Defense: hangar para montar a nave com peças compradas com cristais — onde você põe cada peça faz diferença",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6115ceb5ddea571ada4b5d17cab580822f47ee0f689f29a469a617f84c7c10b8"
+  "sha256": "c91449cc8185b2bfcc907203bb738d1fea7689e8e30f11e3feb395659b86e715"
 }
