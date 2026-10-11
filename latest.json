@@ -1,7 +1,7 @@
 {
-  "versionCode": 451,
-  "versionName": "1.174.0",
-  "notes": "Hangar livre: monte a nave com formas grátis (triângulo, quadrado, círculo, hexágono), peças por cima, teste antes e compre no fim",
+  "versionCode": 452,
+  "versionName": "1.174.1",
+  "notes": "Neon Defense: dois toques em qualquer lugar dão dash na hora, na direção do toque",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "01a1ee1a9aa94c15a52b8747a2689a4368a592193a8f3211ffde5045732120a6"
+  "sha256": "91c440702e0508981dcd439dafd9bdc72de19ce25c0732e97b620be3009e5bdc"
 }
