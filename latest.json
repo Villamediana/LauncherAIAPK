@@ -1,7 +1,7 @@
 {
-  "versionCode": 431,
-  "versionName": "1.163.0",
-  "notes": "Piano: 'toca X no piano' acha o MIDI sozinho ou transcreve uma versão do YouTube; câmera que afasta pra mostrar as duas mãos; partitura sem piscar, com cursor acompanhando",
+  "versionCode": 432,
+  "versionName": "1.164.0",
+  "notes": "Separar voz/instrumentos não derruba mais o app (memória de 4,7 GB para ~1,4 GB, modelo novo baixa sozinho); nova aba Jogos na gaveta: 2048, Memória e Cobrinha, offline, com recorde",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "541303217a4be88d5b345d12186ceeaf0f7cefcd357b488e99f0c3ee16c8772e"
+  "sha256": "d360006e9c3f002950f2ae2f434619979c1bbbcb679768706e6ea1ec0f05e522"
 }
