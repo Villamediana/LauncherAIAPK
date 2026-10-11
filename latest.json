@@ -1,7 +1,7 @@
 {
-  "versionCode": 448,
-  "versionName": "1.173.0",
-  "notes": "Neon Defense: hangar para montar a nave com peças compradas com cristais — onde você põe cada peça faz diferença",
+  "versionCode": 449,
+  "versionName": "1.173.1",
+  "notes": "Hangar novo: nave de casco inteiro, peças desenhadas, arrastar e soltar",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c91449cc8185b2bfcc907203bb738d1fea7689e8e30f11e3feb395659b86e715"
+  "sha256": "92682e9f75df57ecb228b03a7dd3fc8695b20e52b8dfc69f3d23b041c6ac673e"
 }
