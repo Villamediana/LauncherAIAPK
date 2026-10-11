@@ -1,7 +1,7 @@
 {
-  "versionCode": 432,
-  "versionName": "1.164.0",
-  "notes": "Separar voz/instrumentos não derruba mais o app (memória de 4,7 GB para ~1,4 GB, modelo novo baixa sozinho); nova aba Jogos na gaveta: 2048, Memória e Cobrinha, offline, com recorde",
+  "versionCode": 433,
+  "versionName": "1.165.0",
+  "notes": "Luna não trava mais depois de dizer 'Vou procurar…': ela continua e faz. Jogos: Cobrinha nova com combos, velocidade por nível, poderes (Turbo, Fantasma, Ímã, Câmera lenta, Escudo), pedras, câmera que segue e treme; saíram 2048 e Memória.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "d360006e9c3f002950f2ae2f434619979c1bbbcb679768706e6ea1ec0f05e522"
+  "sha256": "2d4a47bb4bd0da1b87b5343cd27eb1b01ba89ece0885b4b4eae0c61d84f01ce2"
 }
