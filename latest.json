@@ -1,7 +1,7 @@
 {
-  "versionCode": 437,
-  "versionName": "1.167.1",
-  "notes": "Neon Defense mais bonito: nebulosa e estrelas, nave que inclina, inimigos com rastro, entrada de chefe cinematográfica, botões animados, segurar para comprar na loja e muito mais.",
+  "versionCode": 438,
+  "versionName": "1.168.0",
+  "notes": "Jogos com som e música (feitos no próprio celular). Cobrinha: uma vida, câmera plana, sem boca abrindo. Neon Defense: melhorias ficam para sempre, velocidade do tiro, limites (crítico até 80%), 21 segredos ao completar atributos, classe secreta após o 1º chefe, regeneração comprada, mais difícil, loja explicada e tela Como jogar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c155a2434976ef3bd679fb82ed568c65dc3b05e5c2a9259c0d939649ff00ea9d"
+  "sha256": "4bac217adec3d80a6b85fe66d563ce2e2456bf786c9c92ee8132ff5ee874aa0f"
 }
