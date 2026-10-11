@@ -1,7 +1,7 @@
 {
-  "versionCode": 434,
-  "versionName": "1.165.1",
-  "notes": "Luna não perde mais a internet quando abre outro app (Maps etc.) no meio de um pedido, e tenta de novo sozinha se a rede piscar.",
+  "versionCode": 435,
+  "versionName": "1.166.0",
+  "notes": "Cobrinha nova: fases que mudam (Jardim, Colunas, Labirinto, Escuridão, Lava, Enxame, Chuva de ouro) com portal, inimigos (besouro, vespa, cobra rival), 11 poderes, 3 vidas e câmera 3D com intro de fase e mergulho no portal.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "278c7318eb74468a18ffdfd25e99362325195ced9d2b76c4e2af98c4bb723919"
+  "sha256": "afc1b926ef6ce859868655e549a252cd53a1b5181fc25fc91f281cf5f1604efa"
 }
