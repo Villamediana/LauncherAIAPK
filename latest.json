@@ -1,7 +1,7 @@
 {
-  "versionCode": 450,
-  "versionName": "1.173.2",
-  "notes": "Hangar: a nave original no centro, peças presas em volta dela",
+  "versionCode": 451,
+  "versionName": "1.174.0",
+  "notes": "Hangar livre: monte a nave com formas grátis (triângulo, quadrado, círculo, hexágono), peças por cima, teste antes e compre no fim",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "31af9d788b9a4efe0a8c73abd6fd78693cd52db3e6a333e3fb5ee9f2e7190da3"
+  "sha256": "01a1ee1a9aa94c15a52b8747a2689a4368a592193a8f3211ffde5045732120a6"
 }
