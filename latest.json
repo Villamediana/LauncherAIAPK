@@ -1,7 +1,7 @@
 {
-  "versionCode": 459,
-  "versionName": "1.175.3",
-  "notes": "Home mais econômica: as animações dividem o mesmo quadro e desaceleram na economia de bateria",
+  "versionCode": 460,
+  "versionName": "1.175.4",
+  "notes": "Neon: o dinheiro guardado já entra no total de cristais",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "9720fc610f9ad4f5eac183513077e8627eef2c61f85977ddde1aa9f9459aa438"
+  "sha256": "fba045f7cb7497be93295565b15742f713f26c4b3f2f8daee05093369b26d0d1"
 }
