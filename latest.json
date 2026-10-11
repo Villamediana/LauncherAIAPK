@@ -1,7 +1,7 @@
 {
-  "versionCode": 455,
-  "versionName": "1.174.4",
-  "notes": "Hangar: a peça segue o dedo e, solta em cima da nave, encosta do lado",
+  "versionCode": 456,
+  "versionName": "1.175.0",
+  "notes": "Neon Defense: Repulsão balanceada, cofre de cristais, chefes com imunidades, inimigos novos e o Abismo depois da onda 48",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "ee981995d2a07e82ed6f3f4dcf570c456549498433af059fb5b6866845a62535"
+  "sha256": "e9c0c932d1394226c3866a8751dbdc2c1708f11391784d3dbbea57eb3dc11848"
 }
