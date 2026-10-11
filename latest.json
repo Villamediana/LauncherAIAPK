@@ -1,7 +1,7 @@
 {
-  "versionCode": 452,
-  "versionName": "1.174.1",
-  "notes": "Neon Defense: dois toques em qualquer lugar dão dash na hora, na direção do toque",
+  "versionCode": 453,
+  "versionName": "1.174.2",
+  "notes": "Hangar: monte livremente, em qualquer posição e ângulo; encostou, prendeu",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "91c440702e0508981dcd439dafd9bdc72de19ce25c0732e97b620be3009e5bdc"
+  "sha256": "12034c4dadfb9946257341a4ec917a0d52a419a89ebb2d423288e5360f0b7fcf"
 }
