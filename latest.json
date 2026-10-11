@@ -1,7 +1,7 @@
 {
-  "versionCode": 453,
-  "versionName": "1.174.2",
-  "notes": "Hangar: monte livremente, em qualquer posição e ângulo; encostou, prendeu",
+  "versionCode": 454,
+  "versionName": "1.174.3",
+  "notes": "A pílula não bloqueia mais os botões ao lado; acorde longo no Palco não quebra a linha",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "12034c4dadfb9946257341a4ec917a0d52a419a89ebb2d423288e5360f0b7fcf"
+  "sha256": "3a474808008835cc91b38b9aa06eb9d60afe280f36fec83b979d50a10719e71c"
 }
