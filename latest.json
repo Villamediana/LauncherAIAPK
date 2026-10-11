@@ -1,7 +1,7 @@
 {
-  "versionCode": 438,
-  "versionName": "1.168.0",
-  "notes": "Jogos com som e música (feitos no próprio celular). Cobrinha: uma vida, câmera plana, sem boca abrindo. Neon Defense: melhorias ficam para sempre, velocidade do tiro, limites (crítico até 80%), 21 segredos ao completar atributos, classe secreta após o 1º chefe, regeneração comprada, mais difícil, loja explicada e tela Como jogar.",
+  "versionCode": 439,
+  "versionName": "1.168.1",
+  "notes": "Corrige o fechamento da Cobrinha quando aparecia a estrela dourada ou o portal, e as abas apertadas do laboratório do Neon Defense.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4bac217adec3d80a6b85fe66d563ce2e2456bf786c9c92ee8132ff5ee874aa0f"
+  "sha256": "d8761da151805d4eee5ed4b78e95ace6a35d7a03b74017175e5f9da8c7b98f47"
 }
