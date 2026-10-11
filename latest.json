@@ -1,7 +1,7 @@
 {
-  "versionCode": 456,
-  "versionName": "1.175.0",
-  "notes": "Neon Defense: Repulsão balanceada, cofre de cristais, chefes com imunidades, inimigos novos e o Abismo depois da onda 48",
+  "versionCode": 457,
+  "versionName": "1.175.1",
+  "notes": "Neon: o cofre aparece como +N ao lado dos cristais e rende mais",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e9c0c932d1394226c3866a8751dbdc2c1708f11391784d3dbbea57eb3dc11848"
+  "sha256": "39ce8d03ea3a048adad0f2e13f24981fc88cb2799657d894d7e13e0fff79ff0b"
 }
