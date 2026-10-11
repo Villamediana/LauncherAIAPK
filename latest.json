@@ -1,7 +1,7 @@
 {
-  "versionCode": 440,
-  "versionName": "1.169.0",
-  "notes": "Cobrinha: talento a cada fase que fica até o fim da partida, 2 vidas (vida extra rara), 5 segundos de fantasma ao perder vida ou escudo para se ajeitar, e fases iniciais com bem menos paredes.",
+  "versionCode": 441,
+  "versionName": "1.170.0",
+  "notes": "Neon Defense: inimigos mais inteligentes que mudam a cada fase (interceptam, cercam, flanqueiam, emboscam e desviam), com aviso e câmera em cada fase nova. Dinheiro da partida vale só para a partida; melhoria permanente agora é só com cristais no laboratório.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "63a8e29e4f5939e97ecd705caf293ab6d1347127554a31d53368e603e5526b85"
+  "sha256": "3569a8043d835d3da95be7368b13e9931a3a43e8a2b5c1411a1b9032a713854b"
 }
