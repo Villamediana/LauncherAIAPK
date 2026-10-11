@@ -1,7 +1,7 @@
 {
-  "versionCode": 446,
-  "versionName": "1.171.1",
-  "notes": "Palco: cifra limpa e inteira, chat fecha e o Palco fica, carrossel desliza; piano usa gravação; Cobrinha com estrela invencível e até 10 vidas; Neon com itens na partida e dash melhor",
+  "versionCode": 447,
+  "versionName": "1.172.0",
+  "notes": "Gênese: reis, eleições, revoltas, crimes e magia; atributos; 10 bichos novos; interface nova com abas, zoom, minimapa e seguir alguém; mais leve na bateria. Cifras com acentos certos. Neon: mais cristais",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6b3c4b342c9f996dda1644a82dc1343c622ef6bb4606258b9743a1bc42343d11"
+  "sha256": "6115ceb5ddea571ada4b5d17cab580822f47ee0f689f29a469a617f84c7c10b8"
 }
