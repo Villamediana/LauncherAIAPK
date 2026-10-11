@@ -1,7 +1,7 @@
 {
-  "versionCode": 439,
-  "versionName": "1.168.1",
-  "notes": "Corrige o fechamento da Cobrinha quando aparecia a estrela dourada ou o portal, e as abas apertadas do laboratório do Neon Defense.",
+  "versionCode": 440,
+  "versionName": "1.169.0",
+  "notes": "Cobrinha: talento a cada fase que fica até o fim da partida, 2 vidas (vida extra rara), 5 segundos de fantasma ao perder vida ou escudo para se ajeitar, e fases iniciais com bem menos paredes.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "d8761da151805d4eee5ed4b78e95ace6a35d7a03b74017175e5f9da8c7b98f47"
+  "sha256": "63a8e29e4f5939e97ecd705caf293ab6d1347127554a31d53368e603e5526b85"
 }
