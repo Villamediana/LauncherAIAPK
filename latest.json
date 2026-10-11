@@ -1,7 +1,7 @@
 {
-  "versionCode": 449,
-  "versionName": "1.173.1",
-  "notes": "Hangar novo: nave de casco inteiro, peças desenhadas, arrastar e soltar",
+  "versionCode": 450,
+  "versionName": "1.173.2",
+  "notes": "Hangar: a nave original no centro, peças presas em volta dela",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "92682e9f75df57ecb228b03a7dd3fc8695b20e52b8dfc69f3d23b041c6ac673e"
+  "sha256": "31af9d788b9a4efe0a8c73abd6fd78693cd52db3e6a333e3fb5ee9f2e7190da3"
 }
