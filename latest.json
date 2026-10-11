@@ -1,7 +1,7 @@
 {
-  "versionCode": 436,
-  "versionName": "1.167.0",
-  "notes": "Jogo novo: Neon Defense. Você é uma nave numa arena neon: hordas procedurais de todos os lados, chefes a cada 10 ondas, dinheiro das mortes para melhorar na hora, bônus a cada 5 ondas, 8 habilidades e laboratório com melhorias permanentes e níveis de dificuldade.",
+  "versionCode": 437,
+  "versionName": "1.167.1",
+  "notes": "Neon Defense mais bonito: nebulosa e estrelas, nave que inclina, inimigos com rastro, entrada de chefe cinematográfica, botões animados, segurar para comprar na loja e muito mais.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "4f7bd5c43ba60078c1ea19e703138bfaf3b3203cae40ac87f108eebad0a54d3b"
+  "sha256": "c155a2434976ef3bd679fb82ed568c65dc3b05e5c2a9259c0d939649ff00ea9d"
 }
