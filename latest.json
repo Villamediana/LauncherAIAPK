@@ -1,7 +1,7 @@
 {
-  "versionCode": 454,
-  "versionName": "1.174.3",
-  "notes": "A pílula não bloqueia mais os botões ao lado; acorde longo no Palco não quebra a linha",
+  "versionCode": 455,
+  "versionName": "1.174.4",
+  "notes": "Hangar: a peça segue o dedo e, solta em cima da nave, encosta do lado",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "3a474808008835cc91b38b9aa06eb9d60afe280f36fec83b979d50a10719e71c"
+  "sha256": "ee981995d2a07e82ed6f3f4dcf570c456549498433af059fb5b6866845a62535"
 }
