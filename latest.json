@@ -1,7 +1,7 @@
 {
-  "versionCode": 445,
-  "versionName": "1.171.0",
-  "notes": "Novo jogo: Gênese — um mundo vivo onde dois humanos viram povos, com bichos, clima, dia e noite, e você como Deus",
+  "versionCode": 446,
+  "versionName": "1.171.1",
+  "notes": "Palco: cifra limpa e inteira, chat fecha e o Palco fica, carrossel desliza; piano usa gravação; Cobrinha com estrela invencível e até 10 vidas; Neon com itens na partida e dash melhor",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "a78d394af5b007fbc37fc86ebcb8c74f0ccb53ddf97e17d15c75d18e4356922e"
+  "sha256": "6b3c4b342c9f996dda1644a82dc1343c622ef6bb4606258b9743a1bc42343d11"
 }
