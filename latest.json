@@ -1,7 +1,7 @@
 {
-  "versionCode": 430,
-  "versionName": "1.162.1",
-  "notes": "Clima ao vivo: prévia animada nos Ajustes (com seu papel de parede, opção marcada, 'Agora' = tempo real), sem bagunçar a Home; céu sempre animado (só mais devagar na economia de bateria)",
+  "versionCode": 431,
+  "versionName": "1.163.0",
+  "notes": "Piano: 'toca X no piano' acha o MIDI sozinho ou transcreve uma versão do YouTube; câmera que afasta pra mostrar as duas mãos; partitura sem piscar, com cursor acompanhando",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "609a0466e9d1a35e791ed8847c482423fd97caf781b7c6ce58ae89b45f0a429c"
+  "sha256": "541303217a4be88d5b345d12186ceeaf0f7cefcd357b488e99f0c3ee16c8772e"
 }
