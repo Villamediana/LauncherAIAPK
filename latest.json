@@ -1,7 +1,7 @@
 {
-  "versionCode": 442,
-  "versionName": "1.170.1",
-  "notes": "Cobrinha: o jogo espera enquanto a câmera mostra o portal (sem bater fora da tela); a escolha entre fases agora é um atributo só para a fase seguinte (Veloz, Calma, Resistente, Vida extra, Etérea e outros), sem acumular.",
+  "versionCode": 443,
+  "versionName": "1.170.2",
+  "notes": "Neon Defense: ao passar de fase a vida enche 25%; rolar a lista de melhorias não compra mais sem querer.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f838382206b367994829813dc83ab331fe9cd78de5304d5c1184cd7f71547290"
+  "sha256": "580cbc559d817f51930f0a0cb4c1eb63ef978eaf52614f760dbdf7a834718499"
 }
