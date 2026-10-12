@@ -1,0 +1,24 @@
+{
+  "version": "0.1.0",
+  "notes": "Primeira versão da Luna no computador: o rosto, a conversa e a memória da Luna, numa janela própria. Instala sem senha de administrador. A chave ainda é colada nos ajustes; o pareamento com o celular vem na próxima.",
+  "publishedAt": "2026-10-12T22:48:11Z",
+  "windows": {
+    "installer": {
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.1.0/LunaSetup-0.1.0.exe",
+      "sha256": "f43d4d291877b893e178e07dffe22b70564f5736697e28912d190796b6d0200a",
+      "size": 71999248
+    },
+    "portable": {
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.1.0/Luna-0.1.0-win-portable.zip",
+      "sha256": "3f0ab6e665ebc93c6637fc60205197c1b2447f531c05c954d0f4f56687df226e",
+      "size": 75163885
+    }
+  },
+  "linux": {
+    "appimage": {
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.1.0/Luna-0.1.0-x86_64.AppImage",
+      "sha256": "d1adc8b9165ed1df73613c1a1963f9d6d7ee01eec1e29cae4aab232ec226cca9",
+      "size": 80480760
+    }
+  }
+}
