@@ -1,7 +1,7 @@
 {
-  "versionCode": 467,
-  "versionName": "1.179.0",
-  "notes": "Japonês com kanji na pronúncia da letra; nova tela de escuta com ondas do som",
+  "versionCode": 468,
+  "versionName": "1.179.1",
+  "notes": "Por dentro: o núcleo da Luna virou um módulo separado, preparando a Luna no computador. Nada muda no uso.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6ab9c9cc1885da0e3fd75cf5c71bffc60952596f37375d1fa058a356fee06fd5"
+  "sha256": "0d7956f218cbb673359a2490843c8c99372deddb795b68c7546d8b4cef87145c"
 }
