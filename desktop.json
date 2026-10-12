@@ -1,24 +1,24 @@
 {
-  "version": "0.1.0",
-  "notes": "Primeira versão da Luna no computador: o rosto, a conversa e a memória da Luna, numa janela própria. Instala sem senha de administrador. A chave ainda é colada nos ajustes; o pareamento com o celular vem na próxima.",
-  "publishedAt": "2026-10-12T22:48:11Z",
+  "version": "0.2.0",
+  "notes": "Pareamento com o celular: leia o QR (ou digite o código) em Ajustes › Sistema › Luna no computador, confira os emojis, e as chaves, a memória e os ajustes do celular vêm pra cá.",
+  "publishedAt": "2026-10-12T23:18:25Z",
   "windows": {
     "installer": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.1.0/LunaSetup-0.1.0.exe",
-      "sha256": "f43d4d291877b893e178e07dffe22b70564f5736697e28912d190796b6d0200a",
-      "size": 71999248
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.2.0/LunaSetup-0.2.0.exe",
+      "sha256": "e88812d716356804618c43a878a90be7a711f0d56f1f7c6c776475ade61b181e",
+      "size": 81282524
     },
     "portable": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.1.0/Luna-0.1.0-win-portable.zip",
-      "sha256": "3f0ab6e665ebc93c6637fc60205197c1b2447f531c05c954d0f4f56687df226e",
-      "size": 75163885
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.2.0/Luna-0.2.0-win-portable.zip",
+      "sha256": "b8ebcf7f4ccc5fa170ef95ea7ced53a00616acc2a26777d67f60b885d51417db",
+      "size": 84479862
     }
   },
   "linux": {
     "appimage": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.1.0/Luna-0.1.0-x86_64.AppImage",
-      "sha256": "d1adc8b9165ed1df73613c1a1963f9d6d7ee01eec1e29cae4aab232ec226cca9",
-      "size": 80480760
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.2.0/Luna-0.2.0-x86_64.AppImage",
+      "sha256": "f97ea9404a7482c1723eef818f0a922eb197b6ef8aec992e1c5d488ef0d84ab7",
+      "size": 89762296
     }
   }
 }
