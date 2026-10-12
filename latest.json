@@ -1,7 +1,7 @@
 {
-  "versionCode": 468,
-  "versionName": "1.179.1",
-  "notes": "Por dentro: o núcleo da Luna virou um módulo separado, preparando a Luna no computador. Nada muda no uso.",
+  "versionCode": 469,
+  "versionName": "1.180.0",
+  "notes": "Luna no computador: em Ajustes › Sistema, baixe a Luna pro Windows ou Linux e pareie lendo o QR. Ela leva suas chaves, memória e ajustes.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "0d7956f218cbb673359a2490843c8c99372deddb795b68c7546d8b4cef87145c"
+  "sha256": "020061e46dcb44fe5d7ca726bbd30fc78b597d3602d3338e43b4323995944173"
 }
