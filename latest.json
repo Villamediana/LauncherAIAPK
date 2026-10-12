@@ -1,7 +1,7 @@
 {
-  "versionCode": 466,
-  "versionName": "1.178.0",
-  "notes": "Letras de música no Palco, com tradução; cifras de outros sites sem o lixo da página",
+  "versionCode": 467,
+  "versionName": "1.179.0",
+  "notes": "Japonês com kanji na pronúncia da letra; nova tela de escuta com ondas do som",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "5e4ac317165422d9a603c95a1bdd530c3b6fa7b7ab309b6a9ba6f925430a89f7"
+  "sha256": "6ab9c9cc1885da0e3fd75cf5c71bffc60952596f37375d1fa058a356fee06fd5"
 }
