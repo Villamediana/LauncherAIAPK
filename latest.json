@@ -1,7 +1,7 @@
 {
-  "versionCode": 462,
-  "versionName": "1.176.1",
-  "notes": "Neon: continuar não traz o dinheiro nem os bônus; botões lado a lado",
+  "versionCode": 463,
+  "versionName": "1.176.2",
+  "notes": "Neon: continuar mantém as melhorias que você tinha ao morrer",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "2ffca92e56a54896bb5a9b71ed7a16b2aba0d0ee1565d21d850747f426326c85"
+  "sha256": "340b76a0bb0600cb30c82a4317580185d4ba754570e6a67e1fab78b96164c938"
 }
