@@ -1,7 +1,7 @@
 {
-  "versionCode": 465,
-  "versionName": "1.177.0",
-  "notes": "Luna tira os acordes do próprio áudio e monta a cifra no Palco",
+  "versionCode": 466,
+  "versionName": "1.178.0",
+  "notes": "Letras de música no Palco, com tradução; cifras de outros sites sem o lixo da página",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "229f22918b605cd1d18d49d1876a941a99396590bd93270dcb7eebac352359dc"
+  "sha256": "5e4ac317165422d9a603c95a1bdd530c3b6fa7b7ab309b6a9ba6f925430a89f7"
 }
