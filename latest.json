@@ -1,7 +1,7 @@
 {
-  "versionCode": 464,
-  "versionName": "1.176.3",
-  "notes": "Bateria: jogos limitados a 60 quadros e a Home para atrás de um jogo aberto",
+  "versionCode": 465,
+  "versionName": "1.177.0",
+  "notes": "Luna tira os acordes do próprio áudio e monta a cifra no Palco",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "aeaa9ff895f440ab95427de4726fce2fadcf38b905a765f2f4a7840c941452c2"
+  "sha256": "229f22918b605cd1d18d49d1876a941a99396590bd93270dcb7eebac352359dc"
 }
