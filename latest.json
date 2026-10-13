@@ -1,7 +1,7 @@
 {
-  "versionCode": 471,
-  "versionName": "1.181.1",
-  "notes": "Fase 6 da Luna no computador: delegue tarefas e envie mensagens, links e arquivos entre celular e PC. Pareamento mais confiável e controle para aceitar pedidos de outros aparelhos.",
+  "versionCode": 472,
+  "versionName": "1.181.2",
+  "notes": "Pareamento e sincronização com o Luna desktop mais confiáveis, incluindo confirmação somente após salvar e melhor presença entre aparelhos.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "eb453fe5dc19002f2ad42d52c59a286aa0b4247d43b224b9ff9c0272c88fc4a3"
+  "sha256": "f847c96a4958ad171f466994c8da3f92628fc9c42bb7553c717f0c906d55d6a1"
 }
