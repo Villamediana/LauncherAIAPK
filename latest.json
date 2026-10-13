@@ -1,7 +1,7 @@
 {
-  "versionCode": 469,
-  "versionName": "1.180.0",
-  "notes": "Luna no computador: em Ajustes › Sistema, baixe a Luna pro Windows ou Linux e pareie lendo o QR. Ela leva suas chaves, memória e ajustes.",
+  "versionCode": 470,
+  "versionName": "1.181.0",
+  "notes": "Luna no computador agora mantém memória, ajustes e uma conversa única sincronizados continuamente com o celular, mostrando em qual aparelho cada mensagem nasceu.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "020061e46dcb44fe5d7ca726bbd30fc78b597d3602d3338e43b4323995944173"
+  "sha256": "17744c59076c2ba97d87f4ac6f165fa9b764dd7deb540f5d0c7ea0f575fcc3bc"
 }
