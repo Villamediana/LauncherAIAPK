@@ -1,30 +1,30 @@
 {
-  "version": "0.4.0",
-  "notes": "Atualização automática, barra flutuante com Ctrl+Shift+Espaço, voz, bandeja e abrir no login.",
-  "publishedAt": "2026-10-13T19:13:29Z",
+  "version": "0.5.0",
+  "notes": "Controle de tela no Windows e Linux, Palco e nova interface flutuante.",
+  "publishedAt": "2026-10-13T20:53:09Z",
   "windows": {
     "installer": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.4.0/LunaSetup-0.4.0.exe",
-      "sha256": "4404c21f73e6709bf555fb0b250b65ce715162ef6e1aff26a4a213ad1af75b1f",
-      "size": 81675346
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.5.0/LunaSetup-0.5.0.exe",
+      "sha256": "bf80640a01fa3cf67476726de771a11acbaef5a23fe7f0ad5506c7fc6799a236",
+      "size": 82360820
     },
     "portable": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.4.0/Luna-0.4.0-win-portable.zip",
-      "sha256": "34cacc21957f7a17d379bc832a96f9ecb057a7d31d8afa758351d474d5165d02",
-      "size": 84886978
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.5.0/Luna-0.5.0-win-portable.zip",
+      "sha256": "6f6ede00e5352db12057c812c69ce04e1cc26160ff791f8a2d6f2b3f21c84d16",
+      "size": 85614693
     },
     "update": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.4.0/Luna-0.4.0-win-app.zip",
-      "sha256": "5f509b8f85cd276e25da04dc91ba8081452097e27138bdbef0024a9b6bbb35c7",
-      "size": 48869991,
-      "runtime": "3bd47b64f3f3c0b7"
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.5.0/Luna-0.5.0-win-app.zip",
+      "sha256": "b2a186f44ffb56a59daf6f56d36194e557df56c33931e01ee011ae1a07da89c9",
+      "size": 49453825,
+      "runtime": "cc40e6b2fa21a0e4"
     }
   },
   "linux": {
     "appimage": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.4.0/Luna-0.4.0-x86_64.AppImage",
-      "sha256": "0929a82e0c6c58f94f01b9dd4eb52be35ffa083d139b8498d0f5d42423c04327",
-      "size": 90098168
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.5.0/Luna-0.5.0-x86_64.AppImage",
+      "sha256": "7d0d9c14dd8eb919ef6b641ebfa0b407755d647e73864b252972a73ac29d0083",
+      "size": 91261432
     }
   }
 }
