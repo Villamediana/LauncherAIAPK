@@ -1,7 +1,7 @@
 {
-  "versionCode": 470,
-  "versionName": "1.181.0",
-  "notes": "Luna no computador agora mantém memória, ajustes e uma conversa única sincronizados continuamente com o celular, mostrando em qual aparelho cada mensagem nasceu.",
+  "versionCode": 471,
+  "versionName": "1.181.1",
+  "notes": "Fase 6 da Luna no computador: delegue tarefas e envie mensagens, links e arquivos entre celular e PC. Pareamento mais confiável e controle para aceitar pedidos de outros aparelhos.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "17744c59076c2ba97d87f4ac6f165fa9b764dd7deb540f5d0c7ea0f575fcc3bc"
+  "sha256": "eb453fe5dc19002f2ad42d52c59a286aa0b4247d43b224b9ff9c0272c88fc4a3"
 }
