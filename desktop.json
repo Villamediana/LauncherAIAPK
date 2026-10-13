@@ -1,24 +1,24 @@
 {
-  "version": "0.2.0",
-  "notes": "Pareamento com o celular: leia o QR (ou digite o código) em Ajustes › Sistema › Luna no computador, confira os emojis, e as chaves, a memória e os ajustes do celular vêm pra cá.",
-  "publishedAt": "2026-10-12T23:18:25Z",
+  "version": "0.3.0",
+  "notes": "Sincronização contínua entre celular e computador: memória, conversa única e ajustes nos dois sentidos, com origem das mensagens e despareamento remoto.",
+  "publishedAt": "2026-10-13T18:23:13Z",
   "windows": {
     "installer": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.2.0/LunaSetup-0.2.0.exe",
-      "sha256": "e88812d716356804618c43a878a90be7a711f0d56f1f7c6c776475ade61b181e",
-      "size": 81282524
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.3.0/LunaSetup-0.3.0.exe",
+      "sha256": "0d527695756b12b5295091901ef43f0497b9c52fca02ca08abcccbcb814304a0",
+      "size": 81469319
     },
     "portable": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.2.0/Luna-0.2.0-win-portable.zip",
-      "sha256": "b8ebcf7f4ccc5fa170ef95ea7ced53a00616acc2a26777d67f60b885d51417db",
-      "size": 84479862
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.3.0/Luna-0.3.0-win-portable.zip",
+      "sha256": "33d4fac0d9805356748555c674842e2399695271e9ca21824d27138fbb9cb15c",
+      "size": 84680969
     }
   },
   "linux": {
     "appimage": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.2.0/Luna-0.2.0-x86_64.AppImage",
-      "sha256": "f97ea9404a7482c1723eef818f0a922eb197b6ef8aec992e1c5d488ef0d84ab7",
-      "size": 89762296
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.3.0/Luna-0.3.0-x86_64.AppImage",
+      "sha256": "b8b48ce6c2e36734dd556a65e6cd9d33d91846c52007ab3571e82966f3a1c189",
+      "size": 89893368
     }
   }
 }
