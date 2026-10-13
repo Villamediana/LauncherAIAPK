@@ -1,24 +1,30 @@
 {
-  "version": "0.3.0",
-  "notes": "Sincronização contínua entre celular e computador: memória, conversa única e ajustes nos dois sentidos, com origem das mensagens e despareamento remoto.",
-  "publishedAt": "2026-10-13T18:23:13Z",
+  "version": "0.4.0",
+  "notes": "Atualização automática, barra flutuante com Ctrl+Shift+Espaço, voz, bandeja e abrir no login.",
+  "publishedAt": "2026-10-13T19:13:29Z",
   "windows": {
     "installer": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.3.0/LunaSetup-0.3.0.exe",
-      "sha256": "0d527695756b12b5295091901ef43f0497b9c52fca02ca08abcccbcb814304a0",
-      "size": 81469319
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.4.0/LunaSetup-0.4.0.exe",
+      "sha256": "4404c21f73e6709bf555fb0b250b65ce715162ef6e1aff26a4a213ad1af75b1f",
+      "size": 81675346
     },
     "portable": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.3.0/Luna-0.3.0-win-portable.zip",
-      "sha256": "33d4fac0d9805356748555c674842e2399695271e9ca21824d27138fbb9cb15c",
-      "size": 84680969
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.4.0/Luna-0.4.0-win-portable.zip",
+      "sha256": "34cacc21957f7a17d379bc832a96f9ecb057a7d31d8afa758351d474d5165d02",
+      "size": 84886978
+    },
+    "update": {
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.4.0/Luna-0.4.0-win-app.zip",
+      "sha256": "5f509b8f85cd276e25da04dc91ba8081452097e27138bdbef0024a9b6bbb35c7",
+      "size": 48869991,
+      "runtime": "3bd47b64f3f3c0b7"
     }
   },
   "linux": {
     "appimage": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.3.0/Luna-0.3.0-x86_64.AppImage",
-      "sha256": "b8b48ce6c2e36734dd556a65e6cd9d33d91846c52007ab3571e82966f3a1c189",
-      "size": 89893368
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.4.0/Luna-0.4.0-x86_64.AppImage",
+      "sha256": "0929a82e0c6c58f94f01b9dd4eb52be35ffa083d139b8498d0f5d42423c04327",
+      "size": 90098168
     }
   }
 }
