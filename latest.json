@@ -1,7 +1,7 @@
 {
-  "versionCode": 472,
-  "versionName": "1.181.2",
-  "notes": "Pareamento e sincronização com o Luna desktop mais confiáveis, incluindo confirmação somente após salvar e melhor presença entre aparelhos.",
+  "versionCode": 473,
+  "versionName": "1.182.0",
+  "notes": "Integração com Luna desktop 0.7.0: Palco e criações enviados entre aparelhos, contratos de ferramentas compartilhados e correções de pareamento, sincronização, cancelamento e entrega. Atualize também a Luna no computador.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "f847c96a4958ad171f466994c8da3f92628fc9c42bb7553c717f0c906d55d6a1"
+  "sha256": "412a4f63526aa207b134f1144b9f5b542fa58e0cc7b0c55e2dcdd411daae4f04"
 }
