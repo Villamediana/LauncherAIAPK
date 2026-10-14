@@ -1,7 +1,7 @@
 {
-  "versionCode": 475,
-  "versionName": "1.182.2",
-  "notes": "Fluxo geral entre aparelhos corrigido: confirmação ativa, tarefas nos dois sentidos, confirmação de recebimento e retorno sem delegação circular. Etapas de tela mais rápidas e leitura atualizada da janela real. Atualize também Luna desktop para 0.7.3 e reinicie o PC.",
+  "versionCode": 476,
+  "versionName": "1.182.3",
+  "notes": "Integração com Luna desktop 0.7.4: MCPs habilitados e ferramentas visuais disponíveis por chamadas diretas criptografadas, sem outra conversa com o modelo. Resultados, cifras, piano, letras e conversões voltam à conversa da barra do PC. Atualize ambos e reinicie a Luna no computador.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "755e901409aaf0c7559d891907a69d23246882a080dc3e15dcad7f52f11df5c1"
+  "sha256": "279a92f59a26a65aef63cc57f8658dba9dcf5a77f7d7358c7f14a700d984a00c"
 }
