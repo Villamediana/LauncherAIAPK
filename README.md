@@ -1,7 +1,7 @@
 # LauncherAIAPK
 Distribuição do Aura Launcher e da Luna para computador.
 
-## Celular — 1.182.1 (474)
+## Celular — 1.182.2 (475)
 
 [Baixar o APK](https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk). Instale sobre a versão atual para preservar seus dados.
 
@@ -12,11 +12,11 @@ Atualize também o computador para receber os resultados visuais do Palco entre 
 
 A mesma Luna do celular, no Windows e no Linux. Instala sem senha de administrador.
 
-**Windows** — [LunaSetup-0.7.2.exe](https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.7.2/LunaSetup-0.7.2.exe) · instala só pra você, em `%LOCALAPPDATA%\Programs\Luna`.
+**Windows** — [LunaSetup-0.7.3.exe](https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.7.3/LunaSetup-0.7.3.exe) · instala só pra você, em `%LOCALAPPDATA%\Programs\Luna`.
 O Windows pode avisar "O Windows protegeu o computador": clique em **Mais informações → Executar assim mesmo** (o instalador ainda não é assinado; isso não pede senha).
-Se o computador bloquear instaladores, use a versão que roda de qualquer pasta: [Luna-0.7.2-win-portable.zip](https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.7.2/Luna-0.7.2-win-portable.zip) — descompacte e abra `Luna.exe`.
+Se o computador bloquear instaladores, use a versão que roda de qualquer pasta: [Luna-0.7.3-win-portable.zip](https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.7.3/Luna-0.7.3-win-portable.zip) — descompacte e abra `Luna.exe`.
 
-**Linux** — [Luna-0.7.2-x86_64.AppImage](https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.7.2/Luna-0.7.2-x86_64.AppImage) · `chmod +x` e abra; `./Luna-0.7.2-x86_64.AppImage --install` coloca no menu.
+**Linux** — [Luna-0.7.3-x86_64.AppImage](https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.7.3/Luna-0.7.3-x86_64.AppImage) · `chmod +x` e abra; `./Luna-0.7.3-x86_64.AppImage --install` coloca no menu.
 
 Depois de instalada, a Luna se atualiza sozinha: baixa a versão nova em segundo plano e ela entra ao reiniciar a Luna. Reabrir a janela da Luna ainda rodando na bandeja mostra a instância atual imediatamente.
 
@@ -25,7 +25,16 @@ Depois de instalada, a Luna se atualiza sozinha: baixa a versão nova em segundo
 Memória, conversa e chaves ficam em `%APPDATA%\Luna` (Windows) ou `~/.local/share/luna` (Linux).
 <!-- /luna-desktop -->
 
-## Correções 0.7.2 / 1.182.1
+## Fluxo entre aparelhos — 0.7.3 / 1.182.2
+
+- Verificação ativa de presença, confirmação de execução e resposta devolvida ao solicitante nos dois sentidos.
+- Tarefas não podem ficar sendo delegadas de volta ao aparelho que as pediu.
+- Controle de tela usa a janela real, leitura sem cache após ações e etapas com raciocínio curto.
+- Ações e endereços continuam escolhidos pela Luna; sem regras específicas para sites ou apps.
+
+Atualize ambos os aparelhos e reinicie a Luna no PC.
+
+## Correções anteriores — 0.7.2 / 1.182.1
 
 - Pareamento salvo antes de confirmar, preservado ao fechar o painel e protegido contra avisos antigos de despareamento.
 - Instalação do `luna-hands` corrigida; a primeira atualização usa o pacote completo para reparar o launcher anterior.

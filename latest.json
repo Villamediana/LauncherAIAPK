@@ -1,7 +1,7 @@
 {
-  "versionCode": 474,
-  "versionName": "1.182.1",
-  "notes": "Correções do pareamento com o PC: vínculo gravado antes de confirmar e sincronização sem disputar a conexão de parear. Presença prioritária, reconexão mais rápida e retomada imediata ao trocar/recuperar rede. Atualize também Luna desktop para 0.7.2 e reinicie o aplicativo no PC.",
+  "versionCode": 475,
+  "versionName": "1.182.2",
+  "notes": "Fluxo geral entre aparelhos corrigido: confirmação ativa, tarefas nos dois sentidos, confirmação de recebimento e retorno sem delegação circular. Etapas de tela mais rápidas e leitura atualizada da janela real. Atualize também Luna desktop para 0.7.3 e reinicie o PC.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "020968d1532b7539b51e174921b6552e881a3371cd443ff8ae8536e3d963a8e1"
+  "sha256": "755e901409aaf0c7559d891907a69d23246882a080dc3e15dcad7f52f11df5c1"
 }
