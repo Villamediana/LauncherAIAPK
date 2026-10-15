@@ -1,7 +1,7 @@
 {
-  "versionCode": 478,
-  "versionName": "1.182.5",
-  "notes": "Áudio do chat só é enviado ao confirmar. Sincroniza servidores e tokens MCP para execução direta no PC, além das chaves e do Jev.",
+  "versionCode": 479,
+  "versionName": "1.182.6",
+  "notes": "Áudio do chat: grave por até 2 minutos em qualquer modo de voz. Ao atingir o limite, confirme Enviar ou Descartar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "6cd0ef5ee985583a5cfed4d1c88516bc6a9e27c498b447d861dbb5586c216ba1"
+  "sha256": "3bdfd72e53570f04e0957672d8de4c6241dc131d5e37b4fa986011e2546bc50e"
 }
