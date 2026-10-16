@@ -1,7 +1,7 @@
 {
-  "versionCode": 479,
-  "versionName": "1.182.6",
-  "notes": "Áudio do chat: grave por até 2 minutos em qualquer modo de voz. Ao atingir o limite, confirme Enviar ou Descartar.",
+  "versionCode": 480,
+  "versionName": "1.183.0",
+  "notes": "Vínculo entre aparelhos com reconexão automática, presença verificada e confirmação de recebimento. Reconecte preservando seus dados e pareamentos.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "3bdfd72e53570f04e0957672d8de4c6241dc131d5e37b4fa986011e2546bc50e"
+  "sha256": "8c2871de7aadf5434e16f1915824819e453b97c13b20ed56ef7acfc6bc849733"
 }
