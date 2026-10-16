@@ -1,7 +1,7 @@
 {
-  "versionCode": 480,
-  "versionName": "1.183.0",
-  "notes": "Vínculo entre aparelhos com reconexão automática, presença verificada e confirmação de recebimento. Reconecte preservando seus dados e pareamentos.",
+  "versionCode": 481,
+  "versionName": "1.183.1",
+  "notes": "Corrige filas do vínculo: descarta presença antiga de aparelhos removidos e recupera entregas após falhas temporárias.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "8c2871de7aadf5434e16f1915824819e453b97c13b20ed56ef7acfc6bc849733"
+  "sha256": "c8fa4cd95e26d6b5c854af207dad53514a44ef0595dce5633f08402ead121b8f"
 }
