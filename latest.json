@@ -1,7 +1,7 @@
 {
-  "versionCode": 481,
-  "versionName": "1.183.1",
-  "notes": "Corrige filas do vínculo: descarta presença antiga de aparelhos removidos e recupera entregas após falhas temporárias.",
+  "versionCode": 482,
+  "versionName": "1.184.0",
+  "notes": "Luna responde em segundos e mostra o que está pensando; o microfone abre uma conversa ao vivo com a voz da ElevenLabs (fale por cima para interromper), e o PC alcança o celular na hora.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "c8fa4cd95e26d6b5c854af207dad53514a44ef0595dce5633f08402ead121b8f"
+  "sha256": "2e6f7f95d8812657b47825053571f693581eea56bb381a3f2e1b71afd39fc735"
 }
