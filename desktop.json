@@ -1,30 +1,30 @@
 {
-  "version": "0.8.1",
-  "notes": "Corrige filas do vínculo: descarta presença antiga de aparelhos removidos e recupera entregas após falhas temporárias.",
-  "publishedAt": "2026-10-16T15:09:38Z",
+  "version": "0.9.0",
+  "notes": "Responde em segundos e mostra ao vivo o que está pensando e fazendo; a resposta aparece enquanto é escrita. Modo voz (Ctrl+Alt+Espaço) vira conversa ao vivo com a ElevenLabs, com ondas novas, e os pedidos entre PC e celular chegam na hora.",
+  "publishedAt": "2026-10-16T23:13:50Z",
   "windows": {
     "installer": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.8.1/LunaSetup-0.8.1.exe",
-      "sha256": "ce8e8be718872892f7e43535318cc07c9de59304cff1598b0eeac2686187ec26",
-      "size": 301500360
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.9.0/LunaSetup-0.9.0.exe",
+      "sha256": "851ecf30c728f26e2982616d8ecbe529ebd1fdbee056f22daa29f82987b4a7b0",
+      "size": 301626366
     },
     "portable": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.8.1/Luna-0.8.1-win-portable.zip",
-      "sha256": "0c7bf7f9fa3dad020389148736f55e976930f773ec7be26990049329c85d6fa1",
-      "size": 305780485
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.9.0/Luna-0.9.0-win-portable.zip",
+      "sha256": "5192446fbd0c4a9b76191df897d6ab7bab2a790c38a8f4c467b6fd6aa883f31a",
+      "size": 305918595
     },
     "update": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.8.1/Luna-0.8.1-win-app.zip",
-      "sha256": "1401c8a99a89f34e7313d5633bf81659e8596a7db31d1ff146363fb491ded095",
-      "size": 269619442,
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.9.0/Luna-0.9.0-win-app.zip",
+      "sha256": "909cd7306ebc8dae8747d13194223eeedf36d37c27670748da4921985dc3eefe",
+      "size": 269757552,
       "runtime": "1cc5bab8a4a04083"
     }
   },
   "linux": {
     "appimage": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.8.1/Luna-0.8.1-x86_64.AppImage",
-      "sha256": "13881d6ce686bc8620db2899aba0cd9d358d28bd8386ad534b45ffff8a537673",
-      "size": 292170232
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.9.0/Luna-0.9.0-x86_64.AppImage",
+      "sha256": "1b977422167c0e6c57efd777eba741863c83fcb7bfc127f1575e918ec99d9243",
+      "size": 292309496
     }
   }
 }
