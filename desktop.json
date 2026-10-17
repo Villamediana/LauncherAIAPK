@@ -1,30 +1,30 @@
 {
-  "version": "0.10.2",
-  "notes": "A conversa por voz volta a ouvir você direitinho; se o microfone estiver mudo, ela avisa.",
-  "publishedAt": "2026-10-17T06:23:40Z",
+  "version": "0.10.3",
+  "notes": "Conversa com o celular mais econômica: quando a tela do celular apaga, o PC passa a checar a cada 5 minutos.",
+  "publishedAt": "2026-10-17T08:06:13Z",
   "windows": {
     "installer": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.10.2/LunaSetup-0.10.2.exe",
-      "sha256": "77b2de731541853d9bbc1eeffb70001543d480314537d56b2dc755f0a04b2623",
-      "size": 301934569
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.10.3/LunaSetup-0.10.3.exe",
+      "sha256": "aa1e9d93d51fbdfe29ded61405ab138059978da4f8df0810327f7505055a78cf",
+      "size": 301912034
     },
     "portable": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.10.2/Luna-0.10.2-win-portable.zip",
-      "sha256": "5b07e761cd441dd6a80157c12d24c2b4b2e78a88da0ee7dbf3e732d3109c24d6",
-      "size": 306240497
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.10.3/Luna-0.10.3-win-portable.zip",
+      "sha256": "9137cf270ff1a4d103701242e535b170303435db38d505651d961904578d810f",
+      "size": 306245218
     },
     "update": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.10.2/Luna-0.10.2-win-app.zip",
-      "sha256": "d881a18d62cbeab063aa69c433751a33b04dbb2c7832c7faa1db2de88291804f",
-      "size": 270079445,
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.10.3/Luna-0.10.3-win-app.zip",
+      "sha256": "de889b67c6c36b54b5e4337cdcdb078f9934825982604a694262f94abf78c30c",
+      "size": 270084168,
       "runtime": "1cc5bab8a4a04083"
     }
   },
   "linux": {
     "appimage": {
-      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.10.2/Luna-0.10.2-x86_64.AppImage",
-      "sha256": "228951fd5d1b429df799559f1964ebb65c83686ba1400ac95dc4ee5c9666c373",
-      "size": 292481528
+      "url": "https://github.com/Villamediana/LauncherAIAPK/releases/download/desktop-v0.10.3/Luna-0.10.3-x86_64.AppImage",
+      "sha256": "438963323348d356d42567283797a94357d5ee3aec9bfbbe2b164efb6520d71e",
+      "size": 292485624
     }
   }
 }
