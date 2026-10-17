@@ -1,7 +1,7 @@
 {
-  "versionCode": 487,
-  "versionName": "1.187.0",
-  "notes": "Seu dia: tela cheia com o resumo do dia montado pela Luna, abre sozinha no horário escolhido",
+  "versionCode": 488,
+  "versionName": "1.188.0",
+  "notes": "Luna fala nas ligações: liga (ou assume a atual), ouve, responde, digita no teclado, passa pra você e desliga; ligação de WhatsApp",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "e5182f414b9e59e3508274bed190df9205fc98b871920dd45e90c51d1c830719"
+  "sha256": "351f0fa220a10d31ef9f6b82a2b3a5115f9f74b9a71b560c5952850fd817fdd3"
 }
