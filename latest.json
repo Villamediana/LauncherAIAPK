@@ -1,7 +1,7 @@
 {
-  "versionCode": 485,
-  "versionName": "1.185.2",
-  "notes": "A conversa por voz volta a ouvir você direitinho; se o microfone estiver mudo, ela avisa.",
+  "versionCode": 486,
+  "versionName": "1.186.0",
+  "notes": "Bateria: com a tela apagada o celular para de conversar com o PC a cada 15 segundos; a Home desacelera quando você não está mexendo e para por baixo da gaveta e dos Ajustes; jogos mais frios (60 Hz, 30 fps quando esquenta, desenho mais leve, som pausa no mudo).",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "3ccd5c6cfc13205a15f2cae6023737279ff627901470a979c43591e0f162e618"
+  "sha256": "418d9c422ad5d06f8e622e999c1fde97c6500947aca19bb52d0c507cfc3a2f87"
 }
