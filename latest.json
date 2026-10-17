@@ -1,7 +1,7 @@
 {
-  "versionCode": 482,
-  "versionName": "1.184.0",
-  "notes": "Luna responde em segundos e mostra o que está pensando; o microfone abre uma conversa ao vivo com a voz da ElevenLabs (fale por cima para interromper), e o PC alcança o celular na hora.",
+  "versionCode": 483,
+  "versionName": "1.185.0",
+  "notes": "Conversa por voz continua com a tela apagada e usa o fone Bluetooth; copiou no PC, cola no celular; respostas mais rápidas e baratas com cache e raciocínio que se aprofunda só quando algo dá errado.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "2e6f7f95d8812657b47825053571f693581eea56bb381a3f2e1b71afd39fc735"
+  "sha256": "1df366ab12945cb21767af4a7a08a5e114c1692eac0f76cbf2e760a9c022e232"
 }
