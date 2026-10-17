@@ -1,7 +1,7 @@
 {
-  "versionCode": 488,
-  "versionName": "1.188.0",
-  "notes": "Luna fala nas ligações: liga (ou assume a atual), ouve, responde, digita no teclado, passa pra você e desliga; ligação de WhatsApp",
+  "versionCode": 489,
+  "versionName": "1.188.1",
+  "notes": "Modo voz: não perde o começo da pergunta, não fala 'Luna:', não trava; segurar a orbe recomeça",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "351f0fa220a10d31ef9f6b82a2b3a5115f9f74b9a71b560c5952850fd817fdd3"
+  "sha256": "04c3a27bee8717aff43092b3aba41420f7e0fb86ef86aa7b50109d845392418d"
 }
