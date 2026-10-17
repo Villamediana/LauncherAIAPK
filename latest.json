@@ -1,7 +1,7 @@
 {
-  "versionCode": 484,
-  "versionName": "1.185.1",
-  "notes": "Corrige o eco na conversa por voz, inclusive logo após a fala da Luna, e mostra no orbe quando ela está ouvindo, pensando ou falando. Toque no orbe para encerrar a conversa.",
+  "versionCode": 485,
+  "versionName": "1.185.2",
+  "notes": "A conversa por voz volta a ouvir você direitinho; se o microfone estiver mudo, ela avisa.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "53f94a49442410adaabe9fa3623a00f2cf68abd71612a0ff7b89aa2a73b5b23d"
+  "sha256": "3ccd5c6cfc13205a15f2cae6023737279ff627901470a979c43591e0f162e618"
 }
