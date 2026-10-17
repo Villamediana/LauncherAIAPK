@@ -1,7 +1,7 @@
 {
-  "versionCode": 483,
-  "versionName": "1.185.0",
-  "notes": "Conversa por voz continua com a tela apagada e usa o fone Bluetooth; copiou no PC, cola no celular; respostas mais rápidas e baratas com cache e raciocínio que se aprofunda só quando algo dá errado.",
+  "versionCode": 484,
+  "versionName": "1.185.1",
+  "notes": "Corrige o eco na conversa por voz, inclusive logo após a fala da Luna, e mostra no orbe quando ela está ouvindo, pensando ou falando. Toque no orbe para encerrar a conversa.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LauncherAIAPK/main/aura.apk",
-  "sha256": "1df366ab12945cb21767af4a7a08a5e114c1692eac0f76cbf2e760a9c022e232"
+  "sha256": "53f94a49442410adaabe9fa3623a00f2cf68abd71612a0ff7b89aa2a73b5b23d"
 }
